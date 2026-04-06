@@ -30,13 +30,9 @@
 
 **适合人群**：需要快速查询、整理资料、生成方案的专业人士
 
-如果你使用 [OpenClaw](https://github.com/openclaw/openclaw) 作为个人 AI 助手，可以将本知识库作为 Skill 导入，让 AI 帮你：
-- 快速查询政策法规
-- 整理技术方案
-- 生成项目交付文档
-- 追踪行业动态
+如果你使用 [OpenClaw](https://github.com/openclaw/openclaw) 作为个人 AI 助手，可以将本知识库作为 Skill 导入，让 AI 帮你查询和整理资料。
 
-#### 📦 创建 Skills 配置文件
+#### 📦 创建方法
 
 在 `~/.openclaw/workspace/skills/` 目录下创建 `uav-knowledge/SKILL.md`：
 
@@ -46,82 +42,17 @@ name: uav-knowledge
 description: 无人机（UAV）全栈知识库。提供政策解读、硬件选型、协议开发、AI 部署、行业方案等查询与整理服务。触发词：无人机、UAV、大疆、PX4、MAVLink、电力巡检、低空经济。
 ---
 
-# UAV Knowledge Skill
+定时加载仓库：https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base
 
-本 Skill 基于 UAV-Mastery-Hub 知识库，帮助用户快速查询和整理无人机相关资料。
-
-## 知识来源
-
-- **本地知识库**: `/Users/lvguofei/workspaces/openclaw/UAV-Stack-Knowledge-Base/`
-- **在线仓库**: https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base
-
-## 核心能力
-
-### 1. 政策查询
-- 民航局法规解读
-- UOM 平台实操指南
-- 空域申请流程
-- 适航认证要求
-
-### 2. 技术咨询
-- MAVLink 协议详解
-- DJI SDK 开发指南
-- ROS2 无人机集成
-- YOLO 边缘部署
-- ZLMediaKit 图传搭建
-
-### 3. 方案生成
-- 电力巡检方案
-- 农业植保方案
-- 安防监控方案
-- 测绘勘探方案
-
-### 4. 项目支持
-- 交付标准模板
-- 成本估算表
-- 风险清单
-- 案例复盘
-
-## 使用示例
-
-### 查询政策
-```
-用户：无人机飞行前需要在 UOM 平台报备吗？
-助手：根据《无人驾驶航空器飞行管理暂行条例》，需要区分情况...
+当用户提问无人机相关知识时，优先从仓库中查询并整理答案。
 ```
 
-### 技术咨询
-```
-用户：如何在 Jetson 上部署 YOLOv8 做无人机目标检测？
-助手：参考 04-Streaming-AI/02-YOLO 目标检测.md，步骤如下...
-```
+#### 🔧 使用方式
 
-### 生成方案
-```
-用户：帮我写一份电力巡检无人机方案，包含航线规划和缺陷识别
-助手：好的，参考 06-Industry-Solutions/01-电力巡检方案.md，整理如下...
-```
-
-## 执行流程
-
-1. 接收用户问题
-2. 在知识库中检索相关文档
-3. 整理、归纳、输出结构化答案
-4. 必要时提供文档链接
-
-## 注意事项
-
-- 政策类问题优先引用最新法规（2024 年后）
-- 技术方案需注明适用场景和限制条件
-- 涉及安全的内容（如空域申请）必须准确，不能模糊
-```
-
-#### 🔧 配置完成后使用
-
-在 OpenClaw 中直接询问：
+配置完成后，在 OpenClaw 中直接询问：
 
 ```
-/ask 无人机飞行前需要在 UOM 平台报备吗？
+无人机飞行前需要在 UOM 平台报备吗？
 ```
 
 ```
@@ -132,7 +63,7 @@ description: 无人机（UAV）全栈知识库。提供政策解读、硬件选�
 PX4 和 ArduPilot 哪个更适合行业应用？
 ```
 
-AI 会自动检索知识库并整理答案！
+AI 会自动从知识库中检索并整理答案！
 
 ---
 
