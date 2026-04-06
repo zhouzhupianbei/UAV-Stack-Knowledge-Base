@@ -100,7 +100,7 @@ graph LR
 
 ```mermaid
 graph TB
-    subgraph 应用层📱
+    subgraph Application["应用层"]
         F1[电力巡检] --> F2[农业植保]
         F2 --> F3[安防监控]
         F3 --> F4[测绘勘探]
@@ -108,53 +108,54 @@ graph TB
         F5 --> F6[物流配送]
     end
     
-    subgraph 可视化层🗺️
+    subgraph Visualization["可视化层"]
         E1[Cesium 三维地图] --> E2[倾斜摄影建模]
         E2 --> E3[点云处理]
         E3 --> E4[航迹可视化]
     end
     
-    subgraph 流媒体层📹
+    subgraph Streaming["流媒体层"]
         D1[ZLMediaKit] --> D2[SRT/RTMP 推流]
         D2 --> D3[HLS/FLV 分发]
         D3 --> D4[WebRTC 低延迟]
     end
     
-    subgraph 算法层🤖
+    subgraph Algorithm["算法层"]
         C1[YOLO 目标检测] --> C2[SLAM 定位]
         C2 --> C3[路径规划]
         C3 --> C4[边缘计算部署]
     end
     
-    subgraph 协议层🔌
+    subgraph Protocol["协议层"]
         B1[MAVLink 通信] --> B2[DJI SDK]
         B2 --> B3[ROS/ROS2]
         B3 --> B4[自定义协议]
     end
     
-    subgraph 硬件层✈️
+    subgraph Hardware["硬件层"]
         A1[飞行平台] --> A2[动力系统]
         A2 --> A3[飞控系统]
         A3 --> A4[传感器负载]
         A4 --> A5[图传数传]
     end
     
-    subgraph 政策层📋
+    subgraph Policy["政策层"]
         P1[民航局法规] --> P2[UOM 平台]
         P2 --> P3[空域申请]
         P3 --> P4[适航认证]
     end
     
-    政策层 --> 硬件层
-    硬件层 --> 协议层
-    协议层 --> 算法层
-    算法层 --> 流媒体层
-    流媒体层 --> 可视化层
-    可视化层 --> 应用层
+    Policy --> Hardware
+    Hardware --> Protocol
+    Protocol --> Algorithm
+    Algorithm --> Streaming
+    Streaming --> Visualization
+    Visualization --> Application
     
     style F1 fill:#e3f2fd
     style B1 fill:#fff3e0
     style D1 fill:#f3e5f5
+    style Policy fill:#ffebee
 ```
 
 > 📌 **9 大模块，覆盖从政策到代码的全链路** —— 不只是资料收集，更是实战指南
