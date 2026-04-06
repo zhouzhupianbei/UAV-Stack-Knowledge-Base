@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/zhouzhupianbei/UAV-Stack-Knowledge-Base.svg)](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/zhouzhupianbei/UAV-Stack-Knowledge-Base.svg)](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base/commits/main)
-[![Daily Updates](https://img.shields.io/badge/Updates-Daily-green.svg)](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base/commits/main)
+[![Active Maintenance](https://img.shields.io/badge/Maintenance-Active-green.svg)](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base/commits/main)
 
 ---
 
@@ -20,7 +20,7 @@
 | ❌ 政策分散难查找 | 到处搜官网、论坛、微信群 | ✅ **政策汇编 + UOM 实操指南**，1 小时搞定合规报备 |
 | ❌ 技术栈太复杂 | 买课、报培训班、踩坑自学 | ✅ **全链路知识图谱**，从 MAVLink 到 YOLO 一站式学习 |
 | ❌ 项目交付没标准 | 靠经验、靠摸索、靠运气 | ✅ **交钥匙方案 + 验收模板**，直接复用成熟案例 |
-| ❌ 行业动态跟不上 | 关注 10+ 公众号、刷各种群 | ✅ **每日自动更新**，政策/技术/产品动态主动推送 |
+| ❌ 行业动态跟不上 | 关注 10+ 公众号、刷各种群 | ✅ **持续追踪**，政策/技术/产品动态及时整理 |
 
 ### 📊 低空经济风口已来
 
@@ -204,11 +204,12 @@ graph TB
 - ✅ 学习路径可视化
 - ✅ 各模块知识图谱
 
-### 🔄 每日自动更新
+### 🔄 持续维护更新
+
+我们长期追踪以下来源，保持内容与行业同步：
 
 ```yaml
-更新频率：每日 02:30
-追踪来源:
+资料来源:
   - 政策法规：民航局官网、UOM 平台、各省市政策
   - 技术进展：PX4/ArduPilot 博客、DJI 开发者社区
   - 行业应用：无人机世界、全球无人机网
