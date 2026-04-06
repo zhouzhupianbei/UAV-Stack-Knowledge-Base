@@ -401,6 +401,25 @@ MIT License © 2026 UAV-Mastery-Hub Contributors
 
 ---
 
+## 📱 关注公众号
+
+**获取更多无人机行业资讯、技术分享和最新更新！**
+
+<div align="center">
+
+![公众号二维码](./assets/qrcode_for_gh_9fa0628852ff_258.jpg)
+
+**扫描二维码关注公众号** 👆
+
+- 📰 行业政策解读
+- 🔧 技术实战分享
+- 📊 项目案例复盘
+- 🎯 前沿技术追踪
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🌟 如果这个项目对你有帮助
