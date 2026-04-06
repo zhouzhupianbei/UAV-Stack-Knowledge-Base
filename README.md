@@ -245,17 +245,61 @@ graph TB
 
 ## 📚 9 大核心模块
 
-| 模块 | 内容 | 适合谁 | 核心价值 |
-|------|------|--------|----------|
-| **00** 🚀 QuickStart | 行业认知、术语表、学习路径 | 新手入门 | 30 分钟建立系统认知 |
-| **01** 📋 Policy-Standard | 法规汇编、UOM 平台、空域申请 | 合规负责人 | 1 小时搞定飞行报备 |
-| **02** 🔧 Hardware-Systems | 飞行平台、动力、传感器、图传 | 硬件工程师 | 选型不踩坑 |
-| **03** 🔌 Protocols-Dev | MAVLink、DJI SDK、ROS2 | 开发工程师 | 协议解析 + 代码模板 |
-| **04** 🤖 Streaming-AI | ZLMediaKit、YOLO、SLAM | AI 算法工程师 | 边缘部署实战 |
-| **05** 🗺️ GIS-DigitalTwin | Cesium、倾斜摄影、点云 | GIS 工程师 | 三维可视化方案 |
-| **06** 🏭 Industry-Solutions | 电力/农业/安防/测绘方案 | 系统集成商 | 交钥匙方案 |
-| **07** 🛠️ OpenSource-Awesome | 开源飞控、地面站、工具链 | 开发者 | 站在巨人肩膀上 |
-| **08** 📊 Project-Analysis | 交付标准、成本估算、案例复盘 | 项目负责人 | 避坑 + 控成本 |
+### 📖 详细目录
+
+#### **00 🚀 QuickStart - 入门区**
+- [行业全景图](./00-QuickStart/01-行业全景图.md) — 了解无人机分类与应用场景
+- [术语表](./00-QuickStart/02-术语表.md) — 掌握 50+ 核心概念
+- [学习路径图](./00-QuickStart/03-学习路径图.md) — 规划成长路线
+- [避坑指南](./00-QuickStart/04-避坑指南.md) — 新手常见错误与解决方案
+
+#### **01 📋 Policy-Standard - 政策区**
+- [法规汇编](./01-Policy-Standard/01-法规汇编.md) — 《无人驾驶航空器飞行管理暂行条例》解读
+- [UOM 平台实操](./01-Policy-Standard/02-UOM 平台实操.md) — 飞行报备流程指南
+- [禁飞区查询](./01-Policy-Standard/03-禁飞区查询.md) — 全国禁飞区/限飞区查询方法
+- [行业标准](./01-Policy-Standard/04-行业标准.md) — 无人机行业技术标准汇总
+
+#### **02 🔧 Hardware-Systems - 硬件层**
+- [飞行平台选型](./02-Hardware-Systems/01-飞行平台选型.md) — 多旋翼/固定翼/垂起固定翼对比
+- [动力系统](./02-Hardware-Systems/02-动力系统.md) — 电机、电调、螺旋桨选型
+- [传感器详解](./02-Hardware-Systems/03-传感器详解.md) — IMU、GPS、气压计、空速管
+- [图传系统](./02-Hardware-Systems/04-图传系统.md) — 数字图传、模拟图传、4G/5G 图传
+
+#### **03 🔌 Protocols-Dev - 协议层**
+- [MAVLink 协议详解](./03-Protocols-Dev/01-MAVLink 协议详解.md) — 消息结构与常用命令
+- [DJI SDK 对比](./03-Protocols-Dev/02-DJI-SDK 对比.md) — OSDK/PSDK/MSDK 选型指南
+- [ROS2 无人机集成](./03-Protocols-Dev/03-ROS2 无人机集成.md) — 从仿真到真机
+- [通信模版代码](./03-Protocols-Dev/04-通信模版代码.md) — Python/Java 示例代码
+
+#### **04 🤖 Streaming-AI - 算法层**
+- [ZLMediaKit 部署](./04-Streaming-AI/01-ZLMediaKit 部署.md) — 低延迟直播搭建
+- [YOLO 目标检测](./04-Streaming-AI/02-YOLO 目标检测.md) — Jetson/RK3588 边缘部署
+- [边缘计算方案](./04-Streaming-AI/03-边缘计算方案.md) — 无人机上的 AI 推理优化
+- [SLAM 入门](./04-Streaming-AI/04-SLAM 入门.md) — 视觉/激光 SLAM 定位
+
+#### **05 🗺️ GIS-DigitalTwin - 空间层**
+- [Cesium 入门](./05-GIS-DigitalTwin/01-Cesium 入门.md) — 三维地球引擎基础
+- [倾斜摄影建模](./05-GIS-DigitalTwin/02-倾斜摄影建模.md) — 实景三维建模流程
+- [点云处理](./05-GIS-DigitalTwin/03-点云处理.md) — 激光雷达点云数据处理
+- [三维重建流程](./05-GIS-DigitalTwin/04-三维重建流程.md) — 从照片到三维模型
+
+#### **06 🏭 Industry-Solutions - 方案层**
+- [电力巡检方案](./06-Industry-Solutions/01-电力巡检方案.md) — 航线规划 + 缺陷识别
+- [农业植保方案](./06-Industry-Solutions/02-农业植保方案.md) — 变量喷洒 + 多光谱
+- [安防监控方案](./06-Industry-Solutions/03-安防监控方案.md) — 实时图传 + AI 预警
+- [测绘勘探方案](./06-Industry-Solutions/04-测绘勘探方案.md) — 正射影像 + 三维建模
+
+#### **07 🛠️ OpenSource-Awesome - 生态区**
+- [开源飞控](./07-OpenSource-Awesome/01-开源飞控.md) — ArduPilot、PX4、Betaflight
+- [地面站软件](./07-OpenSource-Awesome/02-地面站软件.md) — QGroundControl、Mission Planner
+- [云端平台](./07-OpenSource-Awesome/03-云端平台.md) — 无人机云系统、机库调度
+- [开发工具链](./07-OpenSource-Awesome/04-开发工具链.md) — 仿真、调试、部署工具
+
+#### **08 📊 Project-Analysis - 实战区**
+- [项目交付标准](./08-Project-Analysis/01-项目交付标准.md) — 验收文档模板
+- [避坑指南](./08-Project-Analysis/02-避坑指南.md) — 项目交付常见陷阱
+- [成本估算表](./08-Project-Analysis/03-成本估算表.md) — 硬件 + 软件 + 人力成本
+- [案例复盘](./08-Project-Analysis/04-案例复盘.md) — 真实项目经验总结
 
 ---
 
