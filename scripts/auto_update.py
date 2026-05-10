@@ -5,6 +5,7 @@ UAV-Stack-Knowledge-Base 自动更新脚本
 """
 
 import os
+import re
 import sys
 import json
 import ssl
@@ -58,6 +59,17 @@ def log(msg: str):
         pass
 
 
+def sanitize(text: str) -> str:
+    """移除 description 中的控制字符和非可视字符"""
+    if not text:
+        return ""
+    # 移除控制字符、零宽字符、替换 surrogates
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f\ud800-\udfff]', '', text)
+    # 移除多余空白但保留换行
+    text = re.sub(r'[ \t]+', ' ', text)
+    return text.strip()
+
+
 def search_github(query: str, limit: int = 5, min_stars: int = 100) -> list[dict]:
     """通过 GitHub REST API 搜索仓库"""
     encoded_q = urllib.parse.quote(query)
@@ -90,7 +102,7 @@ def fetch_github_projects() -> list[dict]:
                 results.append({
                     "full_name": r["full_name"],
                     "stargazers_count": r["stargazers_count"],
-                    "description": r.get("description") or "无描述",
+                    "description": sanitize(r.get("description")) or "无描述",
                     "html_url": r["html_url"],
                     "topics": r.get("topics", [])[:5],
                 })
