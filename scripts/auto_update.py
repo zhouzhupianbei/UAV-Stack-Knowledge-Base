@@ -32,13 +32,18 @@ GITHUB_TOPICS = [
     "无人机巡检",
 ]
 
-# 微信搜索关键词（暂时无法采集，留空占位）
+# 微信搜索关键词
 WECHAT_KEYWORDS = [
     "无人机",
     "低空经济",
     "大疆行业",
     "PX4 飞控",
+    "无人机巡检",
+    "eVTOL",
 ]
+
+# 微信文章采集脚本路径（jisu-wechat-article skill）
+WECHAT_SCRIPT = Path("/Users/lvguofei/.openclaw/workspace/skills/jisu-wechat-article/search.py")
 
 # GitHub API 设置
 API_CTX = ssl.create_default_context()
@@ -60,14 +65,18 @@ def log(msg: str):
 
 
 def sanitize(text: str) -> str:
-    """移除 description 中的控制字符和非可视字符"""
+    """移除 description 中的控制字符和非可视字符，限制长度"""
     if not text:
         return ""
     # 移除控制字符、零宽字符、替换 surrogates
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f\ud800-\udfff]', '', text)
     # 移除多余空白但保留换行
     text = re.sub(r'[ \t]+', ' ', text)
-    return text.strip()
+    text = text.strip()
+    # 描述超长肯定是垃圾数据，截断到 300 字符
+    if len(text) > 300:
+        text = text[:300] + "..."
+    return text
 
 
 def search_github(query: str, limit: int = 5, min_stars: int = 100) -> list[dict]:
@@ -114,11 +123,47 @@ def fetch_github_projects() -> list[dict]:
 
 
 def fetch_wechat_articles() -> list[dict]:
-    """获取微信公众号文章（占位，需外部工具）"""
+    """获取微信公众号文章（通过 jisu-wechat-article skill）"""
+    import subprocess
+
     log("📱 获取微信公众号文章...")
-    # 微信文章无公开 API，暂时无法采集
-    log("  ⚠ 微信文章暂无采集渠道，跳过")
-    return []
+    if not WECHAT_SCRIPT.exists():
+        log(f"  ⚠ 微信采集脚本未找到：{WECHAT_SCRIPT}，跳过")
+        return []
+
+    articles: list[dict] = []
+    seen_titles: set[str] = set()
+
+    for kw in WECHAT_KEYWORDS:
+        try:
+            result = subprocess.run(
+                ["python3", str(WECHAT_SCRIPT), kw, "-n", "5"],
+                capture_output=True, text=True, timeout=30,
+            )
+            # 脚本成功时返回 JSON；被风控时 exit_code=1 但仍返回 JSON 结果
+            if result.returncode not in (0, 1):
+                log(f"  ⚠ [{kw}] 采集失败：exit {result.returncode}")
+                continue
+            data = json.loads(result.stdout)
+            items = data.get("items", []) or []
+            log(f"  ✓ {kw}: {len(items)} 篇")
+            for it in items:
+                title = it.get("title", "")
+                if title and title not in seen_titles:
+                    seen_titles.add(title)
+                    articles.append({
+                        "title": title,
+                        "source": it.get("source_account", "未知"),
+                        "datetime": it.get("publish_time", "未知"),
+                        "url": it.get("detail_url") or it.get("url_real") or it.get("url", ""),
+                        "summary": it.get("summary", ""),
+                    })
+        except Exception as e:
+            log(f"  ⚠ [{kw}] 异常：{e}")
+            continue
+
+    log(f"✅ 共获取 {len(articles)} 篇不重复微信文章")
+    return articles
 
 
 def update_resources(repos: list[dict]):
@@ -190,6 +235,7 @@ def update_memory(repos: list[dict], articles: list[dict]):
             content += f"""### {article.get('title', '无标题')}
 - **来源**: {article.get('source', '未知')}
 - **时间**: {article.get('datetime', '未知')}
+- **摘要**: {article.get('summary', '无')}
 - **链接**: {article.get('url', '')}
 
 """
