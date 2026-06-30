@@ -1115,3 +1115,35 @@
 - **链接**: [https://github.com/qqqlab/madflight](https://github.com/qqqlab/madflight)
 - **标签**: airplane, ardupilot, autopilot, betaflight, drone
 
+
+## 2026-06-30 更新
+
+### ecmnet/MAVGCL
+- **Stars**: 203
+- **描述**: In-Flight Analysis for PX4
+- **链接**: [https://github.com/ecmnet/MAVGCL](https://github.com/ecmnet/MAVGCL)
+- **标签**: autopilot, drone, ground-station, javafx-application, mavlink
+
+### hmakelin/gisnav
+- **Stars**: 85
+- **描述**: Estimates airborne drone global position by matching video to map retrieved from onboard GIS server.
+- **链接**: [https://github.com/hmakelin/gisnav](https://github.com/hmakelin/gisnav)
+- **标签**: ardupilot, autopilot, computer-vision, deep-learning, drone
+
+### asv-soft/asv-drones
+- **Stars**: 209
+- **描述**: Open source implementation of ground control station application for ArduPilot and PX4 autopilot
+- **链接**: [https://github.com/asv-soft/asv-drones](https://github.com/asv-soft/asv-drones)
+- **标签**: ardupilot, drones, linux, mac-osx, mavlink
+
+### alireza787b/mavsdk_drone_show
+- **Stars**: 301
+- **描述**: Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation
+- **链接**: [https://github.com/alireza787b/mavsdk_drone_show](https://github.com/alireza787b/mavsdk_drone_show)
+- **标签**: ai-agents, autonomous-drones, drone-show, drone-swarm, fleet-management
+
+
+> 本期共收录 4 个项目
+
+---
+
