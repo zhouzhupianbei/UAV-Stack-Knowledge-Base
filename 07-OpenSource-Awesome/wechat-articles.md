@@ -102,3 +102,41 @@
 
 ---
 
+
+## 2026-07-01 更新
+
+### 新书荐读|《 低空经济 与智慧城市协同发展研究》正式上架发售
+- **来源**: 广州城投发展研究院有限公司
+- **时间**: 2026-06-30 15:47:00
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9vAllLxHsU7KbGZ-SfhUj1QcwCEhBk7AHhrRvhMe9BJV3id21qpr3fWtq8xQthNuw7wGfGBsmWvcppF_NKvv00O8Z4Lz1nd2lI9wnIBLpKqNlLZoayL2zoqO6DB991XaJ4Q12Xyfgb0g2twCqdogEdmnHeuESvie0bwVdJvmcGIU89kyxDwoXvg..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9vAllLxHsU7KbGZ-SfhUj1QcwCEhBk7AHhrRvhMe9BJV3id21qpr3fWtq8xQthNuw7wGfGBsmWvcppF_NKvv00O8Z4Lz1nd2lI9wnIBLpKqNlLZoayL2zoqO6DB991XaJ4Q12Xyfgb0g2twCqdogEdmnHeuESvie0bwVdJvmcGIU89kyxDwoXvg..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9vAllLxHsU7KbGZ-SfhUj1QcwCEhBk7AHhrRvhMe9BJV3id21qpr3fWtq8xQthNuw7wGfGBsmWvcppF_NKvv00O8Z4Lz1nd2lI9wnIBLpKqNlLZoayL2zoqO6DB991XaJ4Q12Xyfgb0g2twCqdogEdmnHeuESvie0bwVdJvmcGIU89kyxDwoXvg..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D else 无
+- **摘要**: 城市发展迎来低空时代,智库研究赋能产业突围.近日,由广州城投研究院编撰的智库丛书首部著作——《 低空经济 与智慧城市协同发...
+
+### 西安科技大学 低空经济 技术研究院受邀参加首届西部商业航天大会共探空天产业融合新路径
+- **来源**: 西安科技大学测绘科学与技术学院
+- **时间**: 2026-06-30 09:48:33
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9h2W2DeaZqcgXSTfMmxjhVTRlmg1Jj0fP1_zQ1-FehSAduYnkYmFrLI_Ul7ZZoUfeuu-A_ANKODCkFpgLiyGIRIBCiCWILgVyn6Bw8eSUeMgD7F18cPVj9a_5ego4SFcOZK0ylNz3CftqGNrWjl7ulZb01NsRviQsc0R69z-LXD36zvkPgoArRQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9h2W2DeaZqcgXSTfMmxjhVTRlmg1Jj0fP1_zQ1-FehSAduYnkYmFrLI_Ul7ZZoUfeuu-A_ANKODCkFpgLiyGIRIBCiCWILgVyn6Bw8eSUeMgD7F18cPVj9a_5ego4SFcOZK0ylNz3CftqGNrWjl7ulZb01NsRviQsc0R69z-LXD36zvkPgoArRQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9h2W2DeaZqcgXSTfMmxjhVTRlmg1Jj0fP1_zQ1-FehSAduYnkYmFrLI_Ul7ZZoUfeuu-A_ANKODCkFpgLiyGIRIBCiCWILgVyn6Bw8eSUeMgD7F18cPVj9a_5ego4SFcOZK0ylNz3CftqGNrWjl7ulZb01NsRviQsc0R69z-LXD36zvkPgoArRQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D else 无
+- **摘要**: 西安科技大学 低空经济 技术研究院受邀参会,围绕 低空经济 、商业航天、时空信息、卫星遥感等领域,与政府部门、高校院所及行业企...
+
+### 中翼快讯|保险破冰、适航提速!中国 低空经济 正式开启全球化布局
+- **来源**: 中翼低空
+- **时间**: 2026-06-30 08:13:04
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd98lbhMoODNj5rt58M0QlKLTunf12PoKrEjymc7p5VInXBtZAyUPhuQ75NGKbr2TPsp_io5pbnbcBy06mNxesimdAeVNxXp-x9EA_dDgprhYEcz52eGFcWVgVqlDaNf0gUPGMBWPmPNlPE3Wdr0NPzDP6IxwtwV0tCwIwEDMB7I_G54z_tGSZTqA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd98lbhMoODNj5rt58M0QlKLTunf12PoKrEjymc7p5VInXBtZAyUPhuQ75NGKbr2TPsp_io5pbnbcBy06mNxesimdAeVNxXp-x9EA_dDgprhYEcz52eGFcWVgVqlDaNf0gUPGMBWPmPNlPE3Wdr0NPzDP6IxwtwV0tCwIwEDMB7I_G54z_tGSZTqA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd98lbhMoODNj5rt58M0QlKLTunf12PoKrEjymc7p5VInXBtZAyUPhuQ75NGKbr2TPsp_io5pbnbcBy06mNxesimdAeVNxXp-x9EA_dDgprhYEcz52eGFcWVgVqlDaNf0gUPGMBWPmPNlPE3Wdr0NPzDP6IxwtwV0tCwIwEDMB7I_G54z_tGSZTqA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D else 无
+- **摘要**: 国内 低空经济 长期面临“政策热、市场冷”的困境,商业化落地增速缓慢.在此背景下,国产低空企业借道香港实现关键突破,让 低空 ...
+
+### 低空经济 | 重庆两江四岸首次低空试飞顺利完成
+- **来源**: 空天视角
+- **时间**: 2026-06-30 19:52:21
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9_XiRK3UgU3PeCjAvjN6TmXW0ZmxuLUD7K_oKLyhpkULjRL8VjQ--HSPkWpEnx97haii7dcp1B8n1zAiqlJBAMg6SL_h1t-X6ojwL0cj_Ti_50HVLeNFdgkGiVurm9pW8qnx0l7tQu5c0dhTO5SFBR-l0ErNOgc2sP55T5fPugndf_71bqkOtiw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9_XiRK3UgU3PeCjAvjN6TmXW0ZmxuLUD7K_oKLyhpkULjRL8VjQ--HSPkWpEnx97haii7dcp1B8n1zAiqlJBAMg6SL_h1t-X6ojwL0cj_Ti_50HVLeNFdgkGiVurm9pW8qnx0l7tQu5c0dhTO5SFBR-l0ErNOgc2sP55T5fPugndf_71bqkOtiw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9_XiRK3UgU3PeCjAvjN6TmXW0ZmxuLUD7K_oKLyhpkULjRL8VjQ--HSPkWpEnx97haii7dcp1B8n1zAiqlJBAMg6SL_h1t-X6ojwL0cj_Ti_50HVLeNFdgkGiVurm9pW8qnx0l7tQu5c0dhTO5SFBR-l0ErNOgc2sP55T5fPugndf_71bqkOtiw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D else 无
+- **摘要**: 这将全方位丰富重庆低空新业态、完善城市公共服务功能,为山城 低空经济 高质量发展注入活力.网址:https://iicnet.cn/
+
+### 学习时报 | 全球 低空经济 产业链发展态势
+- **来源**: 中航讯Tech
+- **时间**: 2026-06-30 09:46:19
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9AFJK8dsM0UDGQAjykaR-fTKQZ-7Y2ojoguQt2qpy51f1hQ9N7OJNL83NQ4L4mV8ty3xO2liwBHu6on78ngjYA2HzRm24Im1AcmNZQgYbp3JZzPTI_-RFD-DpwHMeevvhTaRfqKmeL8RfRj6x2_lzYyc56p6itOtZiL9dz7tRPnyTJmCU1UgHwQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9AFJK8dsM0UDGQAjykaR-fTKQZ-7Y2ojoguQt2qpy51f1hQ9N7OJNL83NQ4L4mV8ty3xO2liwBHu6on78ngjYA2HzRm24Im1AcmNZQgYbp3JZzPTI_-RFD-DpwHMeevvhTaRfqKmeL8RfRj6x2_lzYyc56p6itOtZiL9dz7tRPnyTJmCU1UgHwQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CwouRBgeoa4j39AaxM0IdjlqXa8Fplpd9AFJK8dsM0UDGQAjykaR-fTKQZ-7Y2ojoguQt2qpy51f1hQ9N7OJNL83NQ4L4mV8ty3xO2liwBHu6on78ngjYA2HzRm24Im1AcmNZQgYbp3JZzPTI_-RFD-DpwHMeevvhTaRfqKmeL8RfRj6x2_lzYyc56p6itOtZiL9dz7tRPnyTJmCU1UgHwQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=F781AF6C6C26BF3A1D1A4860478617751D7F5AE36A44045D else 无
+- **摘要**: 加星标方法:戳关注,右上菜单栏“···”键,设为星标 低空经济 作为新质生产力的重要载体,正成为全球产业竞争的战略制高点....
+
+
+> 本期共收录 5 篇文章
+
+---
+
