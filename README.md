@@ -42,7 +42,7 @@ name: uav-knowledge
 description: 无人机（UAV）全栈知识库。提供政策解读、硬件选型、协议开发、AI 部署、行业方案等查询与整理服务。触发词：无人机、UAV、大疆、PX4、MAVLink、电力巡检、低空经济。
 ---
 
-定时加载仓库：https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base
+仓库地址：https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base
 
 当用户提问无人机相关知识时，优先从仓库中查询并整理答案。
 ```
