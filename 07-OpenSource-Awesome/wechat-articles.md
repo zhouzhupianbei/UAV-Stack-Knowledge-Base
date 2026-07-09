@@ -174,3 +174,47 @@
 
 ---
 
+
+## 2026-07-10 更新
+
+### 【震惊】＂ 无人机 ＂这下惨了?多家企业破产、上市公司亏上千万...
+- **来源**: 央视财经
+- **时间**: 2017-05-02 18:42:25
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DDywq3dbLvIZIFo88u6tiMaVgrFeYQugDiD-JplF0aduzRiGWjHzRR-K-etVtp1elry55G-pjF0fIj-iDZ-SoUL_d4VJLBo-z231oabPVY2e_p0_QlD9UZZa6y-lYc2uC3l5KHonRUhac0UlwhqlCVU-K1Mjzkj2JVqS8PmQFOKrJzApU1SVrgwOtPyDNhJjWncXXC7AR-1l1dhTgBSUm69Ey7d_-C-0VBEBs9dDv0bllFXJ-9xwM-zeHe5Y5PQ9pid2XKGkEh9oiZqwg0yoRFw.&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA&token=31E900159E77E86C4C4A1D7D204266C44C3ACDC16A4FE20D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DDywq3dbLvIZIFo88u6tiMaVgrFeYQugDiD-JplF0aduzRiGWjHzRR-K-etVtp1elry55G-pjF0fIj-iDZ-SoUL_d4VJLBo-z231oabPVY2e_p0_QlD9UZZa6y-lYc2uC3l5KHonRUhac0UlwhqlCVU-K1Mjzkj2JVqS8PmQFOKrJzApU1SVrgwOtPyDNhJjWncXXC7AR-1l1dhTgBSUm69Ey7d_-C-0VBEBs9dDv0bllFXJ-9xwM-zeHe5Y5PQ9pid2XKGkEh9oiZqwg0yoRFw.&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA&token=31E900159E77E86C4C4A1D7D204266C44C3ACDC16A4FE20D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DDywq3dbLvIZIFo88u6tiMaVgrFeYQugDiD-JplF0aduzRiGWjHzRR-K-etVtp1elry55G-pjF0fIj-iDZ-SoUL_d4VJLBo-z231oabPVY2e_p0_QlD9UZZa6y-lYc2uC3l5KHonRUhac0UlwhqlCVU-K1Mjzkj2JVqS8PmQFOKrJzApU1SVrgwOtPyDNhJjWncXXC7AR-1l1dhTgBSUm69Ey7d_-C-0VBEBs9dDv0bllFXJ-9xwM-zeHe5Y5PQ9pid2XKGkEh9oiZqwg0yoRFw.&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA&token=31E900159E77E86C4C4A1D7D204266C44C3ACDC16A4FE20D else 无
+- **摘要**: “从遥控玩具到“自拍神器”,近年来, 无人机 的发展可以说是风生水起,井喷式的状态也吸引了众多资本入局.然而就在今年年初,...
+
+### 2026安阳市—北京 低空经济 产业推介对接会举行
+- **来源**: 安阳融媒
+- **时间**: 2026-07-09 19:50:50
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd90unec5MuSCPMAG39LE9-vYwkvTlyzmtpxGeCQAo9sg887rOOMwuQQbJ8z1b51Dz03-SoSpUbTiZvWbB5HV9j4AlyxqnLkrWrIOZriGl5ZIxRN-uOOjcuR6ZKU-jSQN-GJCqj78zG3A-kiMD_d3KVi3296iTGP5pu6zvuym3i15xhWLv6O878UA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd90unec5MuSCPMAG39LE9-vYwkvTlyzmtpxGeCQAo9sg887rOOMwuQQbJ8z1b51Dz03-SoSpUbTiZvWbB5HV9j4AlyxqnLkrWrIOZriGl5ZIxRN-uOOjcuR6ZKU-jSQN-GJCqj78zG3A-kiMD_d3KVi3296iTGP5pu6zvuym3i15xhWLv6O878UA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd90unec5MuSCPMAG39LE9-vYwkvTlyzmtpxGeCQAo9sg887rOOMwuQQbJ8z1b51Dz03-SoSpUbTiZvWbB5HV9j4AlyxqnLkrWrIOZriGl5ZIxRN-uOOjcuR6ZKU-jSQN-GJCqj78zG3A-kiMD_d3KVi3296iTGP5pu6zvuym3i15xhWLv6O878UA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210 else 无
+- **摘要**: 京安协同聚势能 低空赋能启新程2026安阳市—北京 低空经济 产业推介对接会举行安阳融媒记者 黄亚楠 文/图低空逐梦,智启新程.7月...
+
+### 迪拜 低空经济 博览会 展商分享 | Dronico.aero 室内外空中无人机表演
+- **来源**: Domus Group 多慕斯集团
+- **时间**: 2026-07-09 12:16:16
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9biIJMmOzQXrXGcW8tPXjA8_lsgO2unlR-AOJ9zWpgwjuaP1XagoXOyMgYfTyEOw5vaxydw3HR9duO51LtJvtUPnbX51NlcBfpFpLZoSIBy7raBA4R08jY54lSgTjS-H_TRq90q1lgzgqaMnMs7wgAa5xgwqJQunbiJhTIwPThR_S-e4Yz84xMA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9biIJMmOzQXrXGcW8tPXjA8_lsgO2unlR-AOJ9zWpgwjuaP1XagoXOyMgYfTyEOw5vaxydw3HR9duO51LtJvtUPnbX51NlcBfpFpLZoSIBy7raBA4R08jY54lSgTjS-H_TRq90q1lgzgqaMnMs7wgAa5xgwqJQunbiJhTIwPThR_S-e4Yz84xMA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9biIJMmOzQXrXGcW8tPXjA8_lsgO2unlR-AOJ9zWpgwjuaP1XagoXOyMgYfTyEOw5vaxydw3HR9duO51LtJvtUPnbX51NlcBfpFpLZoSIBy7raBA4R08jY54lSgTjS-H_TRq90q1lgzgqaMnMs7wgAa5xgwqJQunbiJhTIwPThR_S-e4Yz84xMA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210 else 无
+- **摘要**: 战略和声誉远比短期利益重要.招商中:2026 年 12 月 14 - 16 日迪拜国际 低空经济 博览会暨世界无人机展
+
+### 全市征集|把脉荆州 低空经济 !创业导师义诊活动即将来袭
+- **来源**: 荆州市无人机协会
+- **时间**: 2026-07-09 13:11:58
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9tBnaEBCFZar2bvWD34D5KqSk2aPyFKnFJxnXBppyYqKj1fSnCLTyzRgKmE_Tgmv9HW_dCx4wMeFao7HsH5HKsCxvBVpC_i2Qr6-Zq8e3iGDrgq2ylXW-TzjYn46_BlWrmqaZLxsY2F1IHGVdpvp_eOQoJrPj8z80pVVna4gemGFhWLv6O878UA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9tBnaEBCFZar2bvWD34D5KqSk2aPyFKnFJxnXBppyYqKj1fSnCLTyzRgKmE_Tgmv9HW_dCx4wMeFao7HsH5HKsCxvBVpC_i2Qr6-Zq8e3iGDrgq2ylXW-TzjYn46_BlWrmqaZLxsY2F1IHGVdpvp_eOQoJrPj8z80pVVna4gemGFhWLv6O878UA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9tBnaEBCFZar2bvWD34D5KqSk2aPyFKnFJxnXBppyYqKj1fSnCLTyzRgKmE_Tgmv9HW_dCx4wMeFao7HsH5HKsCxvBVpC_i2Qr6-Zq8e3iGDrgq2ylXW-TzjYn46_BlWrmqaZLxsY2F1IHGVdpvp_eOQoJrPj8z80pVVna4gemGFhWLv6O878UA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210 else 无
+- **摘要**: 低空经济 ,是新质生产力的核心赛道,更是荆州重点布局的新兴产业.依托长江黄金水道优势,我市低空物流、航空植保、低空文旅、...
+
+### 协会动态|聊城市政协召开 低空经济 专题协商会议!
+- **来源**: 聊城航空产业协会
+- **时间**: 2026-07-09 11:53:18
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd92HBg_bKfjIJTe7t17NhHj8rtOejFmkAAXa-BhB-2mjfpK3v5VWJvjI6x55yKNF7aHxmxqZyPUx7EeOGbz0l99lTeAEczgIEL-_arBLxBLTCJqpuGo1i1lKoBzCfd0sc39tlIQE4HOQ4_vHybAfq_-F34JkpgdOUsuY_yQ0RwWQBj32-j2KiwUw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd92HBg_bKfjIJTe7t17NhHj8rtOejFmkAAXa-BhB-2mjfpK3v5VWJvjI6x55yKNF7aHxmxqZyPUx7EeOGbz0l99lTeAEczgIEL-_arBLxBLTCJqpuGo1i1lKoBzCfd0sc39tlIQE4HOQ4_vHybAfq_-F34JkpgdOUsuY_yQ0RwWQBj32-j2KiwUw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd92HBg_bKfjIJTe7t17NhHj8rtOejFmkAAXa-BhB-2mjfpK3v5VWJvjI6x55yKNF7aHxmxqZyPUx7EeOGbz0l99lTeAEczgIEL-_arBLxBLTCJqpuGo1i1lKoBzCfd0sc39tlIQE4HOQ4_vHybAfq_-F34JkpgdOUsuY_yQ0RwWQBj32-j2KiwUw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210 else 无
+- **摘要**: 2026年7月7日,聊城市政协召开“编制 低空经济 总体规划 推动我市 低空经济 加快发展”专题协商会议,市政协主席曾晓黎主持会议并...
+
+### 低空经济 爆火!别只做普通飞手,会装会修才是高薪刚需王者
+- **来源**: 迅鹰通航无人机培训
+- **时间**: 2026-07-09 16:23:55
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9VgCHPyMopIcjWtTkrxAVbliehR4V3dZtJF1dvTbTG6iUWB55rsfqQlD2WkA14eoSA3nTSrShcUbC8DoqfArfs9nYNVjJGkATQfCBVAL86tlb3Eo-Syvo-hQPwRCc-nb0ZA1rWa-_srEGwaFovZAqI0NmZjAUtRD6aRE-MBm_G9Xm0CtGSSkZQQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9VgCHPyMopIcjWtTkrxAVbliehR4V3dZtJF1dvTbTG6iUWB55rsfqQlD2WkA14eoSA3nTSrShcUbC8DoqfArfs9nYNVjJGkATQfCBVAL86tlb3Eo-Syvo-hQPwRCc-nb0ZA1rWa-_srEGwaFovZAqI0NmZjAUtRD6aRE-MBm_G9Xm0CtGSSkZQQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0my-2190RpqoYlHH-ZCYvfLVqXa8Fplpd9VgCHPyMopIcjWtTkrxAVbliehR4V3dZtJF1dvTbTG6iUWB55rsfqQlD2WkA14eoSA3nTSrShcUbC8DoqfArfs9nYNVjJGkATQfCBVAL86tlb3Eo-Syvo-hQPwRCc-nb0ZA1rWa-_srEGwaFovZAqI0NmZjAUtRD6aRE-MBm_G9Xm0CtGSSkZQQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=31E90D82E800991D3B3C6D0A5002D13B3BD64BE56A4FE210 else 无
+- **摘要**: 当下最火热的风口,绝对非 低空经济 莫属!政策持续加码、行业全面落地,无人机早已跳出航拍娱乐场景,深度渗透电力巡检、航空测...
+
+
+> 本期共收录 6 篇文章
+
+---
+
