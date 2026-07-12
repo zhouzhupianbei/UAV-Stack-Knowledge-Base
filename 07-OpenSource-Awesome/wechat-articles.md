@@ -218,3 +218,53 @@
 
 ---
 
+
+## 2026-07-13 更新
+
+### 已经开始收尾!AI副业、 低空经济 资金盘暴雷前兆!
+- **来源**: 十点风云
+- **时间**: 2026-07-12 07:32:20
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9abh5ExH__CpgnoL1Hi27QmspdpywJeTjacARpioXB8djZIW2yi_M15x1HP08qkyAYX5t_zS55-aZKtpg7IHgwdXO0Nhx5CQlCA7FeAcGcIiom3GbDipE855xvJltSVxRDns_ZIB5Du3bIS9sBCUvhbcSob-TE5LyNmvQMWAl3gotPujwwRB2Pw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9abh5ExH__CpgnoL1Hi27QmspdpywJeTjacARpioXB8djZIW2yi_M15x1HP08qkyAYX5t_zS55-aZKtpg7IHgwdXO0Nhx5CQlCA7FeAcGcIiom3GbDipE855xvJltSVxRDns_ZIB5Du3bIS9sBCUvhbcSob-TE5LyNmvQMWAl3gotPujwwRB2Pw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9abh5ExH__CpgnoL1Hi27QmspdpywJeTjacARpioXB8djZIW2yi_M15x1HP08qkyAYX5t_zS55-aZKtpg7IHgwdXO0Nhx5CQlCA7FeAcGcIiom3GbDipE855xvJltSVxRDns_ZIB5Du3bIS9sBCUvhbcSob-TE5LyNmvQMWAl3gotPujwwRB2Pw..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687 else 无
+- **摘要**: 二、空某视界除了AI副业骗局,蹭 低空经济 热点的空某视界,近期也在疯狂删帖控评,跑路迹象和崩盘前的盘子完全一致.项目假借无...
+
+### 关于 低空经济 等新兴支柱产业,国常会定调:全链条推动新兴支柱产业规模化发展!强化要素保障,优化监管模式,引导各地因地制宜、错位发展
+- **来源**: 供热系统服务
+- **时间**: 2026-07-12 13:03:34
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9fc93EHCW7AxpwVAfR4z_W27aYxX6L-CJHpzXpKX5EEPtTAx6WhSklk9rPhEPQyBSjnZ1e1edLoLZDKgB78DLVYecAnFqlU0bVSTM9U4eSO7Kdz19pfXMXQoYDeaXMORjImri5pVQl2PLygxm3sMdc0KGxFXqm2ne--9smPXX1vr1AfaFW2DefQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9fc93EHCW7AxpwVAfR4z_W27aYxX6L-CJHpzXpKX5EEPtTAx6WhSklk9rPhEPQyBSjnZ1e1edLoLZDKgB78DLVYecAnFqlU0bVSTM9U4eSO7Kdz19pfXMXQoYDeaXMORjImri5pVQl2PLygxm3sMdc0KGxFXqm2ne--9smPXX1vr1AfaFW2DefQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9fc93EHCW7AxpwVAfR4z_W27aYxX6L-CJHpzXpKX5EEPtTAx6WhSklk9rPhEPQyBSjnZ1e1edLoLZDKgB78DLVYecAnFqlU0bVSTM9U4eSO7Kdz19pfXMXQoYDeaXMORjImri5pVQl2PLygxm3sMdc0KGxFXqm2ne--9smPXX1vr1AfaFW2DefQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687 else 无
+- **摘要**: 工业和信息化部人才交流中心—低空战略规划师高级研修班8.20-23日西安、10月29-30日深圳 “十五五”时期 低空经济 最新政策、空...
+
+### 走进亿航智能: 低空经济 领军企业的无人机探索之旅
+- **来源**: 标杆学习俱乐部
+- **时间**: 2026-07-12 07:50:09
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9qEevGrWLEt7M3SqcSol31KRt0lz_bh1kg_VqAedcZb4B_0br56CM-6Wem1OictfJ_FTx4BnkFj2cqdPzdY2MYHs2Dc66baEGGkhD_27H62b3rHs8UqdDGWJoZvyRAnVCQssbaytJBXUcVI8F9FEv7B1wgSL28_qPCFViuHeF2j1Ae0f8bRARvQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9qEevGrWLEt7M3SqcSol31KRt0lz_bh1kg_VqAedcZb4B_0br56CM-6Wem1OictfJ_FTx4BnkFj2cqdPzdY2MYHs2Dc66baEGGkhD_27H62b3rHs8UqdDGWJoZvyRAnVCQssbaytJBXUcVI8F9FEv7B1wgSL28_qPCFViuHeF2j1Ae0f8bRARvQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9qEevGrWLEt7M3SqcSol31KRt0lz_bh1kg_VqAedcZb4B_0br56CM-6Wem1OictfJ_FTx4BnkFj2cqdPzdY2MYHs2Dc66baEGGkhD_27H62b3rHs8UqdDGWJoZvyRAnVCQssbaytJBXUcVI8F9FEv7B1wgSL28_qPCFViuHeF2j1Ae0f8bRARvQ..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687 else 无
+- **摘要**: 走进亿航智能全球领先的城市空中交通科技企业 · 低空经济 标杆项目简介亿航智能(Nasdaq: EH)是一家全球领先的城市空中交通科...
+
+### 今日 低空经济 动态
+- **来源**: ghc9cb6b87a26c
+- **时间**: 2026-07-12 19:45:49
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9i1C1mqrnLr6A_MeplLcguvIKHsgmG3c-7Tlzk5tQvDfTWt4OR1MibxcfPEioIRS8FryOh7h2fAByOLCX2EVuNgWJhHrHnFsp4a0iRY28Pal99gDCk-dxhH5UdQnf6CDw6VCPvWBXIFuWxy4ByxJPbYz5GqWplGT4dQdG8N08X3LYl_Q5RRZQjg..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9i1C1mqrnLr6A_MeplLcguvIKHsgmG3c-7Tlzk5tQvDfTWt4OR1MibxcfPEioIRS8FryOh7h2fAByOLCX2EVuNgWJhHrHnFsp4a0iRY28Pal99gDCk-dxhH5UdQnf6CDw6VCPvWBXIFuWxy4ByxJPbYz5GqWplGT4dQdG8N08X3LYl_Q5RRZQjg..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9i1C1mqrnLr6A_MeplLcguvIKHsgmG3c-7Tlzk5tQvDfTWt4OR1MibxcfPEioIRS8FryOh7h2fAByOLCX2EVuNgWJhHrHnFsp4a0iRY28Pal99gDCk-dxhH5UdQnf6CDw6VCPvWBXIFuWxy4ByxJPbYz5GqWplGT4dQdG8N08X3LYl_Q5RRZQjg..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687 else 无
+- **摘要**: ⑤ 中国通号ID-Space 低空 智联网平台通过安全测评,具备日承载百万架次调度能力, 低空 交通基础设施取得关键突破.
+
+### 低空经济 日报:7月12日
+- **来源**: 安捷航达
+- **时间**: 2026-07-12 18:34:02
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9k2USJPuhxTTVPROIEyT84JemxM1aaX0r7oLiXevUdLlYODRDInmLPEi1MYH8l-htFcNJBi2KOahHqziDu3Hky9Fiy2Yt4DDxr1CRS62VFXQlrJdQcP_osUys4jWlqAolhv7S0397M2J0vCA3IBZoWBlrbc-d950JzINKq40vUfASYTqT4eyLmA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9k2USJPuhxTTVPROIEyT84JemxM1aaX0r7oLiXevUdLlYODRDInmLPEi1MYH8l-htFcNJBi2KOahHqziDu3Hky9Fiy2Yt4DDxr1CRS62VFXQlrJdQcP_osUys4jWlqAolhv7S0397M2J0vCA3IBZoWBlrbc-d950JzINKq40vUfASYTqT4eyLmA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvECk842xaE04SLSi8xhk-AlqXa8Fplpd9k2USJPuhxTTVPROIEyT84JemxM1aaX0r7oLiXevUdLlYODRDInmLPEi1MYH8l-htFcNJBi2KOahHqziDu3Hky9Fiy2Yt4DDxr1CRS62VFXQlrJdQcP_osUys4jWlqAolhv7S0397M2J0vCA3IBZoWBlrbc-d950JzINKq40vUfASYTqT4eyLmA..&type=2&query=%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E&token=45DF23BC76D64FCBEDEABB8129DA75BCEDC04A126A53D687 else 无
+- **摘要**: LOW-ALTITUDE ECONOMY DAILY 低空经济 日报无人机 · 低空场景 · 政策方向 | 每日精选高价值动态2026年7月12日 · 第41期(合...
+
+### 大疆行业 发布变电四大应用场景实用指南
+- **来源**: 航景智能
+- **时间**: 2026-03-09 11:06:36
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvMXP1HyVwBBgSLSi8xhk-AlqXa8Fplpd9zm91VhueSVEtkD8-adI8u8Pf1j3yhzGfFyirVkEULwqq8571mt6Z586G6AMkb1gnDhnSD2jsjHcjF7y-8hZLvbz_ESGQUYTVZIobVsuN--Y-TRD2ptLBGD5bx8W_pWipUpEz3GRRg74xU06cT5HhDbfqGUjg298TEsjkeCcKvrA89kyxDwoXvg..&type=2&query=%E5%A4%A7%E7%96%86%E8%A1%8C%E4%B8%9A&token=45DF39F99E3FA0230402556EC76B3A74043EDCEB6A53D68A](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvMXP1HyVwBBgSLSi8xhk-AlqXa8Fplpd9zm91VhueSVEtkD8-adI8u8Pf1j3yhzGfFyirVkEULwqq8571mt6Z586G6AMkb1gnDhnSD2jsjHcjF7y-8hZLvbz_ESGQUYTVZIobVsuN--Y-TRD2ptLBGD5bx8W_pWipUpEz3GRRg74xU06cT5HhDbfqGUjg298TEsjkeCcKvrA89kyxDwoXvg..&type=2&query=%E5%A4%A7%E7%96%86%E8%A1%8C%E4%B8%9A&token=45DF39F99E3FA0230402556EC76B3A74043EDCEB6A53D68A) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvMXP1HyVwBBgSLSi8xhk-AlqXa8Fplpd9zm91VhueSVEtkD8-adI8u8Pf1j3yhzGfFyirVkEULwqq8571mt6Z586G6AMkb1gnDhnSD2jsjHcjF7y-8hZLvbz_ESGQUYTVZIobVsuN--Y-TRD2ptLBGD5bx8W_pWipUpEz3GRRg74xU06cT5HhDbfqGUjg298TEsjkeCcKvrA89kyxDwoXvg..&type=2&query=%E5%A4%A7%E7%96%86%E8%A1%8C%E4%B8%9A&token=45DF39F99E3FA0230402556EC76B3A74043EDCEB6A53D68A else 无
+- **摘要**: (来源:DJI 大疆行业 应用服务)(主题:大疆应用场景指南)(编辑:zyy)想了解更多?航景智能告诉你18340016352END山东航...
+
+### 大疆行业 生态解决方案,51家公司大盘点
+- **来源**: 无人机世界
+- **时间**: 2022-11-15 17:52:54
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvMXP1HyVwBBgSLSi8xhk-AlqXa8Fplpd94EBJu2PWwjTUN9b03J4dnM9-BNiw8Tj_klj1lglHqBftbfMAtWpn0ES39K42nxlHoNoqJhOFFcllrCeJokCqHHd4LdDgteTD7MpJWspi90RcAyx0XdxF0D8Gh1UMt8BfxAc7JwA1jmCWRRdfOXeb2p2yVDs4K1MHPbMRper3BsRhlgeRt7bSzA..&type=2&query=%E5%A4%A7%E7%96%86%E8%A1%8C%E4%B8%9A&token=45DF39F99E3FA0230402556EC76B3A74043EDCEB6A53D68A](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvMXP1HyVwBBgSLSi8xhk-AlqXa8Fplpd94EBJu2PWwjTUN9b03J4dnM9-BNiw8Tj_klj1lglHqBftbfMAtWpn0ES39K42nxlHoNoqJhOFFcllrCeJokCqHHd4LdDgteTD7MpJWspi90RcAyx0XdxF0D8Gh1UMt8BfxAc7JwA1jmCWRRdfOXeb2p2yVDs4K1MHPbMRper3BsRhlgeRt7bSzA..&type=2&query=%E5%A4%A7%E7%96%86%E8%A1%8C%E4%B8%9A&token=45DF39F99E3FA0230402556EC76B3A74043EDCEB6A53D68A) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvMXP1HyVwBBgSLSi8xhk-AlqXa8Fplpd94EBJu2PWwjTUN9b03J4dnM9-BNiw8Tj_klj1lglHqBftbfMAtWpn0ES39K42nxlHoNoqJhOFFcllrCeJokCqHHd4LdDgteTD7MpJWspi90RcAyx0XdxF0D8Gh1UMt8BfxAc7JwA1jmCWRRdfOXeb2p2yVDs4K1MHPbMRper3BsRhlgeRt7bSzA..&type=2&query=%E5%A4%A7%E7%96%86%E8%A1%8C%E4%B8%9A&token=45DF39F99E3FA0230402556EC76B3A74043EDCEB6A53D68A else 无
+- **摘要**: 点击小程序,查看或加入无人机企业库无人机世界从大疆官网了解到,11月10日,大疆公司发布了 大疆行业 生态库.依托开源共享的理...
+
+
+> 本期共收录 7 篇文章
+
+---
+

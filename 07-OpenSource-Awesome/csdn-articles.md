@@ -102,3 +102,59 @@
 
 ---
 
+
+## 2026-07-13 更新
+
+### 开源飞控pixhawk源码，px4源码
+- **作者**: 
+- **时间**: 2020-12-24
+- **链接**: [https://download.csdn.net/download/vikki5200/13770349?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-2-13770349-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7](https://download.csdn.net/download/vikki5200/13770349?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-2-13770349-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7)
+- **摘要**: 开源<em>飞控</em>Pixhawk是无人机控制领域的一个重要项目，它的核心在于<em>PX4</em>飞行栈，这是一个高度模块化、可扩展且实时的飞行控制系统。
+
+### 【开源飞控PX4架构】
+- **作者**: 
+- **时间**: 2025-12-23
+- **链接**: [https://blog.csdn.net/sinat_23896491/article/details/156203959?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-3-156203959-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/sinat_23896491/article/details/156203959?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-3-156203959-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文介绍开源<em>飞控</em><em>PX4</em>的整体架构与代码结构，重点分析其模块化设计和驱动开发机制。通过获取官方开源代码并结合文档说明，帮助开发者理解<em>PX4</em>系统的工作原理及二次开发路径。
+
+### PX4-1-开源飞控项目
+- **作者**: 
+- **时间**: 2021-09-02
+- **链接**: [https://blog.csdn.net/weixin_43669461/article/details/120065090?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-4-120065090-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/weixin_43669461/article/details/120065090?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-4-120065090-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7)
+- **摘要**: 这篇博客介绍了多个开源<em>飞控</em>项目，如Cleanflight/betaflight等，并重点对比了<em>PX4</em>和ArduPilot。作者指出两者都是使用C++开发，支持多种无人设备，但<em>PX4</em>的代码框架更复杂，使用了不同的RTOS和消息机制。文章预告下期将分析<em>PX4</em>的代码架构。
+
+### 开源飞控之王PX4
+- **作者**: 
+- **时间**: 2024-03-25
+- **链接**: [https://blog.csdn.net/u013558123/article/details/137006815?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-137006815-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/u013558123/article/details/137006815?ops_request_misc=elastic_search_misc&request_id=e3dd2eb752e6403a849d4357e4a4f5fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-137006815-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文详细介绍了开源<em>飞控</em>系统<em>PX4</em>，包括其模块化设计、多平台支持、先进飞行算法以及在全球社区中的活跃。探讨了<em>PX4</em>在商业应用、科研教育、自动驾驶和灾害响应中的角色，并展望了其未来的潜力和发展方向。
+
+### 单目视觉SLAM在无人机上的应用
+- **作者**: 
+- **时间**: 2022-04-20
+- **链接**: [https://blog.csdn.net/anchenliang_1002/article/details/124295210?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticCommercialInsert~search_v2-2-124295210-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM](https://blog.csdn.net/anchenliang_1002/article/details/124295210?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticCommercialInsert~search_v2-2-124295210-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM)
+- **摘要**: 本文详述了将ORB_<em>SLAM</em>2算法应用于<em>无人机</em>控制，通过单目相机为<em>无人机</em>提供位姿信息，实现无GPS环境下的轨迹跟踪控制。在Intel NUC上搭建实验环境，包括Ubuntu 16.04、ROS、D435i驱动，并开源了相关代码。论文涵盖了坐标系转换、深度求解、状态估计、轨迹规划和运动控制等内容。
+
+### 无人机slam
+- **作者**: 
+- **时间**: 2025-03-23
+- **链接**: [https://wenku.csdn.net/answer/4m78zapjra?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-3-4m78zapjra-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM](https://wenku.csdn.net/answer/4m78zapjra?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-3-4m78zapjra-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM)
+- **摘要**: 本文介绍了<em>无人机</em><em>SLAM</em>技术的实现方法和教程，包括在Matlab环境下的<em>SLAM</em>技术实现、入门资源推荐、高级<em>SLAM</em>框架以及硬件配置建议。
+
+### 无人机SLAM的学习
+- **作者**: 
+- **时间**: 2025-01-19
+- **链接**: [https://wenku.csdn.net/answer/39zjk4fzh6?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-4-39zjk4fzh6-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM](https://wenku.csdn.net/answer/39zjk4fzh6?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-4-39zjk4fzh6-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM)
+- **摘要**: 本文为<em>无人机</em><em>SLAM</em>技术的学习者提供了一个系统的学习路径，包括基础理论准备、ROS环境搭建、理解回环检测原理以及推荐实践项目。学习者需要具备一定的数学基础，熟悉ROS平台，并理解闭环检测策略。
+
+### 无人机slam定位
+- **作者**: 
+- **时间**: 2025-03-15
+- **链接**: [https://wenku.csdn.net/answer/734vuhuh5n?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-5-734vuhuh5n-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM](https://wenku.csdn.net/answer/734vuhuh5n?ops_request_misc=elastic_search_misc&request_id=38703f1ada5449c4bcc9126315a7b7f2&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-5-734vuhuh5n-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%20SLAM)
+- **摘要**: 本文介绍了<em>无人机</em>同步定位与地图构建（<em>SLAM</em>）技术，包括基于激光雷达的<em>SLAM</em>算法、回环检测的重要性、视觉<em>SLAM</em>与路径规划的结合以及改进型快速匹配算法的应用。
+
+
+> 本期共收录 8 篇文章
+
+---
+
