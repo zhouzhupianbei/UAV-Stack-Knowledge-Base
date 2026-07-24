@@ -1,0 +1,108 @@
+> 💡 **如果你也在做无人机 / 飞控 / 巡检 / 低空相关**，觉得这份清单有用，欢迎 **点个 ⭐ Star + 把这个仓库分享给身边的朋友** —— PX4 / ArduPilot / MAVLink / 仿真 / 巡检算法 这些领域资料散落各处，**一个人查文档远不如一群人共建一份知识库更高效**。
+
+---
+
+# 微信公众号文章
+
+精选本栏目主题相关的优质公众号文章。
+
+---
+
+
+## 2026-07-24 更新
+
+### SpringBoot+FFmpeg+ ZLMediaKit 实现本地视频推流
+- **来源**: 顶级架构师
+- **时间**: 2026-03-26 17:33:22
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9YvQulcyEpuYeM51F6istGfo7wHbjMwfcZcUygh1rATIMNUQw91a4w0lYK6hksrBWEMwQtcYdGGq-8F8zwy7_MkIUE77kdQSEsMu4JxWXAbQ9cQblPx82twy--WWHBNww8w7Ny1CADvZgwHUwaMmTwYqAN_HlmOBkG2lxZDK_F6uE8RsmObDbtQ..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9YvQulcyEpuYeM51F6istGfo7wHbjMwfcZcUygh1rATIMNUQw91a4w0lYK6hksrBWEMwQtcYdGGq-8F8zwy7_MkIUE77kdQSEsMu4JxWXAbQ9cQblPx82twy--WWHBNww8w7Ny1CADvZgwHUwaMmTwYqAN_HlmOBkG2lxZDK_F6uE8RsmObDbtQ..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9YvQulcyEpuYeM51F6istGfo7wHbjMwfcZcUygh1rATIMNUQw91a4w0lYK6hksrBWEMwQtcYdGGq-8F8zwy7_MkIUE77kdQSEsMu4JxWXAbQ9cQblPx82twy--WWHBNww8w7Ny1CADvZgwHUwaMmTwYqAN_HlmOBkG2lxZDK_F6uE8RsmObDbtQ..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34 else 无
+- **摘要**: ZLMediaKit 服务地址 */ private String zlmHost; /** * RTMP推流端口 */ private Integer rtmpPort; /** * HTTP-FLV拉流端口 ...
+
+### zlmediakit hls性能优化之旅
+- **来源**: zlmediakit开源
+- **时间**: 2022-02-21 15:35:21
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiHANIU3bJzMpJQNhoAoYV4DvEQQHCjUDc1k5QwhEczFk-g_pz1ohsaIcGbBBcaV_b6IBaxYYbzPW84Achk9rB7u0RjGKYiyCTTj2xQi0b0MujD6LlSwBeK3s46dn8Efgxg..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiHANIU3bJzMpJQNhoAoYV4DvEQQHCjUDc1k5QwhEczFk-g_pz1ohsaIcGbBBcaV_b6IBaxYYbzPW84Achk9rB7u0RjGKYiyCTTj2xQi0b0MujD6LlSwBeK3s46dn8Efgxg..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiHANIU3bJzMpJQNhoAoYV4DvEQQHCjUDc1k5QwhEczFk-g_pz1ohsaIcGbBBcaV_b6IBaxYYbzPW84Achk9rB7u0RjGKYiyCTTj2xQi0b0MujD6LlSwBeK3s46dn8Efgxg..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34 else 无
+- **摘要**: 事情的起因北京冬奥会前夕, zlmediakit 的一位用户完成了iptv系统的迁移; 由于 zlmediakit 对hls的支持比较完善,支持包括鉴权、统计...
+
+### zlm4j 开源流媒体服务器 ZLMediaKit C API 实现
+- **来源**: 码问
+- **时间**: 2023-12-31 12:10:01
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9LR8kgOHWqg_EL5oNWZ9gBmSS8GzP1YaXrCk2yqWYvnP3JuASvztUkQ0_7Q__ytEe5Q9uoT18FKfBqcvK3LbLjX-i0dh9e6FZnPOKEFSFaUG2HtDE1WHJZBjtbMcNcLZbjNEtu6SKYNDw8J1y55Q8dvQN4hJPQ3A_WURnbWAguWkCYioxHkzTmA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9LR8kgOHWqg_EL5oNWZ9gBmSS8GzP1YaXrCk2yqWYvnP3JuASvztUkQ0_7Q__ytEe5Q9uoT18FKfBqcvK3LbLjX-i0dh9e6FZnPOKEFSFaUG2HtDE1WHJZBjtbMcNcLZbjNEtu6SKYNDw8J1y55Q8dvQN4hJPQ3A_WURnbWAguWkCYioxHkzTmA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9LR8kgOHWqg_EL5oNWZ9gBmSS8GzP1YaXrCk2yqWYvnP3JuASvztUkQ0_7Q__ytEe5Q9uoT18FKfBqcvK3LbLjX-i0dh9e6FZnPOKEFSFaUG2HtDE1WHJZBjtbMcNcLZbjNEtu6SKYNDw8J1y55Q8dvQN4hJPQ3A_WURnbWAguWkCYioxHkzTmA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34 else 无
+- **摘要**: Aizuda 新成员项目 zlm4j 流媒体组件项目简介zlm4j开源流媒体服务框架 ZLMediaKit C Api 的 Java 实现感谢 @夏楚 提供了这么好的开...
+
+### 推荐一个 C++ 流媒体底座: ZLMediaKit
+- **来源**: 源码教程共享
+- **时间**: 2026-03-21 00:02:36
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9T7AkC3-tf0xE2azyo6c3Mf92MS10R_CDRWM37hhZneXA-fG-7Ya5weAs_4Bn9OyYVcu8R-VCPb1JbuzV_tLcc67GrA230YpTlxf2WhLygwYrFCr0nsKuDQxAKlGjGoOMRj0eOZrPXWi0I17ilkRmUSA-SXkWa6IZK_rB5NP2pNeq3X8EKMKOIA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9T7AkC3-tf0xE2azyo6c3Mf92MS10R_CDRWM37hhZneXA-fG-7Ya5weAs_4Bn9OyYVcu8R-VCPb1JbuzV_tLcc67GrA230YpTlxf2WhLygwYrFCr0nsKuDQxAKlGjGoOMRj0eOZrPXWi0I17ilkRmUSA-SXkWa6IZK_rB5NP2pNeq3X8EKMKOIA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9T7AkC3-tf0xE2azyo6c3Mf92MS10R_CDRWM37hhZneXA-fG-7Ya5weAs_4Bn9OyYVcu8R-VCPb1JbuzV_tLcc67GrA230YpTlxf2WhLygwYrFCr0nsKuDQxAKlGjGoOMRj0eOZrPXWi0I17ilkRmUSA-SXkWa6IZK_rB5NP2pNeq3X8EKMKOIA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34 else 无
+- **摘要**: ZLMediaKit 拉下来跑过生产环境,就会知道这个 C++11 的流媒体框架确实能解决不少问题.不是来念文档,聊聊实际体验.当然这个...
+
+### zlmediakit 知识星球开通了!
+- **来源**: zlmediakit开源
+- **时间**: 2023-04-03 17:23:44
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiKJnwRdNlmIyz--DDSMRnA8g_KiM0GxUR1hjWH875vqBt2GVKZg47Frg188bsYyZlXLn1-bi1oXfwDbChETQ1vXd-gajdmjdlDZNaYed7G8MXNvECHM7dHTwdVqCwyPdzA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiKJnwRdNlmIyz--DDSMRnA8g_KiM0GxUR1hjWH875vqBt2GVKZg47Frg188bsYyZlXLn1-bi1oXfwDbChETQ1vXd-gajdmjdlDZNaYed7G8MXNvECHM7dHTwdVqCwyPdzA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiKJnwRdNlmIyz--DDSMRnA8g_KiM0GxUR1hjWH875vqBt2GVKZg47Frg188bsYyZlXLn1-bi1oXfwDbChETQ1vXd-gajdmjdlDZNaYed7G8MXNvECHM7dHTwdVqCwyPdzA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34 else 无
+- **摘要**: 不知不觉, zlmediakit 开源已经6年了,期间我们结识了很多真挚的朋友,大家在为 zlmediakit 默默的不求回报的付出,在众人的呵护下...
+
+### 绍兴会议 部署 坚持发展新时代“枫桥经验”
+- **来源**: 中央政法委长安剑
+- **时间**: 2018-11-12 16:29:30
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9H7909yaSiirFrE-lF0AIXxqq5_fmT5z-JQIP8Xy2dUYRF80I_QmejfzeokGg4Ilfl5wdnu-37gtBG7FwRAoCNjPoCZKx2GKmDXFPYu-eQcZp35cl-hHY8biOioYq33fEzOph91ZNgN00vJRVKKtfcYoynYX2IShALTFtVa1wIYHwdVqCwyPdzA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9H7909yaSiirFrE-lF0AIXxqq5_fmT5z-JQIP8Xy2dUYRF80I_QmejfzeokGg4Ilfl5wdnu-37gtBG7FwRAoCNjPoCZKx2GKmDXFPYu-eQcZp35cl-hHY8biOioYq33fEzOph91ZNgN00vJRVKKtfcYoynYX2IShALTFtVa1wIYHwdVqCwyPdzA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9H7909yaSiirFrE-lF0AIXxqq5_fmT5z-JQIP8Xy2dUYRF80I_QmejfzeokGg4Ilfl5wdnu-37gtBG7FwRAoCNjPoCZKx2GKmDXFPYu-eQcZp35cl-hHY8biOioYq33fEzOph91ZNgN00vJRVKKtfcYoynYX2IShALTFtVa1wIYHwdVqCwyPdzA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
+- **摘要**: 要认真贯彻党中央关于全面依法治国的决策 部署 ,把群众路线和法治方式结合起来,打造基层群众用得上、离不开的法治.要充分运用...
+
+### 教育部紧急 部署
+- **来源**: 澎湃新闻
+- **时间**: 2021-04-29 09:57:02
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9lseSTfg7gLy8lOgcJettAQeWNvBfe9XFCCNNYtSUuehgzFQFSqUduGYiyxa18CSOoM5gieJWmkOmEJOpAFuAixhfJPfb-TUyTQEb71D0pkzUno1xm1nr_-s7j57CG_zfYX_SO249aCuFGsf9Cab0v3nLRUh2TD09YeIfO6hqDelFkDr8IT4KYw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9lseSTfg7gLy8lOgcJettAQeWNvBfe9XFCCNNYtSUuehgzFQFSqUduGYiyxa18CSOoM5gieJWmkOmEJOpAFuAixhfJPfb-TUyTQEb71D0pkzUno1xm1nr_-s7j57CG_zfYX_SO249aCuFGsf9Cab0v3nLRUh2TD09YeIfO6hqDelFkDr8IT4KYw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9lseSTfg7gLy8lOgcJettAQeWNvBfe9XFCCNNYtSUuehgzFQFSqUduGYiyxa18CSOoM5gieJWmkOmEJOpAFuAixhfJPfb-TUyTQEb71D0pkzUno1xm1nr_-s7j57CG_zfYX_SO249aCuFGsf9Cab0v3nLRUh2TD09YeIfO6hqDelFkDr8IT4KYw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
+- **摘要**: 澎湃新闻记者 程婷4月28日,广西北流市发生一起持凶器伤害幼儿园师生案件,伤及多名教师、幼儿.案件性质极其恶劣,引发社会强...
+
+### “已 部署 '几十枚'战术核武器”
+- **来源**: 参考消息
+- **时间**: 2024-04-25 22:21:33
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdmE7GkO7EqjbcZPe7fHxPEQvVT5WNWAZYtdCSLvs0mB6UBf9ZJcrdYmzjX7osgI3UbCeSD9i0rMqgffzAusKU46dpjG-1DNBMhYkafBdHcwcDNWCJPcpLEvzAjcIGepUqA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdmE7GkO7EqjbcZPe7fHxPEQvVT5WNWAZYtdCSLvs0mB6UBf9ZJcrdYmzjX7osgI3UbCeSD9i0rMqgffzAusKU46dpjG-1DNBMhYkafBdHcwcDNWCJPcpLEvzAjcIGepUqA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdmE7GkO7EqjbcZPe7fHxPEQvVT5WNWAZYtdCSLvs0mB6UBf9ZJcrdYmzjX7osgI3UbCeSD9i0rMqgffzAusKU46dpjG-1DNBMhYkafBdHcwcDNWCJPcpLEvzAjcIGepUqA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
+- **摘要**: 俄罗斯已经在白俄罗斯 部署 了“几十枚”战术核武器.俄罗斯的盟友白俄罗斯去年6月表示,已开始接收这些武器.这是自苏联解体以...
+
+### 首次 部署 ,监视中国军队!
+- **来源**: 参考消息
+- **时间**: 2022-01-26 15:27:52
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdlPCEeTZDjFyG-YQiRGIXxXk4tKBtXpRVq44AM8cF6kCnMn93wKD8V3_sFMhXg0piz_i2ZU2t-jYoKy23yKRTXK_xI_9SLB8XAEtS9XcrGy0VMU95uH5t3JflztgI7RZ1g..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdlPCEeTZDjFyG-YQiRGIXxXk4tKBtXpRVq44AM8cF6kCnMn93wKD8V3_sFMhXg0piz_i2ZU2t-jYoKy23yKRTXK_xI_9SLB8XAEtS9XcrGy0VMU95uH5t3JflztgI7RZ1g..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdlPCEeTZDjFyG-YQiRGIXxXk4tKBtXpRVq44AM8cF6kCnMn93wKD8V3_sFMhXg0piz_i2ZU2t-jYoKy23yKRTXK_xI_9SLB8XAEtS9XcrGy0VMU95uH5t3JflztgI7RZ1g..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
+- **摘要**: 据日本《南日本新闻》网站1月25日报道,据悉,日美两国政府正在考虑向日本海上自卫队鹿屋航空基地临时 部署 7至8架美军MQ-9无人...
+
+### 乌鲁木齐最新 部署 !
+- **来源**: 中国新闻网
+- **时间**: 2022-09-12 09:58:54
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9OB4egxZHKlpomcyDzj9_kfkLgtbP3m66yzhagsvw1dEFOqWIJLEniLF455crRdqwihjM4bH5hN8h-r5kIYvskrU-Gjrq0mNC5-EfPYMx0SCLaTnS-iVYYpH62s47C5zsYhWiFGwxag_4M314Q0adZTflM6WH3uZPcm-_UqzpxB1f_71bqkOtiw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9OB4egxZHKlpomcyDzj9_kfkLgtbP3m66yzhagsvw1dEFOqWIJLEniLF455crRdqwihjM4bH5hN8h-r5kIYvskrU-Gjrq0mNC5-EfPYMx0SCLaTnS-iVYYpH62s47C5zsYhWiFGwxag_4M314Q0adZTflM6WH3uZPcm-_UqzpxB1f_71bqkOtiw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9OB4egxZHKlpomcyDzj9_kfkLgtbP3m66yzhagsvw1dEFOqWIJLEniLF455crRdqwihjM4bH5hN8h-r5kIYvskrU-Gjrq0mNC5-EfPYMx0SCLaTnS-iVYYpH62s47C5zsYhWiFGwxag_4M314Q0adZTflM6WH3uZPcm-_UqzpxB1f_71bqkOtiw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
+- **摘要**: 会上,乌鲁木齐市卫健委副主任章新勇介绍,经过研判,11日晚,已对扩大低风险区有序流动作出 安排 部署 ,在其他重点城区已经逐步...
+
+### 10分钟用英特尔DevKit 搭建 RTMP 流媒体服务器 并基于OpenVINO AI赋能视频处理
+- **来源**: 极市平台
+- **时间**: 2023-08-14 22:00:55
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd93MMLz1Eu35238atPeqTO_n4QkrHLffMfjvvf7MTLv9GOUiumCzM7j2GBOKi3rlrwyhMWTdtYJZs4yHg28RMxYVYrEKuj1x9OjbQoGJw6pXUtOYVMv9KUF4M_WLjEbXyFHyqMeu0Wc93jk2TqP59lTuWgQkvD6RdBroSJhdoHBh9e0WC6Sbi7DA..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd93MMLz1Eu35238atPeqTO_n4QkrHLffMfjvvf7MTLv9GOUiumCzM7j2GBOKi3rlrwyhMWTdtYJZs4yHg28RMxYVYrEKuj1x9OjbQoGJw6pXUtOYVMv9KUF4M_WLjEbXyFHyqMeu0Wc93jk2TqP59lTuWgQkvD6RdBroSJhdoHBh9e0WC6Sbi7DA..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd93MMLz1Eu35238atPeqTO_n4QkrHLffMfjvvf7MTLv9GOUiumCzM7j2GBOKi3rlrwyhMWTdtYJZs4yHg28RMxYVYrEKuj1x9OjbQoGJw6pXUtOYVMv9KUF4M_WLjEbXyFHyqMeu0Wc93jk2TqP59lTuWgQkvD6RdBroSJhdoHBh9e0WC6Sbi7DA..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B else 无
+- **摘要**: 搭建RTMP 流媒体服务器搭建 步骤:1、获取srs服务器源码.git clone https://github.com/ossrs/srscd srs/trunk2、安装依赖并编译srs源码...
+
+### 云服务器+开发板 搭建 直播系统,自建 流媒体服务器 开直播
+- **来源**: DLGG创客DIY
+- **时间**: 2021-03-31 20:33:21
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd9iG8UYOYGnAXgjeOkAEtAKgLKdxpP88idN02yb0xskw2smEjzneKPTzz014KcSFrhV7QYyy00Wir9KPUNQhGHJd9cS1YdCZ3YIgcjTuAOLFijkGDFC4o21KyqgtCJdJrnxCtXPRiOSqI52GpDPKx5jLzE0XkraQeqdKOZFTdOeRjy08OLTBhW0A..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd9iG8UYOYGnAXgjeOkAEtAKgLKdxpP88idN02yb0xskw2smEjzneKPTzz014KcSFrhV7QYyy00Wir9KPUNQhGHJd9cS1YdCZ3YIgcjTuAOLFijkGDFC4o21KyqgtCJdJrnxCtXPRiOSqI52GpDPKx5jLzE0XkraQeqdKOZFTdOeRjy08OLTBhW0A..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd9iG8UYOYGnAXgjeOkAEtAKgLKdxpP88idN02yb0xskw2smEjzneKPTzz014KcSFrhV7QYyy00Wir9KPUNQhGHJd9cS1YdCZ3YIgcjTuAOLFijkGDFC4o21KyqgtCJdJrnxCtXPRiOSqI52GpDPKx5jLzE0XkraQeqdKOZFTdOeRjy08OLTBhW0A..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B else 无
+- **摘要**: 后台运行: 流媒体服务器搭建 完成.记住阿里云服务器IP和SRS端口号:1935,稍后推流到这个服务器,拉流也从这个服务器拉....
+
+### Nginx 搭建 Rtmp 流媒体服务器 ,实现视频直播功能(Linux)
+- **来源**: DS小龙哥 嵌入式技术资讯
+- **时间**: 2022-07-14 11:36:46
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd9OoHFPJmcUtV2FA0quVr1-IwK-s6g_PUpy815P2gO6wnmjEO5w3_Yy1hkya83F8IyTAJ-sbJfR-UxlyDnCzG-7tcnNM3eVfYkCw548Xz5Uybb-cpo_EzQhur52ycPDT0oyFmAd2117RSPm6YcP97h0PmpHtVz5FLxVdzksE20mGXFcvUoAZZH7Q..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd9OoHFPJmcUtV2FA0quVr1-IwK-s6g_PUpy815P2gO6wnmjEO5w3_Yy1hkya83F8IyTAJ-sbJfR-UxlyDnCzG-7tcnNM3eVfYkCw548Xz5Uybb-cpo_EzQhur52ycPDT0oyFmAd2117RSPm6YcP97h0PmpHtVz5FLxVdzksE20mGXFcvUoAZZH7Q..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd9OoHFPJmcUtV2FA0quVr1-IwK-s6g_PUpy815P2gO6wnmjEO5w3_Yy1hkya83F8IyTAJ-sbJfR-UxlyDnCzG-7tcnNM3eVfYkCw548Xz5Uybb-cpo_EzQhur52ycPDT0oyFmAd2117RSPm6YcP97h0PmpHtVz5FLxVdzksE20mGXFcvUoAZZH7Q..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B else 无
+- **摘要**: 搭建 流媒体服务器 需要下载的软件包下载示例: wbyq@wbyq:~/work_pc$ mkdir nginx wbyq@wbyq:~/work_pc$ cd nginx/ wbyq@...
+
+### 基于 Nginx 和 FFmpeg 搭建 流媒体服务器
+- **来源**: 字节流动
+- **时间**: 2021-07-24 09:07:33
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd97ymvFFKtSqh_QT8KE1Ur6vHb3b_vDs3v_EiIu64icEmeRPhpDw7GR_GLRnb930V921Dv1V0JJ6jLxRT4AISOtuKudPDD7bzzLM-9I0WnrJ7VSL59mY9GurwCTXqpnt2ic1fe-8WR5eBQkH61sbM9H8SO25EYjWnk5-fL1XOlmph5Nu7CnoSqqg..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd97ymvFFKtSqh_QT8KE1Ur6vHb3b_vDs3v_EiIu64icEmeRPhpDw7GR_GLRnb930V921Dv1V0JJ6jLxRT4AISOtuKudPDD7bzzLM-9I0WnrJ7VSL59mY9GurwCTXqpnt2ic1fe-8WR5eBQkH61sbM9H8SO25EYjWnk5-fL1XOlmph5Nu7CnoSqqg..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlw1BfQaIUAeBOJDRQSeLTRm1qXa8Fplpd97ymvFFKtSqh_QT8KE1Ur6vHb3b_vDs3v_EiIu64icEmeRPhpDw7GR_GLRnb930V921Dv1V0JJ6jLxRT4AISOtuKudPDD7bzzLM-9I0WnrJ7VSL59mY9GurwCTXqpnt2ic1fe-8WR5eBQkH61sbM9H8SO25EYjWnk5-fL1XOlmph5Nu7CnoSqqg..&type=2&query=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA&token=9E1B4481A36354939394C4CA3518F3FA93AF6A946A633B3B else 无
+- **摘要**: 搭建 媒体 服务器 HLS协议是基于Http协议的,我们这里使用Nginx作为视频 服务器 .nginx.conf# nginx.confserver { listen 80; server _...
+
+### YOLOv8终极指南
+- **来源**: 极市平台
+- **时间**: 2024-01-20 22:00:26
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwzcfet8Q5Lk-JDRQSeLTRm1qXa8Fplpd93MMLz1Eu35238atPeqTO_n4QkrHLffMfjvvf7MTLv9GOUiumCzM7jyvZR1h6mKJe4K1AhYqBMLEHE8LMLqJXDOfzWZzu9WILUXEWsPpfRJeWnpa-lC9Avy2wR65ReVUJ1mKyMhVjme50OvPnMZngxX8NGr1GwoMLx8L6-y7i1GZFkDr8IT4KYw..&type=2&query=YOLO&token=9E1B54DDA46551979593C1CE332F682E9613336D6A633B3E](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwzcfet8Q5Lk-JDRQSeLTRm1qXa8Fplpd93MMLz1Eu35238atPeqTO_n4QkrHLffMfjvvf7MTLv9GOUiumCzM7jyvZR1h6mKJe4K1AhYqBMLEHE8LMLqJXDOfzWZzu9WILUXEWsPpfRJeWnpa-lC9Avy2wR65ReVUJ1mKyMhVjme50OvPnMZngxX8NGr1GwoMLx8L6-y7i1GZFkDr8IT4KYw..&type=2&query=YOLO&token=9E1B54DDA46551979593C1CE332F682E9613336D6A633B3E) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwzcfet8Q5Lk-JDRQSeLTRm1qXa8Fplpd93MMLz1Eu35238atPeqTO_n4QkrHLffMfjvvf7MTLv9GOUiumCzM7jyvZR1h6mKJe4K1AhYqBMLEHE8LMLqJXDOfzWZzu9WILUXEWsPpfRJeWnpa-lC9Avy2wR65ReVUJ1mKyMhVjme50OvPnMZngxX8NGr1GwoMLx8L6-y7i1GZFkDr8IT4KYw..&type=2&query=YOLO&token=9E1B54DDA46551979593C1CE332F682E9613336D6A633B3E else 无
+- **摘要**: 除了对模型架构本身的改进之外,YOLOv8通过一个用于使用 YOLO 模型的PIP包为开发者提供了一个新的友好界面.在这篇文章中,我...
+
+
+> 本期共收录 15 篇文章
+
+---
+
