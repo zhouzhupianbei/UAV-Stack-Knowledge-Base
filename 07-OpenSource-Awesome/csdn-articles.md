@@ -176,3 +176,101 @@
 
 ---
 
+
+## 2026-07-25 更新
+
+### PX4从放弃到精通（一）：开源飞控PX4简介＋系列文章大纲
+- **作者**: 
+- **时间**: 2022-01-13
+- **链接**: [https://blog.csdn.net/qq_38768959/article/details/122473186?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122473186-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/qq_38768959/article/details/122473186?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122473186-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文详细介绍了<em>开源</em><em>飞控</em>PX4的背景、支持的载具类型、应用场景及支持的硬件，并列出了一系列深入研究PX4的文章大纲。
+
+### 5大核心模块深度解析：如何高效掌握开源无人机飞控系统ArduPilot
+- **作者**: 
+- **时间**: 2026-07-21
+- **链接**: [https://blog.csdn.net/gitblog_00523/article/details/163073664?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-163073664-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/gitblog_00523/article/details/163073664?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-163073664-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文深度解析ArduPilot<em>开源飞控</em>系统的五大核心模块：分层架构（含HAL硬件抽象层与核心算法库）、仿真到实飞工作流（SITL、硬件选型、参数调优）、多载具支持（ArduCopter/ArduPlane/ArduSub）、开发工具链与测试体系、以及代码组织/参数管理/日志诊断等最佳实践，覆盖从入门到工程落地的关键技术点。
+
+### stm32开源飞控源代码.rar
+- **作者**: 
+- **时间**: 2022-05-17
+- **链接**: [https://download.csdn.net/download/dhyuan_88/85400729?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-85400729-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://download.csdn.net/download/dhyuan_88/85400729?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-85400729-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: 综上所述，这个STM32<em>开源</em><em>飞控</em>项目集成了微控制器编程、传感器处理、无线通信以及经典控制理论等多个方面的知识，为学习和开发无人机<em>飞控</em>提供了一个实践平台。
+
+### 从零开始打造你的第一架Wi-Fi无人机：ESP-Drone开源飞控实战指南
+- **作者**: 
+- **时间**: 2024-10-10
+- **链接**: [https://blog.csdn.net/gitblog_00775/article/details/142801752?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-142801752-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/gitblog_00775/article/details/142801752?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-142801752-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文详解基于ESP32/S3芯片的Wi-Fi无人机<em>开源飞控</em>项目ESP-Drone，涵盖硬件组成（MPU6050、MS5611、PMW3901、VL53L1X）、模块化软件架构、固件编译烧录流程、手机APP控制、PID参数调试方法及定高/定点等进阶飞行模式。重点突出嵌入式飞控开发中的传感器融合、扩展卡尔曼滤波、Wi-Fi通信与实时控制算法实现。
+
+### ArduPilot开源飞控系统之简单介绍
+- **作者**: 
+- **时间**: 2023-04-18
+- **链接**: [https://blog.csdn.net/lida2003/article/details/130224625?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-5-130224625-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/lida2003/article/details/130224625?ops_request_misc=elastic_search_misc&request_id=cbd94338e3f74996a4c3f745382b8f68&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-5-130224625-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: ArduPilot是一款可靠的<em>开源</em>自动驾驶系统，适用于无人机等多种设备。本文介绍了ArduPilot的历史、GPLv3许可优势及系统组成，并概述了其代码结构与后续DIY实践。
+
+### 数据库对比与选型指南[源码]
+- **作者**: 
+- **时间**: 2026-04-13
+- **链接**: [https://download.csdn.net/download/c7d8e9/92798826?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticSearch~search_v2-1-92798826-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B](https://download.csdn.net/download/c7d8e9/92798826?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticSearch~search_v2-1-92798826-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B)
+- **摘要**: 本文的目的在于提供一个全面的数据库<em>对比</em><em>与</em><em>选型</em>指南，帮助开发者根据不同应用场景和需求，选择最适合的数据库技术。
+
+### 常见安全测试工具对比与选型
+- **作者**: 
+- **时间**: 2025-07-13
+- **链接**: [https://blog.csdn.net/tony2yy/article/details/149316573?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-2-149316573-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B](https://blog.csdn.net/tony2yy/article/details/149316573?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-2-149316573-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B)
+- **摘要**: 在现代软件开发中，安全测试至关重要，但工具<em>选型</em>困难。本文从技术<em>与</em>应用场景角度，对主流安全测试工具如 SAST、DAST 等进行<em>对比</em>分析，给出<em>选型</em>建议，还介绍了工具集成实践，展望了<em>与</em> AI 结合的未来趋势，强调应构建适合自身的工具<em>选型</em><em>与</em>组合策略。
+
+### Java五大框架技术选型对比与优缺点.doc
+- **作者**: 
+- **时间**: 2023-08-25
+- **链接**: [https://download.csdn.net/download/caryxp/88251394?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-88251394-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B](https://download.csdn.net/download/caryxp/88251394?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-88251394-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B)
+- **摘要**: Java 五大框架技术<em>选型</em><em>对比</em><em>与</em>优缺点Java 五大框架技术<em>选型</em><em>对比</em><em>与</em>优缺点是指 Java 语言中五大框架技术的<em>选型</em><em>对比</em>和优缺点分析。
+
+### Solr 与 Elasticsearch 的对比与选型
+- **作者**: 
+- **时间**: 2024-09-02
+- **链接**: [https://wenku.csdn.net/doc/k1xksq8cfh?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=&utm_medium=distribute.pc_search_result.none-task-c_download-2~all~ElasticSearch~search_v2-4-k1xksq8cfh-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B](https://wenku.csdn.net/doc/k1xksq8cfh?ops_request_misc=elastic_search_misc&request_id=9da2d3874c6446839d7a1523d4af1870&biz_id=&utm_medium=distribute.pc_search_result.none-task-c_download-2~all~ElasticSearch~search_v2-4-k1xksq8cfh-null-null.nonecase&utm_term=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B)
+- **摘要**: 本文探讨了Solr<em>与</em>Elasticsearch两者之间的差异和适用场景，重点介绍了Elasticsearch的主要特性，包括其安装管理的便捷性、大规模分布式能力、多租户支持、高可用性和操作持久化，以及其友好的RESTful API设计。一、Elasticsearch特性详解1.1 安装<em>与</em>管理简便Elasticsearch的安装过程无需依赖其他软件，下载后即可快速
+
+### 【免费下载】 QGroundControl 地面站软件下载与安装指南
+- **作者**: 
+- **时间**: 2026-04-04
+- **链接**: [https://blog.csdn.net/gitblog_01106/article/details/148553022?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-148553022-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/gitblog_01106/article/details/148553022?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-148553022-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 本文详细介绍了QGroundControl<em>地面站软件</em>在Windows、macOS、Ubuntu Linux和Android平台上的下载与安装步骤，并提供了系统要求、版本选择建议和常见问题解决方案。该<em>软件</em>支持PX4和ArduPilot飞控系统，适用于无人机控制与监控。
+
+### Mission Planner：免费开源无人机地面站软件的终极指南
+- **作者**: 
+- **时间**: 2026-06-19
+- **链接**: [https://blog.csdn.net/gitblog_00409/article/details/162125046?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-162125046-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/gitblog_00409/article/details/162125046?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-162125046-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 本文全面介绍Mission Planner——专为ArduPilot设计的免费开源无人机<em>地面站软件</em>。涵盖安装配置、智能任务规划、实时飞行监控、多平台连接管理、农业测绘等专业应用、传感器校准、插件扩展、离线数据缓存（SRTM/GeoTIFF/DTED）、故障排查及社区资源。重点突出其C#/.NET架构、Windows主支持、Android/Linux兼容性及开发者友好特性。
+
+### 无人机地面站软件.zip
+- **作者**: 
+- **时间**: 2024-05-05
+- **链接**: [https://download.csdn.net/download/qqrrjj2011/89269259?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-89269259-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://download.csdn.net/download/qqrrjj2011/89269259?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-89269259-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 《无人机<em>地面站</em><em>软件</em>详解》无人机技术在近年来发展迅速，其中无人机<em>地面站</em><em>软件</em>扮演着至关重要的角色。
+
+### 地面站开发，VS软件c#语言，匿名科创地面站协议
+- **作者**: 
+- **时间**: 2022-04-10
+- **链接**: [https://download.csdn.net/download/weixin_57144067/85106102?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~sobaiduend~default-4-85106102-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://download.csdn.net/download/weixin_57144067/85106102?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~sobaiduend~default-4-85106102-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 在<em>地面站</em>开发中，VS（Visual Studio）<em>软件</em>与C#语言的结合是常见的选择，尤其在构建无人机或卫星等远程控制系统时。匿名科创<em>地面站</em>协议则可能是为了保护开发者隐私或项目安全而设计的一种专有通信协议。在这个课设分工3中，我们可以推测这是一项团队项目，其中每个成员可能有特定的任务和职责。首先，让我们详细了解一下<em>地面站</em>。<em
+
+### 【免费下载】 无人机地面站软件源码 (C WinForm)
+- **作者**: 
+- **时间**: 2024-10-15
+- **链接**: [https://blog.csdn.net/gitblog_09745/article/details/142946929?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-142946929-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/gitblog_09745/article/details/142946929?ops_request_misc=elastic_search_misc&request_id=1daf69b08a6545f2aaab08eca2652b40&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-142946929-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 本仓库提供基于C#和WinForm开发的无人机<em>地面站</em><em>软件</em>源码，运用GDI+技术。具备无人机状态显示、在线地图显示等功能，支持航线跟踪飞行仿真。适合初学者学习参考，介绍了开发环境、适用人群、使用说明等内容。
+
+### 选择轻量级低代码+定制，轻松打造小程序平台
+- **作者**: 
+- **时间**: 2024-02-18
+- **链接**: [https://blog.csdn.net/huibur/article/details/136146705?ops_request_misc=elastic_search_misc&request_id=1f9b76d543ac449994c865f23792aa67&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-136146705-null-null.nonecase&utm_term=%E5%AE%9A%E5%88%B6](https://blog.csdn.net/huibur/article/details/136146705?ops_request_misc=elastic_search_misc&request_id=1f9b76d543ac449994c865f23792aa67&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-136146705-null-null.nonecase&utm_term=%E5%AE%9A%E5%88%B6)
+- **摘要**: 本文介绍了利用轻量级低代码平台结合<em>定制</em>化开发小程序平台的方法。先阐述低代码和<em>定制</em>化概念及优势，接着从平台选择、需求分析、界面设计、业务逻辑开发、数据库集成等多方面详细说明开发步骤，最后总结该方法能提高效率、满足个性化需求，适用性广泛。
+
+
+> 本期共收录 15 篇文章
+
+---
+

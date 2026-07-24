@@ -995,3 +995,17 @@
 
 ---
 
+
+## 2026-07-25 更新
+
+### loveuav/BlueSkyFlightControl
+- **Stars**: 685
+- **描述**: 天穹飞控：致力于打造中国最强大的多旋翼开源飞控！
+- **链接**: [https://github.com/loveuav/BlueSkyFlightControl](https://github.com/loveuav/BlueSkyFlightControl)
+- **标签**: 无
+
+
+> 本期共收录 1 个项目
+
+---
+
