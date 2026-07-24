@@ -162,3 +162,17 @@
 
 ---
 
+
+## 2026-07-24 更新
+
+### PX4飞控系统：模块化架构设计与自主飞行控制技术深度解析
+- **作者**: 
+- **时间**: 2025-11-12
+- **链接**: [https://blog.csdn.net/gitblog_01040/article/details/154724995?ops_request_misc=elastic_search_misc&request_id=78ee12abf25e4aa089a86a75d5a0f070&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-154724995-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/gitblog_01040/article/details/154724995?ops_request_misc=elastic_search_misc&request_id=78ee12abf25e4aa089a86a75d5a0f070&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-154724995-null-null.nonecase&utm_term=PX4%20%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文深度解析<em>PX4</em>开源<em>飞控</em>系统的模块化反应式架构，重点阐述基于uORB的消息总线机制、EKF2多传感器融合、级联式位置-姿态-速率三级控制、控制分配与混控器设计。涵盖SITL仿真、传感器校准、任务规划、日志分析等实战环节，并延伸至神经网络控制集成、视觉SLAM、多机协同及HITL安全验证等进阶技术，突出其在无人机自主飞行中的工程实现与扩展能力。
+
+
+> 本期共收录 1 篇文章
+
+---
+
