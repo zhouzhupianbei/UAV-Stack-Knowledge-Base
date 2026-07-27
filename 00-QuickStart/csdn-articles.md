@@ -105,3 +105,46 @@
 
 ---
 
+
+## 2026-07-28 更新
+
+### 无人机分类
+- **作者**: 
+- **时间**: 2022-03-01
+- **链接**: [https://blog.csdn.net/xwdrhgr/article/details/123209596?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-123209596-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB](https://blog.csdn.net/xwdrhgr/article/details/123209596?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-123209596-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB)
+
+### UAV无人机（一）：概述
+- **作者**: 
+- **时间**: 2023-07-24
+- **链接**: [https://blog.csdn.net/corlin6688/article/details/131890155?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-131890155-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB](https://blog.csdn.net/corlin6688/article/details/131890155?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-131890155-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB)
+- **摘要**: <em>无人机</em>包括多旋翼、固定翼、垂直起降和高空长航时等类型，广泛应用于航拍、农业监测、环境监控、物流等领域。随着技术发展，其应用范围将持续扩大。
+
+### 无人机应用分析
+- **作者**: 
+- **时间**: 2024-01-19
+- **链接**: [https://blog.csdn.net/weixin_46163479/article/details/135695371?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-4-135695371-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB](https://blog.csdn.net/weixin_46163479/article/details/135695371?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-4-135695371-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB)
+- **摘要**: 本文详细介绍了<em>无人机</em>的<em>分类</em>，包括军用、民用和消费级，以及按机翼类型的不同。重点探讨了飞控系统、导航系统、动力系统和数据链等关键技术的挑战和发展趋势。
+
+### 无人机分类研究
+- **作者**: 
+- **时间**: 2013-05-27
+- **链接**: [https://download.csdn.net/download/lcr1228/5460179?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticSearch~search_v2-5-5460179-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB](https://download.csdn.net/download/lcr1228/5460179?ops_request_misc=elastic_search_misc&request_id=1f4ad8f23660449c823958da54fd03c8&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticSearch~search_v2-5-5460179-null-null.nonecase&utm_term=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB)
+- **摘要**: <em>无人机</em><em>分类</em>研究是一个深入了解不同<em>无人机</em>种类和功能的过程。
+
+### AI赋能建筑行业：小白也能学会的10大智能建造应用场景，速收藏！
+- **作者**: 
+- **时间**: 2026-07-25
+- **链接**: [https://blog.csdn.net/m0_48891301/article/details/163189612?ops_request_misc=elastic_search_misc&request_id=6a94967515a24343991151e88b090eff&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-163189612-null-null.nonecase&utm_term=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF](https://blog.csdn.net/m0_48891301/article/details/163189612?ops_request_misc=elastic_search_misc&request_id=6a94967515a24343991151e88b090eff&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-163189612-null-null.nonecase&utm_term=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
+- **摘要**: 本文系统梳理AI技术在建筑施工阶段的10大核心<em>应用场景</em>：工程文档自动生成、施工方案审核、合同风险识别、数字人交底、进度管理、质量检测、安全管理、成本与物料分析、建筑机器人施工、绿色智能监测。这些<em>场景</em>深度融合BIM、IoT、计算机视觉与大模型技术，实现施工过程的智能管控、提质增效与安全兜底，并按技术成熟度划分为已成熟、较成熟和待成熟三类，为工程企业AI落地提供可执
+
+### 应用场景
+- **作者**: 
+- **时间**: 2025-03-17
+- **链接**: [https://wenku.csdn.net/answer/5tgt3f6vf4?ops_request_misc=elastic_search_misc&request_id=6a94967515a24343991151e88b090eff&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-5-5tgt3f6vf4-null-null.nonecase&utm_term=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF](https://wenku.csdn.net/answer/5tgt3f6vf4?ops_request_misc=elastic_search_misc&request_id=6a94967515a24343991151e88b090eff&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-5-5tgt3f6vf4-null-null.nonecase&utm_term=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
+- **摘要**: 本文首先介绍了<em>应用场景</em>的基本定义，包括目标问题、使用条件、预期效果和相关约束。随后，通过技术、商业和教育三个典型领域的案例，展示了<em>应用场景</em>在实际中的应用。最后，提出了<em>应用场景</em>分析的两种方法，并强调了<em>应用场景</em>分析在降低技术落地风险、提升解决方案适配性和预判潜在问题边界方面的重要性。
+
+
+> 本期共收录 6 篇文章
+
+---
+

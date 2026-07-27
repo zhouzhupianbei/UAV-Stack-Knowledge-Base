@@ -106,3 +106,47 @@
 
 ---
 
+
+## 2026-07-28 更新
+
+### 无人机 的 分类
+- **来源**: 超优航空伴你飞
+- **时间**: 2026-07-20 16:06:44
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUopBTZtqS8tlgtCrCfefXpWlqXa8Fplpd9LKtJqkpfrQ0liaQjXehQZyUe5ejvtdCGTJpODzXSe8gwcv0cF-WwjPTw_FNcPvFgTRol5c-4r4FdMi3UmKYIilH_pmOkKjHKFcwe15Hl86gNnIbX8UD1hM9GU6FbG8pAWTfyOvCifEzkZ-YExG95Ji1pPHM6Xc_fHXNG4C2F3f56VKrzu_4XKA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB&token=B8F454CC38990286A2A7F63C247940D1A26E48CB6A67BEB7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUopBTZtqS8tlgtCrCfefXpWlqXa8Fplpd9LKtJqkpfrQ0liaQjXehQZyUe5ejvtdCGTJpODzXSe8gwcv0cF-WwjPTw_FNcPvFgTRol5c-4r4FdMi3UmKYIilH_pmOkKjHKFcwe15Hl86gNnIbX8UD1hM9GU6FbG8pAWTfyOvCifEzkZ-YExG95Ji1pPHM6Xc_fHXNG4C2F3f56VKrzu_4XKA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB&token=B8F454CC38990286A2A7F63C247940D1A26E48CB6A67BEB7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUopBTZtqS8tlgtCrCfefXpWlqXa8Fplpd9LKtJqkpfrQ0liaQjXehQZyUe5ejvtdCGTJpODzXSe8gwcv0cF-WwjPTw_FNcPvFgTRol5c-4r4FdMi3UmKYIilH_pmOkKjHKFcwe15Hl86gNnIbX8UD1hM9GU6FbG8pAWTfyOvCifEzkZ-YExG95Ji1pPHM6Xc_fHXNG4C2F3f56VKrzu_4XKA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB&token=B8F454CC38990286A2A7F63C247940D1A26E48CB6A67BEB7 else 无
+- **摘要**: 无人机 的 分类 随着 无人机 技术的发展,其应用场景不断拓展,根据不同的划分维度, 无人机 可以分为多个不同类别.按用途 分类 按照使...
+
+### 海南自贸港“零关税”货物 应用场景 进一步拓展
+- **来源**: 文昌市科学技术工业信息化局
+- **时间**: 2026-07-28 01:38:12
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9TIwyrjN8HPvBXGxD2q_cVb0hAEyo_3VqlPVe9oBXPXoZXSaWdvw1RjvpECYh1YXajrqhXX84_756hnPXIIyvk8HH3_WKhJ1zFsYPyCTPM2Ajom17NbXvfOP9fwyp5tWGwKZtIABIpNCut-C6Q7LUY-zQOP7yB4lUWp3tPQgTM0ajotuuiAmOIg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9TIwyrjN8HPvBXGxD2q_cVb0hAEyo_3VqlPVe9oBXPXoZXSaWdvw1RjvpECYh1YXajrqhXX84_756hnPXIIyvk8HH3_WKhJ1zFsYPyCTPM2Ajom17NbXvfOP9fwyp5tWGwKZtIABIpNCut-C6Q7LUY-zQOP7yB4lUWp3tPQgTM0ajotuuiAmOIg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9TIwyrjN8HPvBXGxD2q_cVb0hAEyo_3VqlPVe9oBXPXoZXSaWdvw1RjvpECYh1YXajrqhXX84_756hnPXIIyvk8HH3_WKhJ1zFsYPyCTPM2Ajom17NbXvfOP9fwyp5tWGwKZtIABIpNCut-C6Q7LUY-zQOP7yB4lUWp3tPQgTM0ajotuuiAmOIg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA else 无
+- **摘要**: 这标志着海南自贸港封关运作后,“零关税”货物 应用场景 进一步拓展,在“零关税”生产设备维保场景实现了“零关税”政策的二次...
+
+### AI时代老板如何将AI有效 应用 于工作 场景
+- **来源**: 肖明的3分钟思考
+- **时间**: 2026-07-28 01:06:28
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9PAsybfj9RifUUt3AMgzVJSLX9Zvdcpzu1Vq_BpHvLk2hwKFMCHO0yppB-CjPs0T2FZCWiqaPy5wUebVTbpcVbL9uS-9-lo9MWEK1tn2jAyZ9f73yj2HSDUyxa0lEYEcdfGMWdmXM5X6ZPqNpIbsgftkYBDYu-9lOAqZSTUPfM66fxjh3za6jWA..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9PAsybfj9RifUUt3AMgzVJSLX9Zvdcpzu1Vq_BpHvLk2hwKFMCHO0yppB-CjPs0T2FZCWiqaPy5wUebVTbpcVbL9uS-9-lo9MWEK1tn2jAyZ9f73yj2HSDUyxa0lEYEcdfGMWdmXM5X6ZPqNpIbsgftkYBDYu-9lOAqZSTUPfM66fxjh3za6jWA..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9PAsybfj9RifUUt3AMgzVJSLX9Zvdcpzu1Vq_BpHvLk2hwKFMCHO0yppB-CjPs0T2FZCWiqaPy5wUebVTbpcVbL9uS-9-lo9MWEK1tn2jAyZ9f73yj2HSDUyxa0lEYEcdfGMWdmXM5X6ZPqNpIbsgftkYBDYu-9lOAqZSTUPfM66fxjh3za6jWA..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA else 无
+- **摘要**: AI在管理层工作 场景 中的核心定位 大众 应用 现状:当前多数用户对AI的 使用 仍停留在基础问答或轻度生活 场景 (如日常咨询、点单、购...
+
+### 2026年我国数据要素 场景 应用 赋能六大行业研究报告
+- **来源**: 大咖聊管理
+- **时间**: 2026-07-28 00:01:58
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd91Ps3mxbJb-qVh77E6ddpfk6fIGbLLTVVeZannCQbf7SHuMCpleECWVOKSVCvpX2NhtmKntWsSeEJAHWXLxTPZOKS6TcDbGaZHJd_YEcnOSVBG9My-hhbcqKdmjL_2UW2JloQX-2m9WwvnZ7jQkm9vPVUCX-MlBQ32J-7EDYzFVDI3OTRHYU2og..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd91Ps3mxbJb-qVh77E6ddpfk6fIGbLLTVVeZannCQbf7SHuMCpleECWVOKSVCvpX2NhtmKntWsSeEJAHWXLxTPZOKS6TcDbGaZHJd_YEcnOSVBG9My-hhbcqKdmjL_2UW2JloQX-2m9WwvnZ7jQkm9vPVUCX-MlBQ32J-7EDYzFVDI3OTRHYU2og..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd91Ps3mxbJb-qVh77E6ddpfk6fIGbLLTVVeZannCQbf7SHuMCpleECWVOKSVCvpX2NhtmKntWsSeEJAHWXLxTPZOKS6TcDbGaZHJd_YEcnOSVBG9My-hhbcqKdmjL_2UW2JloQX-2m9WwvnZ7jQkm9vPVUCX-MlBQ32J-7EDYzFVDI3OTRHYU2og..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA else 无
+- **摘要**: 全链条打通金融服务领域的数据要素 应用场景 最为丰富,牵引作用突出.北京市西城区发布《数据领域金融产品包》和《数据资产金融...
+
+### 西餐礼仪互动 场景 ——人际交往美学 应用
+- **来源**: 文雯字子椿
+- **时间**: 2026-07-27 23:46:11
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9SJeePwkR0M6pk4sjsPM-tkteQzJr3MIfWriTpNQr5jln8AstxHR2dQJmctnbBfJgT6xASi9uLNHtVGQZ1hNP0gYGhWao_Z54yQldn4t1U-Vh_5QIbpPJudq4r4eGSWhK70Co9goTAfF2dLB-KBd7SQjbUccfINo9s0ZNE1Z5Ras6Ebq8fk9diw..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9SJeePwkR0M6pk4sjsPM-tkteQzJr3MIfWriTpNQr5jln8AstxHR2dQJmctnbBfJgT6xASi9uLNHtVGQZ1hNP0gYGhWao_Z54yQldn4t1U-Vh_5QIbpPJudq4r4eGSWhK70Co9goTAfF2dLB-KBd7SQjbUccfINo9s0ZNE1Z5Ras6Ebq8fk9diw..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd9SJeePwkR0M6pk4sjsPM-tkteQzJr3MIfWriTpNQr5jln8AstxHR2dQJmctnbBfJgT6xASi9uLNHtVGQZ1hNP0gYGhWao_Z54yQldn4t1U-Vh_5QIbpPJudq4r4eGSWhK70Co9goTAfF2dLB-KBd7SQjbUccfINo9s0ZNE1Z5Ras6Ebq8fk9diw..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA else 无
+- **摘要**: 人际交流美学课程, 场景 融合实践,提升人际交流的能力与水平[666][666]#美育#礼仪#中华礼学#礼学 应用 #政务礼仪#华夏盛德#文雯...
+
+### 2026人形机器人 场景 应用 图谱
+- **来源**: 报告喵report
+- **时间**: 2026-07-27 23:28:24
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd98lU0-LiuqwMXtNuFVeCM6DicB3nP3KBNz_-qIK-4i_DHn41IEyKkDIwj4KfFVsknQGq9AKRtUf5_GTsiob8ArJosPFzR4USG_CWP_l2xlEZVoEznPau68qiqpPt3kA_gUlERYMGVo0nyrCwiZTxvNUgcypb5V_4hdBlf0ZVlf4Z5Nu7CnoSqqg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd98lU0-LiuqwMXtNuFVeCM6DicB3nP3KBNz_-qIK-4i_DHn41IEyKkDIwj4KfFVsknQGq9AKRtUf5_GTsiob8ArJosPFzR4USG_CWP_l2xlEZVoEznPau68qiqpPt3kA_gUlERYMGVo0nyrCwiZTxvNUgcypb5V_4hdBlf0ZVlf4Z5Nu7CnoSqqg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUoW7saNsufxT8tCrCfefXpWlqXa8Fplpd98lU0-LiuqwMXtNuFVeCM6DicB3nP3KBNz_-qIK-4i_DHn41IEyKkDIwj4KfFVsknQGq9AKRtUf5_GTsiob8ArJosPFzR4USG_CWP_l2xlEZVoEznPau68qiqpPt3kA_gUlERYMGVo0nyrCwiZTxvNUgcypb5V_4hdBlf0ZVlf4Z5Nu7CnoSqqg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=B8F46A0947E57DFADDD88A4058D1292DDE8AE4E96A67BEBA else 无
+- **摘要**: 工业制造为最大 应用场景 ,已有明确规模化订单◦ 覆盖汽车(活塞销上料、焊装、车身安装)、3C电子(平板测试、厂内物流)、电...
+
+
+> 本期共收录 6 篇文章
+
+---
+
