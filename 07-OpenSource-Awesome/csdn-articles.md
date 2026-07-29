@@ -274,3 +274,60 @@
 
 ---
 
+
+
+## 2026-07-29 更新（电力 / 光伏 / 风电 巡检主题）
+
+> 本期共收录 8 篇技术长文，覆盖无人机智能巡检架构、光伏热斑 YOLO、风电叶片 CEA-DETR / KGP-YOLO、Qwen3.5 边缘端等 2026 最新实战
+
+### 无人机智能巡检系统架构与实战优化指南
+- **作者**: weixin_29044157
+- **时间**: 2026-07-02
+- **链接**: [https://blog.csdn.net/weixin_29044157/article/details/162501148](https://blog.csdn.net/weixin_29044157/article/details/162501148)
+- **摘要**: 无人机智能巡检系统架构与实战优化指南，覆盖输电 / 变电 / 光伏 / 风电全场景
+
+### 智能电网巡检电力设施及缺陷检测数据集（绝缘子/输电线路/变电站）
+- **作者**: 2401_86822270
+- **时间**: 2026-07-17
+- **链接**: [https://blog.csdn.net/2401_86822270/article/details/162955689](https://blog.csdn.net/2401_86822270/article/details/162955689)
+- **摘要**: 电力设施检测数据集 YOLO 标准格式，覆盖绝缘子、输电线路、变电站设备
+
+### 无人机巡检避坑指南｜光伏红外缺陷 YOLO 标准数据集完整实操方案
+- **作者**: 2403_88545703
+- **时间**: 2026-07-16
+- **链接**: [https://blog.csdn.net/2403_88545703/article/details/162941356](https://blog.csdn.net/2403_88545703/article/details/162941356)
+- **摘要**: 光伏红外热成像数据集、YOLO 光伏缺陷检测、热斑玻璃破裂完整实操
+
+### 告别三维建模！山地光伏无人机 AI 巡检全方案解析（附架构）
+- **作者**: klandor2008
+- **时间**: 2026-03-03
+- **链接**: [https://blog.csdn.net/klandor2008/article/details/158607774](https://blog.csdn.net/klandor2008/article/details/158607774)
+- **摘要**: 山地光伏 AI 巡检全方案：无需航线规划，即飞即检
+
+### 无人机+CEA-DETR：风电叶片小目标缺陷检测实战方案
+- **作者**: weixin_31124163
+- **时间**: 2026-06-20
+- **链接**: [https://blog.csdn.net/weixin_31124163/article/details/162132413](https://blog.csdn.net/weixin_31124163/article/details/162132413)
+- **摘要**: CEA-DETR 风电叶片小目标缺陷检测，mAP50 达 89.4%
+
+### IEEE Sensors｜湖南大学提出 KGP-YOLO：先定位风电叶片再检测缺陷
+- **作者**: sunny_shun
+- **时间**: 2026-03-28
+- **链接**: [https://blog.csdn.net/sunny_shun/article/details/159580367](https://blog.csdn.net/sunny_shun/article/details/159580367)
+- **摘要**: KGP-YOLO 三数据集 mAP 均超 87%，先定位再检测范式
+
+### Qwen3.5-2B 边缘计算落地：无人机回传图片→本地模型→缺陷标注建议
+- **作者**: weixin_35920379
+- **时间**: 2026-01-18
+- **链接**: [https://blog.csdn.net/weixin_35920379/article/details/157088679](https://blog.csdn.net/weixin_35920379/article/details/157088679)
+- **摘要**: Qwen3.5-2B 边缘端部署，无人机回传图片本地缺陷标注
+
+### 基于 YOLOv26 的光伏板热斑检测系统：红外+可见光
+- **作者**: weixin_52908342
+- **时间**: 2026-02-12
+- **链接**: [https://blog.csdn.net/weixin_52908342/article/details/158013794](https://blog.csdn.net/weixin_52908342/article/details/158013794)
+- **摘要**: YOLOv26 红外 + 可见光融合光伏板热斑检测系统
+
+> 本期共收录 8 篇文章
+
+---

@@ -1009,3 +1009,84 @@
 
 ---
 
+
+
+## 2026-07-29 更新（电力 / 光伏 / 风电 巡检主题）
+
+> 本期共收录 12 个项目，聚焦电力设施 / 光伏电站 / 风电场巡检相关算法与数据集
+
+### binyisu/PVEL-AD
+- **Stars**: 159
+- **描述**: Photovoltaic cell defect detection
+- **链接**: [https://github.com/binyisu/PVEL-AD](https://github.com/binyisu/PVEL-AD)
+- **标签**: photovoltaic, solar-panel, defect-detection
+
+### andreluizbvs/InsPLAD
+- **Stars**: 159
+- **描述**: Inspection of Power Line Assets Dataset (InsPLAD)
+- **链接**: [https://github.com/andreluizbvs/InsPLAD](https://github.com/andreluizbvs/InsPLAD)
+- **标签**: powerline, inspection, dataset, drone
+
+### titangil/Automatic-Detection-of-Defective-Photovoltaic-Modules-by-Aerial-Thermographic-Inspections
+- **Stars**: 45
+- **描述**: 利用红外热像仪 + 无人机检测光伏组件热斑缺陷
+- **链接**: [https://github.com/titangil/Automatic-Detection-of-Defective-Photovoltaic-Modules-by-Aerial-Thermographic-Inspections](https://github.com/titangil/Automatic-Detection-of-Defective-Photovoltaic-Modules-by-Aerial-Thermographic-Inspections)
+- **标签**: photovoltaic, thermographic, drone
+
+### open-airlab/VTNMPC-Autonomous-Wind-Turbine-Inspection
+- **Stars**: 45
+- **描述**: 自主风电叶片巡检框架（VTNMPC）— 含仿真文件
+- **链接**: [https://github.com/open-airlab/VTNMPC-Autonomous-Wind-Turbine-Inspection](https://github.com/open-airlab/VTNMPC-Autonomous-Wind-Turbine-Inspection)
+- **标签**: wind-turbine, mpc, autonomous, inspection
+
+### adions025/Damage_Detection_MaskRCNN
+- **Stars**: 35
+- **描述**: 基于 MaskRCNN 的风机叶片缺陷检测
+- **链接**: [https://github.com/adions025/Damage_Detection_MaskRCNN](https://github.com/adions025/Damage_Detection_MaskRCNN)
+- **标签**: wind-blade, mask-rcnn, damage-detection
+
+### hansehe/Wind-Blade-Inspection
+- **Stars**: 30
+- **描述**: 基于 Hough 变换 + Canny 边缘检测的自主风机叶片巡检
+- **链接**: [https://github.com/hansehe/Wind-Blade-Inspection](https://github.com/hansehe/Wind-Blade-Inspection)
+- **标签**: wind-blade, hough, canny, inspection
+
+### imadgohar/DTU-annotations
+- **Stars**: 26
+- **描述**: DTU 公开无人机风机叶片数据集标注
+- **链接**: [https://github.com/imadgohar/DTU-annotations](https://github.com/imadgohar/DTU-annotations)
+- **标签**: wind-turbine, dataset, annotation
+
+### P-Darabi/SolarPanelsDefectDetector
+- **Stars**: 18
+- **描述**: YOLOv9 端到端光伏组件热异常检测，FastAPI + Docker
+- **链接**: [https://github.com/P-Darabi/SolarPanelsDefectDetector](https://github.com/P-Darabi/SolarPanelsDefectDetector)
+- **标签**: solar-panel, yolov9, defect-detection, fastapi
+
+### lyc686/MNFI-Net
+- **Stars**: 11
+- **描述**: MNFI-Net 多尺度邻域特征交互网络用于光伏电池缺陷检测
+- **链接**: [https://github.com/lyc686/MNFI-Net](https://github.com/lyc686/MNFI-Net)
+- **标签**: photovoltaic, defect-detection, deep-learning
+
+### adions025/Object_Detection_Yolov3
+- **Stars**: 10
+- **描述**: YOLOv3 风机叶片缺陷实时检测（无人机 + GoPro）
+- **链接**: [https://github.com/adions025/Object_Detection_Yolov3](https://github.com/adions025/Object_Detection_Yolov3)
+- **标签**: wind-blade, yolov3, real-time, drone
+
+### Pavan63021/Wind-Trubine-Failure-Analysis
+- **Stars**: 7
+- **描述**: 风机故障分析：叶片、齿轮箱、发电机
+- **链接**: [https://github.com/Pavan63021/Wind-Trubine-Failure-Analysis](https://github.com/Pavan63021/Wind-Trubine-Failure-Analysis)
+- **标签**: wind-turbine, failure-analysis
+
+### odtu/HV-UAV
+- **Stars**: 5
+- **描述**: 高压输电线路巡检 UAV 设计
+- **链接**: [https://github.com/odtu/HV-UAV](https://github.com/odtu/HV-UAV)
+- **标签**: uav, high-voltage, transmission-line
+
+> 本期共收录 12 个项目
+
+---

@@ -370,3 +370,84 @@
 
 ---
 
+
+
+## 2026-07-29 更新（电力 / 光伏 / 风电 主题）
+
+> 本期共收录 12 篇文章，涵盖机巢、5G+北斗、大模型、光伏热斑厂商、风电叶片内腔检测等 2026 最新动态
+
+### 光伏热斑检测、智能监控系统行业需求及头部厂商对比
+- **来源**: 安防行业网
+- **时间**: 2026-07-24
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 光伏热斑检测 / 智能监控 / 头部厂商对比，涉及无人机巡检、机载红外、固定红外
+
+### 灯笼室内无人机,开启风电叶片内腔检测新探索
+- **来源**: 西安光环-室内无人机
+- **时间**: 2026-07-24
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 灯笼型室内无人机填补风电叶片内腔检测空白，行业首创
+
+### 探索 AI 应用行业共识 《基于 AI 对风电机组叶片损伤预测应用研究》项目启动
+- **来源**: 风能专委会CWEA
+- **时间**: 2026-03-27
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: AI 对风电机组叶片损伤预测应用研究项目启动，AI 大模型 + 风电运维
+
+### 【演讲嘉宾】武汉中科刘天宇：复合材料风电叶片智能检测
+- **来源**: 东方风力发电网
+- **时间**: 2026-03-14
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 武汉中科复合材料风电叶片智能检测 — 火眼金睛系统
+
+### AI 赋能风电叶片材料检测！破解行业痛点
+- **来源**: 中国建材检验认证集团江苏公司
+- **时间**: 2026-02-13
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd94vU4zhfXGQr8G3mB2kOvIq--yrbh6aY996BN8adIJeWsbgPOvFmj4-nyeoQ80lalC_3-CnJVHJCTbmGW79RKiZ2suFFmhjgBVn3F1Y-RuXceORhtLD5blt2VeHGo79Z1iqUgn40SpniQe2Q-7NkU6jjJaS9xmJRTugkzJ8UhkxICn9lOoZLP2Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: AI 赋能风电叶片材料检测，破解行业痛点
+
+### 国内首次！一键控制5架无人机开展电力巡检
+- **来源**: 国家电网报
+- **时间**: 2025-12-15
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ZrYt6fyublZmNebU8OJ5t8dJxB7hKzjFqXa8Fplpd9lM7P74BxJuv_vz6CzwQla2LvizqFvLQs0unHmYTKfWYNOemaPFwdccitlAvsC5v3rXNlJX3X8_r6ZBHK44K-z5ePht74LkHwqDIjNgwrnsO9ja4vYsk_DhqDHEzaFKWGYRCQbZ2aurpYZyy4YOQXbFrsyF35t41_SphGI1s9_D5QL0Hr9Gyd3Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ZrYt6fyublZmNebU8OJ5t8dJxB7hKzjFqXa8Fplpd9lM7P74BxJuv_vz6CzwQla2LvizqFvLQs0unHmYTKfWYNOemaPFwdccitlAvsC5v3rXNlJX3X8_r6ZBHK44K-z5ePht74LkHwqDIjNgwrnsO9ja4vYsk_DhqDHEzaFKWGYRCQbZ2aurpYZyy4YOQXbFrsyF35t41_SphGI1s9_D5QL0Hr9Gyd3Q..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 国内首次一键控制 5 架无人机协同电力巡检
+
+### 跨越高原与雪山，无人机机巢安家，电力光伏全面开花
+- **来源**: GEOAI中科云图
+- **时间**: 2024-01-18
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ZrYt6fyublZmNebU8OJ5t8dJxB7hKzjFqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PFkK0w11I16-_kvPrpqOJ8luu-HMr8YhsNvkqtflsYqpUY6wUBXerbYADxgpB4NigB6BRBz3eK45tPpuemfeDjJs0gQQeKXZCPz5HV_3Lvd6TzrnuvYFOg4YJSSFPgfogQ..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ZrYt6fyublZmNebU8OJ5t8dJxB7hKzjFqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PFkK0w11I16-_kvPrpqOJ8luu-HMr8YhsNvkqtflsYqpUY6wUBXerbYADxgpB4NigB6BRBz3eK45tPpuemfeDjJs0gQQeKXZCPz5HV_3Lvd6TzrnuvYFOg4YJSSFPgfogQ..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 高原雪山机巢安家，电力 + 光伏全面开花
+
+### 无人机机巢 肇庆首飞，大旺开启智能电力巡检新时代
+- **来源**: 肇庆高新发布
+- **时间**: 2024-04-10
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 肇庆首飞机巢 + 5G+RTK 智能电力巡检
+
+### 国网黄冈电力"一巢多机"无人机精细巡检
+- **来源**: 无人机
+- **时间**: 2023-12-13
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA)
+- **摘要**: 一巢多机精细化巡检
+
+### 车载电力无人机机巢显威力 巡检效率最高提升至 4 倍
+- **来源**: 无人机
+- **时间**: 2023-12-01
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BB%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BB%E6%9C%BA)
+- **摘要**: 车载机巢，巡检效率提升 4 倍
+
+### 国网湖北电力研发无人机移动机巢
+- **来源**: 环球无人机
+- **时间**: 2023-10-23
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BB%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1cyO6X3o0GizU_x5eoNbCIF00lc5HsYuVqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PH9SG6nLp4WeDtEJ-pjta7JohTPBgFuYWNDMn-XlJiw_3AlaSWDfI0bzs4Re0bb09KYH5Zf5DXwPEJXbFrQdQlfY9iHlJ86_8HPNmp_AAwusvoWD-PRGcC1S6t2rFt2rnA..&type=2&query=%E6%97%A0%E4%BA%BB%E6%9C%BA)
+- **摘要**: 国网湖北电力研发无人机移动机巢
+
+### 星逻智能携手昇腾AI，助力无人机光伏巡检智能化再升级！
+- **来源**: 华为计算
+- **时间**: 2023-02-10
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ZrYt6fyublZmNebU8OJ5t8dJxB7hKzjFqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PFkK0w11I16-_kvPrpqOJ8luu-HMr8YhsNvkqtflsYqpUY6wUBXerbYADxgpB4NigB6BRBz3eK45tPpuemfeDjJs0gQQeKXZCPz5HV_3Lvd6TzrnuvYFOg4YJSSFPgfogQ..&type=2&query=%E6%97%A0%E4%BA%BB%E6%9C%BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ZrYt6fyublZmNebU8OJ5t8dJxB7hKzjFqXa8Fplpd9FUGGr20HxzTWM5M_v4HDtrK4Nd2RYEMn8MgegsRN1Yt7Ip8PqmF3PFkK0w11I16-_kvPrpqOJ8luu-HMr8YhsNvkqtflsYqpUY6wUBXerbYADxgpB4NigB6BRBz3eK45tPpuemfeDjJs0gQQeKXZCPz5HV_3Lvd6TzrnuvYFOg4YJSSFPgfogQ..&type=2&query=%E6%97%A0%E4%BA%BB%E6%9C%BA)
+- **摘要**: 星逻智能 + 华为昇腾 + 光伏巡检智能化
+
+> 本期共收录 12 篇文章
+
+---
