@@ -1,3 +1,9 @@
+<!--
+ * @Date: 2026-07-24 18:15:44
+ * @FilePath: /UAV-Stack-Knowledge-Base/04-Streaming-AI/wechat-articles.md
+ * @LastEditTime: 2026-07-28 21:10:05
+ * @LastEditors: 吕郭飞 lvguofei@example.com
+-->
 > 💡 **如果你也在做无人机 / 飞控 / 巡检 / 低空相关**，觉得这份清单有用，欢迎 **点个 ⭐ Star + 把这个仓库分享给身边的朋友** —— PX4 / ArduPilot / MAVLink / 仿真 / 巡检算法 这些领域资料散落各处，**一个人查文档远不如一群人共建一份知识库更高效**。
 
 ---
@@ -41,36 +47,6 @@
 - **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiKJnwRdNlmIyz--DDSMRnA8g_KiM0GxUR1hjWH875vqBt2GVKZg47Frg188bsYyZlXLn1-bi1oXfwDbChETQ1vXd-gajdmjdlDZNaYed7G8MXNvECHM7dHTwdVqCwyPdzA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiKJnwRdNlmIyz--DDSMRnA8g_KiM0GxUR1hjWH875vqBt2GVKZg47Frg188bsYyZlXLn1-bi1oXfwDbChETQ1vXd-gajdmjdlDZNaYed7G8MXNvECHM7dHTwdVqCwyPdzA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwFs7E2k1FThCJDRQSeLTRm1qXa8Fplpd9-1y7Qh7BS61vDIvtX2F3v4kb2H17N9WLB8efFMeBsbo2v_0bFS8tiKJnwRdNlmIyz--DDSMRnA8g_KiM0GxUR1hjWH875vqBt2GVKZg47Frg188bsYyZlXLn1-bi1oXfwDbChETQ1vXd-gajdmjdlDZNaYed7G8MXNvECHM7dHTwdVqCwyPdzA..&type=2&query=ZLMediaKit&token=9E1B231B8F4E79BEBEB9E8E719958F87BF9017036A633B34 else 无
 - **摘要**: 不知不觉, zlmediakit 开源已经6年了,期间我们结识了很多真挚的朋友,大家在为 zlmediakit 默默的不求回报的付出,在众人的呵护下...
 
-### 绍兴会议 部署 坚持发展新时代“枫桥经验”
-- **来源**: 中央政法委长安剑
-- **时间**: 2018-11-12 16:29:30
-- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9H7909yaSiirFrE-lF0AIXxqq5_fmT5z-JQIP8Xy2dUYRF80I_QmejfzeokGg4Ilfl5wdnu-37gtBG7FwRAoCNjPoCZKx2GKmDXFPYu-eQcZp35cl-hHY8biOioYq33fEzOph91ZNgN00vJRVKKtfcYoynYX2IShALTFtVa1wIYHwdVqCwyPdzA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9H7909yaSiirFrE-lF0AIXxqq5_fmT5z-JQIP8Xy2dUYRF80I_QmejfzeokGg4Ilfl5wdnu-37gtBG7FwRAoCNjPoCZKx2GKmDXFPYu-eQcZp35cl-hHY8biOioYq33fEzOph91ZNgN00vJRVKKtfcYoynYX2IShALTFtVa1wIYHwdVqCwyPdzA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9H7909yaSiirFrE-lF0AIXxqq5_fmT5z-JQIP8Xy2dUYRF80I_QmejfzeokGg4Ilfl5wdnu-37gtBG7FwRAoCNjPoCZKx2GKmDXFPYu-eQcZp35cl-hHY8biOioYq33fEzOph91ZNgN00vJRVKKtfcYoynYX2IShALTFtVa1wIYHwdVqCwyPdzA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
-- **摘要**: 要认真贯彻党中央关于全面依法治国的决策 部署 ,把群众路线和法治方式结合起来,打造基层群众用得上、离不开的法治.要充分运用...
-
-### 教育部紧急 部署
-- **来源**: 澎湃新闻
-- **时间**: 2021-04-29 09:57:02
-- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9lseSTfg7gLy8lOgcJettAQeWNvBfe9XFCCNNYtSUuehgzFQFSqUduGYiyxa18CSOoM5gieJWmkOmEJOpAFuAixhfJPfb-TUyTQEb71D0pkzUno1xm1nr_-s7j57CG_zfYX_SO249aCuFGsf9Cab0v3nLRUh2TD09YeIfO6hqDelFkDr8IT4KYw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9lseSTfg7gLy8lOgcJettAQeWNvBfe9XFCCNNYtSUuehgzFQFSqUduGYiyxa18CSOoM5gieJWmkOmEJOpAFuAixhfJPfb-TUyTQEb71D0pkzUno1xm1nr_-s7j57CG_zfYX_SO249aCuFGsf9Cab0v3nLRUh2TD09YeIfO6hqDelFkDr8IT4KYw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9lseSTfg7gLy8lOgcJettAQeWNvBfe9XFCCNNYtSUuehgzFQFSqUduGYiyxa18CSOoM5gieJWmkOmEJOpAFuAixhfJPfb-TUyTQEb71D0pkzUno1xm1nr_-s7j57CG_zfYX_SO249aCuFGsf9Cab0v3nLRUh2TD09YeIfO6hqDelFkDr8IT4KYw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
-- **摘要**: 澎湃新闻记者 程婷4月28日,广西北流市发生一起持凶器伤害幼儿园师生案件,伤及多名教师、幼儿.案件性质极其恶劣,引发社会强...
-
-### “已 部署 '几十枚'战术核武器”
-- **来源**: 参考消息
-- **时间**: 2024-04-25 22:21:33
-- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdmE7GkO7EqjbcZPe7fHxPEQvVT5WNWAZYtdCSLvs0mB6UBf9ZJcrdYmzjX7osgI3UbCeSD9i0rMqgffzAusKU46dpjG-1DNBMhYkafBdHcwcDNWCJPcpLEvzAjcIGepUqA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdmE7GkO7EqjbcZPe7fHxPEQvVT5WNWAZYtdCSLvs0mB6UBf9ZJcrdYmzjX7osgI3UbCeSD9i0rMqgffzAusKU46dpjG-1DNBMhYkafBdHcwcDNWCJPcpLEvzAjcIGepUqA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdmE7GkO7EqjbcZPe7fHxPEQvVT5WNWAZYtdCSLvs0mB6UBf9ZJcrdYmzjX7osgI3UbCeSD9i0rMqgffzAusKU46dpjG-1DNBMhYkafBdHcwcDNWCJPcpLEvzAjcIGepUqA..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
-- **摘要**: 俄罗斯已经在白俄罗斯 部署 了“几十枚”战术核武器.俄罗斯的盟友白俄罗斯去年6月表示,已开始接收这些武器.这是自苏联解体以...
-
-### 首次 部署 ,监视中国军队!
-- **来源**: 参考消息
-- **时间**: 2022-01-26 15:27:52
-- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdlPCEeTZDjFyG-YQiRGIXxXk4tKBtXpRVq44AM8cF6kCnMn93wKD8V3_sFMhXg0piz_i2ZU2t-jYoKy23yKRTXK_xI_9SLB8XAEtS9XcrGy0VMU95uH5t3JflztgI7RZ1g..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdlPCEeTZDjFyG-YQiRGIXxXk4tKBtXpRVq44AM8cF6kCnMn93wKD8V3_sFMhXg0piz_i2ZU2t-jYoKy23yKRTXK_xI_9SLB8XAEtS9XcrGy0VMU95uH5t3JflztgI7RZ1g..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9U-kddTbzf5zctNuK7ny2x77MLer5HMA3X4MmnvROLlK7qpyrysJMdlPCEeTZDjFyG-YQiRGIXxXk4tKBtXpRVq44AM8cF6kCnMn93wKD8V3_sFMhXg0piz_i2ZU2t-jYoKy23yKRTXK_xI_9SLB8XAEtS9XcrGy0VMU95uH5t3JflztgI7RZ1g..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
-- **摘要**: 据日本《南日本新闻》网站1月25日报道,据悉,日美两国政府正在考虑向日本海上自卫队鹿屋航空基地临时 部署 7至8架美军MQ-9无人...
-
-### 乌鲁木齐最新 部署 !
-- **来源**: 中国新闻网
-- **时间**: 2022-09-12 09:58:54
-- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9OB4egxZHKlpomcyDzj9_kfkLgtbP3m66yzhagsvw1dEFOqWIJLEniLF455crRdqwihjM4bH5hN8h-r5kIYvskrU-Gjrq0mNC5-EfPYMx0SCLaTnS-iVYYpH62s47C5zsYhWiFGwxag_4M314Q0adZTflM6WH3uZPcm-_UqzpxB1f_71bqkOtiw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9OB4egxZHKlpomcyDzj9_kfkLgtbP3m66yzhagsvw1dEFOqWIJLEniLF455crRdqwihjM4bH5hN8h-r5kIYvskrU-Gjrq0mNC5-EfPYMx0SCLaTnS-iVYYpH62s47C5zsYhWiFGwxag_4M314Q0adZTflM6WH3uZPcm-_UqzpxB1f_71bqkOtiw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS55UVFEtPDlwrzecNd5zPUyJDRQSeLTRm1qXa8Fplpd9OB4egxZHKlpomcyDzj9_kfkLgtbP3m66yzhagsvw1dEFOqWIJLEniLF455crRdqwihjM4bH5hN8h-r5kIYvskrU-Gjrq0mNC5-EfPYMx0SCLaTnS-iVYYpH62s47C5zsYhWiFGwxag_4M314Q0adZTflM6WH3uZPcm-_UqzpxB1f_71bqkOtiw..&type=2&query=%E9%83%A8%E7%BD%B2&token=9E1B33EE99596FA9A9AEFEF10FF22DF8A9E34BE96A633B38 else 无
-- **摘要**: 会上,乌鲁木齐市卫健委副主任章新勇介绍,经过研判,11日晚,已对扩大低风险区有序流动作出 安排 部署 ,在其他重点城区已经逐步...
-
 ### 10分钟用英特尔DevKit 搭建 RTMP 流媒体服务器 并基于OpenVINO AI赋能视频处理
 - **来源**: 极市平台
 - **时间**: 2023-08-14 22:00:55
@@ -103,6 +79,50 @@
 
 
 > 本期共收录 15 篇文章
+
+---
+
+
+## 2026-07-31 更新
+
+### 音视频工具--如何使用 ZLMediaKit 验证功能是否完备
+- **来源**: MediaStack
+- **时间**: 2024-03-13 08:31:58
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLnPyPraKWNfa7mfos5_VfbVqXa8Fplpd9lpSMIiJSXWY8ysdt-t85VPfUlUZc7AlEAUZ7gzq2oCPkSGZ-JOwsGfI9SH3QlSrXIWl8t2O5WbuAUEkWqlfwa4yqw47MDZt5XiDGeQm3g-5SppoAEHFF4wqXKSOm9UByB7OcSlrhtMzh0uV_CugfSlt4RhJC9ta8-ezqmIhvEKz1AfaFW2DefQ..&type=2&query=ZLMediaKit&token=CFD34321E042DA5D797C2EA159DD60E97AC4140B6A6B9622](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLnPyPraKWNfa7mfos5_VfbVqXa8Fplpd9lpSMIiJSXWY8ysdt-t85VPfUlUZc7AlEAUZ7gzq2oCPkSGZ-JOwsGfI9SH3QlSrXIWl8t2O5WbuAUEkWqlfwa4yqw47MDZt5XiDGeQm3g-5SppoAEHFF4wqXKSOm9UByB7OcSlrhtMzh0uV_CugfSlt4RhJC9ta8-ezqmIhvEKz1AfaFW2DefQ..&type=2&query=ZLMediaKit&token=CFD34321E042DA5D797C2EA159DD60E97AC4140B6A6B9622) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLnPyPraKWNfa7mfos5_VfbVqXa8Fplpd9lpSMIiJSXWY8ysdt-t85VPfUlUZc7AlEAUZ7gzq2oCPkSGZ-JOwsGfI9SH3QlSrXIWl8t2O5WbuAUEkWqlfwa4yqw47MDZt5XiDGeQm3g-5SppoAEHFF4wqXKSOm9UByB7OcSlrhtMzh0uV_CugfSlt4RhJC9ta8-ezqmIhvEKz1AfaFW2DefQ..&type=2&query=ZLMediaKit&token=CFD34321E042DA5D797C2EA159DD60E97AC4140B6A6B9622 else 无
+- **摘要**: ZLMediaKit 作为项目的技术方案,并将其分别应用于客户端和服务端进行模块化调试,最终完成系统集成和交付.其中正好有RTSPS...
+
+### 平遥紧急 部署 !
+- **来源**: 平遥融媒
+- **时间**: 2026-03-26 10:02:05
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9QyzECwnftiL992IQph3tbbk1mbTYkXNQcukT7JarQCk07Qph0y5bm2t1Mu8nU0J0d32LddA1kwX71WkL6hhRYz6TXnjCP-Vdo66LQ2qGmL5FeQbvlG7S9lg8IA1DcmuE-catdYhWC-RG_yDuTM4-EKpeNcozZ4chuRQFCRp0IRFhWLv6O878UA..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9QyzECwnftiL992IQph3tbbk1mbTYkXNQcukT7JarQCk07Qph0y5bm2t1Mu8nU0J0d32LddA1kwX71WkL6hhRYz6TXnjCP-Vdo66LQ2qGmL5FeQbvlG7S9lg8IA1DcmuE-catdYhWC-RG_yDuTM4-EKpeNcozZ4chuRQFCRp0IRFhWLv6O878UA..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9QyzECwnftiL992IQph3tbbk1mbTYkXNQcukT7JarQCk07Qph0y5bm2t1Mu8nU0J0d32LddA1kwX71WkL6hhRYz6TXnjCP-Vdo66LQ2qGmL5FeQbvlG7S9lg8IA1DcmuE-catdYhWC-RG_yDuTM4-EKpeNcozZ4chuRQFCRp0IRFhWLv6O878UA..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626 else 无
+- **摘要**: 12月23日上午,省委、市委分别召开疫情防控工作领导小组会议,紧急 部署 当前全省全市疫情防控工作.县委书记魏江峰在晋中分会场...
+
+### 省委书记紧急 部署 →
+- **来源**: 参考消息
+- **时间**: 2021-09-12 12:22:54
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd93OBDOXMk-ric6HGJFc1E5Uw3UYw_y-TM06o0L_MUv9lQ2kaRx5fhipDWnaFYu2Sn96FBnMrm4tA_1X9kqYEd3NbpxJohtWbiycRlOn9HvFSlS8bb92OyZrF8kIleqeGOLAXmqJaVRIbBBNpKuRUyaSSGC4M0Z3YiNx5057Q-SANCy6umSSPEsg..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd93OBDOXMk-ric6HGJFc1E5Uw3UYw_y-TM06o0L_MUv9lQ2kaRx5fhipDWnaFYu2Sn96FBnMrm4tA_1X9kqYEd3NbpxJohtWbiycRlOn9HvFSlS8bb92OyZrF8kIleqeGOLAXmqJaVRIbBBNpKuRUyaSSGC4M0Z3YiNx5057Q-SANCy6umSSPEsg..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd93OBDOXMk-ric6HGJFc1E5Uw3UYw_y-TM06o0L_MUv9lQ2kaRx5fhipDWnaFYu2Sn96FBnMrm4tA_1X9kqYEd3NbpxJohtWbiycRlOn9HvFSlS8bb92OyZrF8kIleqeGOLAXmqJaVRIbBBNpKuRUyaSSGC4M0Z3YiNx5057Q-SANCy6umSSPEsg..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626 else 无
+- **摘要**: 9月11日,福建省委书记尹力主持召开省应对新冠肺炎疫情工作领导小组第77次会议,研究 部署 莆田疫情防控工作.尹力强调,要认真...
+
+### 我县 安排 部署 当前重点工作
+- **来源**: 平遥融媒
+- **时间**: 2026-03-29 22:03:59
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9QyzECwnftiL992IQph3tbbk1mbTYkXNQcukT7JarQCk07Qph0y5bm0YDtkvzGRXwI-MAS6qjUxI4yOg8IOAq7Ds8B6c1Hlc_KtSPULv3h6cdN99rEmtDR-HZWhj3rkiytY_iXA0kILQjl5w_PbMeX19zEGp4SLlqFITxAK69o66AFV_3u-a3OQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9QyzECwnftiL992IQph3tbbk1mbTYkXNQcukT7JarQCk07Qph0y5bm0YDtkvzGRXwI-MAS6qjUxI4yOg8IOAq7Ds8B6c1Hlc_KtSPULv3h6cdN99rEmtDR-HZWhj3rkiytY_iXA0kILQjl5w_PbMeX19zEGp4SLlqFITxAK69o66AFV_3u-a3OQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9QyzECwnftiL992IQph3tbbk1mbTYkXNQcukT7JarQCk07Qph0y5bm0YDtkvzGRXwI-MAS6qjUxI4yOg8IOAq7Ds8B6c1Hlc_KtSPULv3h6cdN99rEmtDR-HZWhj3rkiytY_iXA0kILQjl5w_PbMeX19zEGp4SLlqFITxAK69o66AFV_3u-a3OQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626 else 无
+- **摘要**: 7月21号,我县召开重点工作 安排 部署 会,就疫苗接种、土地卫片执法、信访维稳、防汛和农村两委换届等当前重点工作进行再 安排 、...
+
+### 美国在菲律宾 部署 中导,中方回应
+- **来源**: 长安街知事
+- **时间**: 2024-05-11 15:02:11
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9aMCEYybtROLcsa_KjTr7xR9j9pDHavxE4z4ZsFRWf13Ck9YAKnJ999pDIWzkiUtAfy1Is12tpzOTM4ckLzQPx9g1GeckavMEtCl7-G4ZQbe1MeVpViJ2DyS_3oOSaG-XXv0MPWI91dxPIZ3ngzd3sXD_Jr_1vKgTu4459VaG2s9Cy6umSSPEsg..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9aMCEYybtROLcsa_KjTr7xR9j9pDHavxE4z4ZsFRWf13Ck9YAKnJ999pDIWzkiUtAfy1Is12tpzOTM4ckLzQPx9g1GeckavMEtCl7-G4ZQbe1MeVpViJ2DyS_3oOSaG-XXv0MPWI91dxPIZ3ngzd3sXD_Jr_1vKgTu4459VaG2s9Cy6umSSPEsg..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9aMCEYybtROLcsa_KjTr7xR9j9pDHavxE4z4ZsFRWf13Ck9YAKnJ999pDIWzkiUtAfy1Is12tpzOTM4ckLzQPx9g1GeckavMEtCl7-G4ZQbe1MeVpViJ2DyS_3oOSaG-XXv0MPWI91dxPIZ3ngzd3sXD_Jr_1vKgTu4459VaG2s9Cy6umSSPEsg..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626 else 无
+- **摘要**: 问:美国近期在菲律宾 部署 中导系统,这一做法严重危害地区安全,中方是否在此次高官磋商期间表达了关切?答:美方做法严重开历...
+
+### 机械工程学部召开暑期工作 部署 会
+- **来源**: 山东省机械设计研究院
+- **时间**: 2026-07-30 23:51:16
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9zXtgs9Yo9_ZPpiiDXirUv7mtZbodv6t95G9Ze2f0X8NrtKbGiDbHJ8XTf87H4f4RoPOUu_PKDQeLJJsJ09uqRNL9BlFVoWTGIJq-9JeqqHOd_sNF8FfJhre64PypjnHNkc83daHWsux3AB9vEnBVOFkwN4KtAeRwg39E1F7JYv5OJBjQH7pCxQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9zXtgs9Yo9_ZPpiiDXirUv7mtZbodv6t95G9Ze2f0X8NrtKbGiDbHJ8XTf87H4f4RoPOUu_PKDQeLJJsJ09uqRNL9BlFVoWTGIJq-9JeqqHOd_sNF8FfJhre64PypjnHNkc83daHWsux3AB9vEnBVOFkwN4KtAeRwg39E1F7JYv5OJBjQH7pCxQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4HbLx4e5rvLLTLG61Rl6km7mfos5_VfbVqXa8Fplpd9zXtgs9Yo9_ZPpiiDXirUv7mtZbodv6t95G9Ze2f0X8NrtKbGiDbHJ8XTf87H4f4RoPOUu_PKDQeLJJsJ09uqRNL9BlFVoWTGIJq-9JeqqHOd_sNF8FfJhre64PypjnHNkc83daHWsux3AB9vEnBVOFkwN4KtAeRwg39E1F7JYv5OJBjQH7pCxQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=CFD35A04F557C84B6C6A3CB34FB405146CD7DC966A6B9626 else 无
+- **摘要**: 坚持一分 部署 、九分落实.班子成员要靠前指挥、下沉一线,中层干部主动扛责、深耕主业,杜绝推诿拖延、被动应付,对暑期各项攻...
+
+
+> 本期共收录 6 篇文章
 
 ---
 

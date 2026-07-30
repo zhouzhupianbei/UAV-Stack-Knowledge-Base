@@ -104,3 +104,17 @@
 
 ---
 
+
+## 2026-07-31 更新
+
+### Cesium入门教程
+- **作者**: 
+- **时间**: 2024-08-22
+- **链接**: [https://blog.csdn.net/qq_58978006/article/details/141418040?ops_request_misc=elastic_search_misc&request_id=0fa1c8333a37463aa4cf065bc1daa325&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-141418040-null-null.nonecase&utm_term=Cesium](https://blog.csdn.net/qq_58978006/article/details/141418040?ops_request_misc=elastic_search_misc&request_id=0fa1c8333a37463aa4cf065bc1daa325&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-141418040-null-null.nonecase&utm_term=Cesium)
+- **摘要**: 本文介绍了开源JavaScript库<em>Cesium</em>，它用于在Web浏览器创建和显示三维地球与地图。从基本使用入手，讲解了<em>Cesium</em>的初始化，以及Scene场景、Camera相机、Clock时钟、Entity实体等常见对象的属性和方法，还提及地图加载失败的解决办法。
+
+
+> 本期共收录 1 篇文章
+
+---
+
