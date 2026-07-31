@@ -126,3 +126,29 @@
 
 ---
 
+
+## 2026-08-01 更新
+
+### 《无人机装调检修工》无人机检测与维护机械装配图纸:四旋翼无人机、 飞行 控制与导航系统 选型 、无人机的保养方法等考试学习
+- **来源**: 职业技能提升学习知识
+- **时间**: 2026-03-26 07:21:13
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9lTAEm1p7scgdmAwgsVwprFofzBKUV4fu7pjOc7AS0bnaujq7b4gi9G0CKL4L8kzh4pd5PYxjkn5O9VBJ9d2ZDrnh_IXnJLczWArw13QsDG9psIcT2XwWB01664Lb0EdPES5uoxUA6izEHAZL2kPnNpQVuBZaH-YLkoyAx0EHLKHYl_Q5RRZQjg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9lTAEm1p7scgdmAwgsVwprFofzBKUV4fu7pjOc7AS0bnaujq7b4gi9G0CKL4L8kzh4pd5PYxjkn5O9VBJ9d2ZDrnh_IXnJLczWArw13QsDG9psIcT2XwWB01664Lb0EdPES5uoxUA6izEHAZL2kPnNpQVuBZaH-YLkoyAx0EHLKHYl_Q5RRZQjg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9lTAEm1p7scgdmAwgsVwprFofzBKUV4fu7pjOc7AS0bnaujq7b4gi9G0CKL4L8kzh4pd5PYxjkn5O9VBJ9d2ZDrnh_IXnJLczWArw13QsDG9psIcT2XwWB01664Lb0EdPES5uoxUA6izEHAZL2kPnNpQVuBZaH-YLkoyAx0EHLKHYl_Q5RRZQjg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D else 无
+- **摘要**: 配置 选型 飞行平台 构型 选型 :掌握多旋翼、固定翼、无人直升机、垂直起降固定翼等常见构型的性能差异及适用场景,能根据任务需求...
+
+### 编队系列(总)|固定翼编队如何实现稳定 飞行 ?通信架构、协同算法与工程约束深度解析
+- **来源**: 迅翼SwiftWing
+- **时间**: 2026-07-29 16:58:04
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9gdfm4ZhpuRCO2GDOxt2FgwHNQ8hwzxADmPm9Aqphg8GxJvNW8mwv-kN8PtSWBOWDBZztkSUHziywcA_ok1owc_YxqQPkMkijqWHTNjGJBJ2GoBRN0UV3UgZzMGS3Ihgd02zhgSiMvkJfi8a3Pf59HTeTVvSxtY7zazqqFLSqUuafxjh3za6jWA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9gdfm4ZhpuRCO2GDOxt2FgwHNQ8hwzxADmPm9Aqphg8GxJvNW8mwv-kN8PtSWBOWDBZztkSUHziywcA_ok1owc_YxqQPkMkijqWHTNjGJBJ2GoBRN0UV3UgZzMGS3Ihgd02zhgSiMvkJfi8a3Pf59HTeTVvSxtY7zazqqFLSqUuafxjh3za6jWA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9gdfm4ZhpuRCO2GDOxt2FgwHNQ8hwzxADmPm9Aqphg8GxJvNW8mwv-kN8PtSWBOWDBZztkSUHziywcA_ok1owc_YxqQPkMkijqWHTNjGJBJ2GoBRN0UV3UgZzMGS3Ihgd02zhgSiMvkJfi8a3Pf59HTeTVvSxtY7zazqqFLSqUuafxjh3za6jWA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D else 无
+- **摘要**: 路径跟踪和实际 飞行平台 接口结合起来分析[9].5. 向量场与路径参数协调:适合持续前飞,但仍受速度边界限制 向量场方法为每架飞...
+
+### 别只看载重!工业无人机载荷 选型 ,无数项目踩过的隐形大坑
+- **来源**: 领航科技低空经济
+- **时间**: 2026-07-31 18:56:29
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9G7ZMWLwGda7Z8eNoxN9Jf2otVW5Xk1nZGRQ9NJ3qu2QO69ml9YVxHdl9Y6kaglPRrC-KB-u5liQuL3o7XWsLl4ytrKLtnAhZVBmvp4KVOJmP_GXjiiQQQiB2Eqd4vscHNh5buXNX4N_mrirc2IQE110kOXXW14LUZzwYkGtMV0DYl_Q5RRZQjg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9G7ZMWLwGda7Z8eNoxN9Jf2otVW5Xk1nZGRQ9NJ3qu2QO69ml9YVxHdl9Y6kaglPRrC-KB-u5liQuL3o7XWsLl4ytrKLtnAhZVBmvp4KVOJmP_GXjiiQQQiB2Eqd4vscHNh5buXNX4N_mrirc2IQE110kOXXW14LUZzwYkGtMV0DYl_Q5RRZQjg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZuJdz4m5TIiV46JfXhwYUTVqXa8Fplpd9G7ZMWLwGda7Z8eNoxN9Jf2otVW5Xk1nZGRQ9NJ3qu2QO69ml9YVxHdl9Y6kaglPRrC-KB-u5liQuL3o7XWsLl4ytrKLtnAhZVBmvp4KVOJmP_GXjiiQQQiB2Eqd4vscHNh5buXNX4N_mrirc2IQE110kOXXW14LUZzwYkGtMV0DYl_Q5RRZQjg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=D7D8352C3597088BACADFB40B3669554AC99DB856A6CE56D else 无
+- **摘要**: 而是载荷、 飞行平台 、任务场景三者无法匹配.一、行业高频误区:把“标称最大载重”当成安全作业重量厂商参数中标注的最大载荷...
+
+
+> 本期共收录 3 篇文章
+
+---
+

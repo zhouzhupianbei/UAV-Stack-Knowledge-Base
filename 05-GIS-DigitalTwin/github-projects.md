@@ -34,3 +34,17 @@
 
 ---
 
+
+## 2026-08-01 更新
+
+### zhouzhupianbei/UAV-Stack-Knowledge-Base
+- **Stars**: 51
+- **描述**: 无人机（UAV）领域的“百科全书”。本项目深度整合了无人机**政策解读、硬件选型、通讯协议（MAVLink/SDK）、边缘计算（YOLO/AI）、流媒体分发（ZLMediaKit）及 GIS 可视化（Cesium）**的全链路知识。
+- **链接**: [https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base)
+- **标签**: 无
+
+
+> 本期共收录 1 个项目
+
+---
+

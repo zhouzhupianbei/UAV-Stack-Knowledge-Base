@@ -125,3 +125,23 @@
 
 ---
 
+
+## 2026-08-01 更新
+
+### 飞行模拟六自由度平台选型避坑：航空测试非标定制与参数调试实操干货
+- **作者**: 
+- **时间**: 2026-07-30
+- **链接**: [https://blog.csdn.net/tuoweiyundong/article/details/163340120?ops_request_misc=elastic_search_misc&request_id=5a2b2897206d4fedabcadda7bbf3409f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-1-163340120-null-null.nonecase&utm_term=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B](https://blog.csdn.net/tuoweiyundong/article/details/163340120?ops_request_misc=elastic_search_misc&request_id=5a2b2897206d4fedabcadda7bbf3409f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-1-163340120-null-null.nonecase&utm_term=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B)
+- **摘要**: 本文聚焦航空仿真领域六自由度<em>平台</em>的<em>选型</em>与调试，系统梳理驱动系统、运动学解算、洗出算法、实时通讯架构等核心技术要点；强调满载动态精度、EtherCAT总线兼容性、开放API/SDK、宽温稳定性等关键指标；指出非标定制中载荷核算、机房勘测、软件联调前置等高频避坑点，并提供航空训练、eVTOL测试、HIL半实物仿真等典型场景适配建议。
+
+### 多旋翼基本组成
+- **作者**: 
+- **时间**: 2016-11-02
+- **链接**: [https://blog.csdn.net/qq504196282/article/details/53004481?ops_request_misc=elastic_search_misc&request_id=80dbfec1a536421881a8215ca4252109&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-4-53004481-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC](https://blog.csdn.net/qq504196282/article/details/53004481?ops_request_misc=elastic_search_misc&request_id=80dbfec1a536421881a8215ca4252109&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-4-53004481-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC)
+- **摘要**: 本文全面解析了<em>多</em><em>旋翼</em>无人机的关键组成部分，包括机身、动力系统、控制系统等，重点介绍了各部件的工作原理、作用及重要参数，为了解和设计<em>多</em><em>旋翼</em>无人机提供了详实的技术资料。
+
+
+> 本期共收录 2 篇文章
+
+---
+

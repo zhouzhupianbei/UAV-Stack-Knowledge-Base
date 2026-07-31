@@ -152,3 +152,17 @@
 
 ---
 
+
+## 2026-08-01 更新
+
+### Cesium 速成教程:一小时入门 Cesium
+- **来源**: 武汉新中地GIS开发特训营
+- **时间**: 2025-05-08 14:07:16
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZIS_vVXNstrN46JfXhwYUTVqXa8Fplpd98ExsbQeqY7t76HQJmiBUmL2jDBa265UnoAQ96HCPRQ5inbmY3LlqUzOq-vrmUNlgREdjcuNk0j-6bTotSIhvAzQSVlSKt74KvpJJSkrQ54a8KJ8vFpRgi3RfdbGujGrCREmeVxtByxkyMnfOSusbYaq0jM3kitRvEupPbmVLfX5QL0Hr9Gyd3Q..&type=2&query=Cesium&token=D7EFC3A227861D99BDB8E952E41CD6AEBE79B72B6A6CE937](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZIS_vVXNstrN46JfXhwYUTVqXa8Fplpd98ExsbQeqY7t76HQJmiBUmL2jDBa265UnoAQ96HCPRQ5inbmY3LlqUzOq-vrmUNlgREdjcuNk0j-6bTotSIhvAzQSVlSKt74KvpJJSkrQ54a8KJ8vFpRgi3RfdbGujGrCREmeVxtByxkyMnfOSusbYaq0jM3kitRvEupPbmVLfX5QL0Hr9Gyd3Q..&type=2&query=Cesium&token=D7EFC3A227861D99BDB8E952E41CD6AEBE79B72B6A6CE937) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZIS_vVXNstrN46JfXhwYUTVqXa8Fplpd98ExsbQeqY7t76HQJmiBUmL2jDBa265UnoAQ96HCPRQ5inbmY3LlqUzOq-vrmUNlgREdjcuNk0j-6bTotSIhvAzQSVlSKt74KvpJJSkrQ54a8KJ8vFpRgi3RfdbGujGrCREmeVxtByxkyMnfOSusbYaq0jM3kitRvEupPbmVLfX5QL0Hr9Gyd3Q..&type=2&query=Cesium&token=D7EFC3A227861D99BDB8E952E41CD6AEBE79B72B6A6CE937 else 无
+- **摘要**: 01一小时速成 Cesium ,掌握以下7个功能:地图、图层、3D瓦片加载 Cesium 空间数据EntityCesium动态数据地图事件(点击、移动)...
+
+
+> 本期共收录 1 篇文章
+
+---
+
