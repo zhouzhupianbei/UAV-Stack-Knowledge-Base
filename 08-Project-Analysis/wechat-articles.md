@@ -120,3 +120,23 @@
 
 ---
 
+
+## 2026-08-10 更新
+
+### 规范 项目交付 筑牢合规防线|贵州一合心理健康研究院开展 项目交付 专项法律培训
+- **来源**: 贵州一合心理健康研究院
+- **时间**: 2026-08-04 22:15:40
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapZv2XQi1VO96XeLT1ArGuyVqXa8Fplpd9wwwo9-YFlN3V_ZgsxZBjeGe3hChMJ7GUSDcHBxnycsoyY1Q6owhjIkW5ivg8G-ig0Sg8x-KRP4KVVSj0iGWZjKoC8lsLJgk0noqsVcrqRU0CrO1neLKrj6jfgQlfWKSscrvWqyzKYjAM1Jt9bfeIUlkHvq0vxySbA1HJUo3n8r55LU3lqtPw9g..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=1FBC988003D941C6E1E7BA40EAF0C5A2E29C62346A78C08C](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapZv2XQi1VO96XeLT1ArGuyVqXa8Fplpd9wwwo9-YFlN3V_ZgsxZBjeGe3hChMJ7GUSDcHBxnycsoyY1Q6owhjIkW5ivg8G-ig0Sg8x-KRP4KVVSj0iGWZjKoC8lsLJgk0noqsVcrqRU0CrO1neLKrj6jfgQlfWKSscrvWqyzKYjAM1Jt9bfeIUlkHvq0vxySbA1HJUo3n8r55LU3lqtPw9g..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=1FBC988003D941C6E1E7BA40EAF0C5A2E29C62346A78C08C) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapZv2XQi1VO96XeLT1ArGuyVqXa8Fplpd9wwwo9-YFlN3V_ZgsxZBjeGe3hChMJ7GUSDcHBxnycsoyY1Q6owhjIkW5ivg8G-ig0Sg8x-KRP4KVVSj0iGWZjKoC8lsLJgk0noqsVcrqRU0CrO1neLKrj6jfgQlfWKSscrvWqyzKYjAM1Jt9bfeIUlkHvq0vxySbA1HJUo3n8r55LU3lqtPw9g..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=1FBC988003D941C6E1E7BA40EAF0C5A2E29C62346A78C08C else 无
+- **摘要**: 搭建内部统一 项目交付标准 体系,实现项目从业务执行闭环到合规验收闭环的全面升级. 培训设置实战实操环节,通过“拆合同列...
+
+### 港南区举行桥圩羽绒产业园 标准 厂房建设 项目交付 仪式
+- **来源**: 港南宣传
+- **时间**: 2023-11-24 20:20:15
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapZv2XQi1VO96XeLT1ArGuyVqXa8Fplpd9p4527ElGXWP8WGIegS-VeiEMnr1AyaYZ55fhB56fBqmHA2GPv4LQPrksBnV3jL0-8ZgCsvLYTZxzryy8opwdqpVOc4n_mbQ9m7Y8INbYKWI3UUzpm1uTTbEtFDIOUqoF6M5hNmHly-bqD0CKCQY_CBJQYkhugGd5OUewRPkG0aKq3X8EKMKOIA..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=1FBC988003D941C6E1E7BA40EAF0C5A2E29C62346A78C08C](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapZv2XQi1VO96XeLT1ArGuyVqXa8Fplpd9p4527ElGXWP8WGIegS-VeiEMnr1AyaYZ55fhB56fBqmHA2GPv4LQPrksBnV3jL0-8ZgCsvLYTZxzryy8opwdqpVOc4n_mbQ9m7Y8INbYKWI3UUzpm1uTTbEtFDIOUqoF6M5hNmHly-bqD0CKCQY_CBJQYkhugGd5OUewRPkG0aKq3X8EKMKOIA..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=1FBC988003D941C6E1E7BA40EAF0C5A2E29C62346A78C08C) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapZv2XQi1VO96XeLT1ArGuyVqXa8Fplpd9p4527ElGXWP8WGIegS-VeiEMnr1AyaYZ55fhB56fBqmHA2GPv4LQPrksBnV3jL0-8ZgCsvLYTZxzryy8opwdqpVOc4n_mbQ9m7Y8INbYKWI3UUzpm1uTTbEtFDIOUqoF6M5hNmHly-bqD0CKCQY_CBJQYkhugGd5OUewRPkG0aKq3X8EKMKOIA..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=1FBC988003D941C6E1E7BA40EAF0C5A2E29C62346A78C08C else 无
+- **摘要**: 11月24日上午,港南区举行桥圩羽绒产业园 标准 厂房建设 项目交付 仪式.区委常委、统战部部长张新胜参加仪式并致辞.据了解,自项...
+
+
+> 本期共收录 2 篇文章
+
+---
+

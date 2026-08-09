@@ -152,3 +152,41 @@
 
 ---
 
+
+## 2026-08-10 更新
+
+### 航空学科科研创新 平台 ,静态退役真机如何 选型 采购?
+- **来源**: 飞机机壳
+- **时间**: 2026-08-04 10:49:00
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9KZCnL9PhQdvSuWrcC1ykn6aNIoNM8EmPuELv74Yyg0CMncJbzm5atEHXgOu9kLYj3UEi2uOOG52kS4V5R92oEnS-OZZq0jUcElfmcUYgrPDsaF0NWGWDdjbJrPlk7qWNahAR5qsEzJfi3N2XUYPIDUeogCA0TzuUjTNHpYxskrpQ_LeJW-Rhtg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9KZCnL9PhQdvSuWrcC1ykn6aNIoNM8EmPuELv74Yyg0CMncJbzm5atEHXgOu9kLYj3UEi2uOOG52kS4V5R92oEnS-OZZq0jUcElfmcUYgrPDsaF0NWGWDdjbJrPlk7qWNahAR5qsEzJfi3N2XUYPIDUeogCA0TzuUjTNHpYxskrpQ_LeJW-Rhtg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9KZCnL9PhQdvSuWrcC1ykn6aNIoNM8EmPuELv74Yyg0CMncJbzm5atEHXgOu9kLYj3UEi2uOOG52kS4V5R92oEnS-OZZq0jUcElfmcUYgrPDsaF0NWGWDdjbJrPlk7qWNahAR5qsEzJfi3N2XUYPIDUeogCA0TzuUjTNHpYxskrpQ_LeJW-Rhtg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064 else 无
+- **摘要**: 2026本科高校航空科研 平台 去哪里选购退役飞机?PAPT/01近年来国内众多本科高校持续发力航空学科建设,航空工程、 飞行 器制造、...
+
+### 4天,从需求定义到整机落地! 飞行 机器人 Fly Core整机设计与集成训练营招募开启
+- **来源**: 阿木实验室
+- **时间**: 2026-08-07 18:30:30
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd98TrvrAVMCjpiVvqkrFnhwy-LxbLMNCVMeNR2fN5P4vxx8ocV-ceHBsglr2nIuG7x3uTsFnIYYldI8LmxOPf8oMWQB8okH_DiiiOKNFUfCT4pIwD3qLGOrIy2v2fE51h8Ah5Y2667irDFaDKjkVZtB9ncdfcKLPiWC7gWH8f10a4SYTqT4eyLmA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd98TrvrAVMCjpiVvqkrFnhwy-LxbLMNCVMeNR2fN5P4vxx8ocV-ceHBsglr2nIuG7x3uTsFnIYYldI8LmxOPf8oMWQB8okH_DiiiOKNFUfCT4pIwD3qLGOrIy2v2fE51h8Ah5Y2667irDFaDKjkVZtB9ncdfcKLPiWC7gWH8f10a4SYTqT4eyLmA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd98TrvrAVMCjpiVvqkrFnhwy-LxbLMNCVMeNR2fN5P4vxx8ocV-ceHBsglr2nIuG7x3uTsFnIYYldI8LmxOPf8oMWQB8okH_DiiiOKNFUfCT4pIwD3qLGOrIy2v2fE51h8Ah5Y2667irDFaDKjkVZtB9ncdfcKLPiWC7gWH8f10a4SYTqT4eyLmA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064 else 无
+- **摘要**: 飞行平台选型 、起飞重量与有效载荷、续航与机动性、传感器/通信/任务载荷选型、扩展余量旋翼结构布局方案:设备布局与重心位置...
+
+### 英国启动喷气训练系统 选型 :鹰式教练机退役提速,红箭表演队同 平台 替换
+- **来源**: 星捷空天视界
+- **时间**: 2026-08-09 08:47:44
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9ivoHqVtYn8hiaN_SjnZK6FBot8hYvJGahRU-rqCcZjmY5bTNmMNlJ8-Ojp4dU5Nbr-pXHswnHsayoz11ju1IJnEGLKZvkABKO9bH0_Ck45iMMONb9NCpIy3osajXodyTWYR_uUJJlwsVCRJV-tzs78IvVIfDIiho09ISBSKkTIkCn9lOoZLP2Q..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9ivoHqVtYn8hiaN_SjnZK6FBot8hYvJGahRU-rqCcZjmY5bTNmMNlJ8-Ojp4dU5Nbr-pXHswnHsayoz11ju1IJnEGLKZvkABKO9bH0_Ck45iMMONb9NCpIy3osajXodyTWYR_uUJJlwsVCRJV-tzs78IvVIfDIiho09ISBSKkTIkCn9lOoZLP2Q..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9ivoHqVtYn8hiaN_SjnZK6FBot8hYvJGahRU-rqCcZjmY5bTNmMNlJ8-Ojp4dU5Nbr-pXHswnHsayoz11ju1IJnEGLKZvkABKO9bH0_Ck45iMMONb9NCpIy3osajXodyTWYR_uUJJlwsVCRJV-tzs78IvVIfDIiho09ISBSKkTIkCn9lOoZLP2Q..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064 else 无
+- **摘要**: 采用统一的新型训练 平台 也有助于降低后勤压力.红箭 飞行 表演队的鹰式 T1 教练机,自 1979 年使用至今. 图源:英国皇家空军二、...
+
+### 紧急提醒|南部地区无人机 飞行 计划暂停受理
+- **来源**: 风屿智航
+- **时间**: 2026-08-07 17:40:37
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9jHTMA9ZZ3ek1ct6IfWR4FpSwP6VKM-BuXPVncUtdB5R9aR1G2tDSZyhg9dQkGDEOMvDHpNIHqHGmPT_i59KoVo2gdJ8htkvUGy8TW3rDwYr807luLKiP0seVicyY4qVHzqAiSwXcamQ3vP9VFWDGJ6VRZs61sYBj3x1DE73OhkCq3X8EKMKOIA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9jHTMA9ZZ3ek1ct6IfWR4FpSwP6VKM-BuXPVncUtdB5R9aR1G2tDSZyhg9dQkGDEOMvDHpNIHqHGmPT_i59KoVo2gdJ8htkvUGy8TW3rDwYr807luLKiP0seVicyY4qVHzqAiSwXcamQ3vP9VFWDGJ6VRZs61sYBj3x1DE73OhkCq3X8EKMKOIA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd9jHTMA9ZZ3ek1ct6IfWR4FpSwP6VKM-BuXPVncUtdB5R9aR1G2tDSZyhg9dQkGDEOMvDHpNIHqHGmPT_i59KoVo2gdJ8htkvUGy8TW3rDwYr807luLKiP0seVicyY4qVHzqAiSwXcamQ3vP9VFWDGJ6VRZs61sYBj3x1DE73OhkCq3X8EKMKOIA..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064 else 无
+- **摘要**: 以主管部门通知和申报 平台 状态为准.风屿智航将持续关注相关空域运行信息,如有新的受理及 飞行 安排消息,将及时通过公众号进行...
+
+### 多旋翼动力系统的效率优化设计与组件 选型 方法研究
+- **来源**: 可靠飞行控制研究组
+- **时间**: 2020-02-07 20:00:21
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd94ZGS6dxDtvSQePBQ-4Kv1JDTcqWG3cQAsg3-5VpgmdkuKzq4mnu1LazmV8Fwdb5Qqvq5NgAeLtXJmU4tbv7I_xs84Jzk609Qcd11Mq1yQCj5-q45i43zYqNAI9_6dvYpjwicIpQsqP_h05uO0sNezsXMduDx8YShNBrfjO0PzjXP28temKTOwg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd94ZGS6dxDtvSQePBQ-4Kv1JDTcqWG3cQAsg3-5VpgmdkuKzq4mnu1LazmV8Fwdb5Qqvq5NgAeLtXJmU4tbv7I_xs84Jzk609Qcd11Mq1yQCj5-q45i43zYqNAI9_6dvYpjwicIpQsqP_h05uO0sNezsXMduDx8YShNBrfjO0PzjXP28temKTOwg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_z3LsOVKRapFq7RJYeNiGSXeLT1ArGuyVqXa8Fplpd94ZGS6dxDtvSQePBQ-4Kv1JDTcqWG3cQAsg3-5VpgmdkuKzq4mnu1LazmV8Fwdb5Qqvq5NgAeLtXJmU4tbv7I_xs84Jzk609Qcd11Mq1yQCj5-q45i43zYqNAI9_6dvYpjwicIpQsqP_h05uO0sNezsXMduDx8YShNBrfjO0PzjXP28temKTOwg..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=1FBBB552B169F17552540BF357E20D3B537A82A56A78C064 else 无
+- **摘要**: 利用解析的方法推导出不同 飞行 状态下,动力系统的最优参数或者 选型 方案,使得多旋翼的效率达到最优,从而得到更远的续航时间与...
+
+
+> 本期共收录 5 篇文章
+
+---
+

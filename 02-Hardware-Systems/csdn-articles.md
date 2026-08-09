@@ -145,3 +145,23 @@
 
 ---
 
+
+## 2026-08-10 更新
+
+### 多旋翼无人机系统组成（七）（电源系统详解）
+- **作者**: 
+- **时间**: 2026-03-27
+- **链接**: [https://blog.csdn.net/ouyanghuangxun/article/details/159536837?ops_request_misc=elastic_search_misc&request_id=d4e5bdec62a04d6f9b5c265159b8a565&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-159536837-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC](https://blog.csdn.net/ouyanghuangxun/article/details/159536837?ops_request_misc=elastic_search_misc&request_id=d4e5bdec62a04d6f9b5c265159b8a565&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-159536837-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC)
+- **摘要**: 本文深入剖析<em>多旋翼</em>无人机电源系统的八大核心环节：电池（LiPo特性、内阻与电压塌陷）、配电（PDB设计与线径选型）、稳压（BEC动态响应能力）、监测（电压/电流实时反馈与SOC估算）、干扰抑制（GPS/图传抗纹波设计）、冗余架构（双电池可靠性逻辑）、接插件可靠性（接触电阻热恶化机制）。强调电源系统并非辅助模块，而是飞控稳定运行的基础保障，其稳定性直接影响飞行安全与任务成功率。
+
+### 多旋翼飞行器设计与控制·基本组成（笔记002）
+- **作者**: 
+- **时间**: 2020-07-17
+- **链接**: [https://blog.csdn.net/weixin_44917390/article/details/107405711?ops_request_misc=elastic_search_misc&request_id=d4e5bdec62a04d6f9b5c265159b8a565&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-107405711-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC](https://blog.csdn.net/weixin_44917390/article/details/107405711?ops_request_misc=elastic_search_misc&request_id=d4e5bdec62a04d6f9b5c265159b8a565&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-107405711-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC)
+- **摘要**: 本文全面解析<em>多旋翼</em>无人机的机架、动力系统、指挥与控制系统的结构与参数，探讨机身、螺旋桨、电机、电池等核心组件的性能指标，以及遥控器、自动控制仪和地面站的工作原理。
+
+
+> 本期共收录 2 篇文章
+
+---
+
