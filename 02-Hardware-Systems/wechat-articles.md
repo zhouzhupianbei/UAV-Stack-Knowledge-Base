@@ -190,3 +190,17 @@
 
 ---
 
+
+## 2026-08-16 更新
+
+### 热梗 “中国人能飞” 背后: 飞行 机器人打通低空 + 具身智能双赛道,中国空中智能体产业全面起飞
+- **来源**: 萝卜头 Robot Now
+- **时间**: 2026-08-11 09:50:47
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLg_5KDfsJwL_1HoFMr5ZtP1qXa8Fplpd9-Ak_mW79aw1Ed-dBHrUBfS3FkcE9oLNMwvxC1cy7rzVC1lt_soOz_mfeSNOC6D-8FBygFU0DdJWm_J1MLoQrRRY-uuBfBhXX4-Z7bqeIku0dQeaa5Kyy8uwY3CViMOJY_acKmZW3V7M6xlxpImIiRpHk_M9sJMUhVPDcveA2qCSTJmCU1UgHwQ..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=4A2CCFB3E73FA62205035C1CC3510754056ABFB26A80AA59](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLg_5KDfsJwL_1HoFMr5ZtP1qXa8Fplpd9-Ak_mW79aw1Ed-dBHrUBfS3FkcE9oLNMwvxC1cy7rzVC1lt_soOz_mfeSNOC6D-8FBygFU0DdJWm_J1MLoQrRRY-uuBfBhXX4-Z7bqeIku0dQeaa5Kyy8uwY3CViMOJY_acKmZW3V7M6xlxpImIiRpHk_M9sJMUhVPDcveA2qCSTJmCU1UgHwQ..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=4A2CCFB3E73FA62205035C1CC3510754056ABFB26A80AA59) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLg_5KDfsJwL_1HoFMr5ZtP1qXa8Fplpd9-Ak_mW79aw1Ed-dBHrUBfS3FkcE9oLNMwvxC1cy7rzVC1lt_soOz_mfeSNOC6D-8FBygFU0DdJWm_J1MLoQrRRY-uuBfBhXX4-Z7bqeIku0dQeaa5Kyy8uwY3CViMOJY_acKmZW3V7M6xlxpImIiRpHk_M9sJMUhVPDcveA2qCSTJmCU1UgHwQ..&type=2&query=%E9%A3%9E%E8%A1%8C%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B&token=4A2CCFB3E73FA62205035C1CC3510754056ABFB26A80AA59 else 无
+- **摘要**: 统一调度 平台 等配套基础设施建设周期漫长.当前行业普遍聚焦 飞行 器研发,低空配套体系存在明显短板,也是制约行业短期大规模商...
+
+
+> 本期共收录 1 篇文章
+
+---
+

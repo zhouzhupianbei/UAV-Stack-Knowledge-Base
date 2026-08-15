@@ -106,3 +106,35 @@
 
 ---
 
+
+## 2026-08-16 更新
+
+### 第4章：多种方式安装部署
+- **作者**: 
+- **时间**: 2026-07-03
+- **链接**: [https://blog.csdn.net/weixin_43674738/article/details/162554967?ops_request_misc=elastic_search_misc&request_id=fd1f53be9bcf4f95958c6a70dc0ab8fd&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-162554967-null-null.nonecase&utm_term=%E9%83%A8%E7%BD%B2](https://blog.csdn.net/weixin_43674738/article/details/162554967?ops_request_misc=elastic_search_misc&request_id=fd1f53be9bcf4f95958c6a70dc0ab8fd&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-162554967-null-null.nonecase&utm_term=%E9%83%A8%E7%BD%B2)
+- **摘要**: 本文系统介绍 MinIO 在不同环境下的安装<em>部署</em>方法，涵盖 Docker（推荐）、二进制包、Kubernetes、云服务器及本地 Windows/macOS 开发环境五类方案。重点说明各方式适用场景、核心步骤（如数据目录挂载、权限配置、服务托管）、安全要求（HTTPS、访问控制、密码管理）及生产注意事项（备份、高可用限制、升级策略）。强调<em>部署</em>需兼顾持久化、安全性
+
+### 【IT 常识】安装（Install）、部署（Deploy）、搭建（Setup）和配置（Configure、Set）的区别
+- **作者**: 
+- **时间**: 2023-04-25
+- **链接**: [https://blog.csdn.net/wudi53433927/article/details/130376177?ops_request_misc=elastic_search_misc&request_id=fd1f53be9bcf4f95958c6a70dc0ab8fd&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-130376177-null-null.nonecase&utm_term=%E9%83%A8%E7%BD%B2](https://blog.csdn.net/wudi53433927/article/details/130376177?ops_request_misc=elastic_search_misc&request_id=fd1f53be9bcf4f95958c6a70dc0ab8fd&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-130376177-null-null.nonecase&utm_term=%E9%83%A8%E7%BD%B2)
+- **摘要**: 本文详细探讨了IT行业中安装、<em>部署</em>、搭建和配置等术语的区别。Install通常指软件的安装，而Deploy不仅包括安装，还涉及配置和环境准备。Setup可以指安装或搭建环境，与Deploy在某些上下文中可互换。设置（Set）与配置（Configure）的区别在于后者更侧重于专业领域的定制和调整。此外，Setting、Configuration和Option分别代表设置项、配置和选
+
+### Windows本地RTMP推流服务器搭建指南：基于Nginx与nginx-rtmp-module
+- **作者**: 
+- **时间**: 2026-08-12
+- **链接**: [https://blog.csdn.net/weixin_28718769/article/details/163680688?ops_request_misc=elastic_search_misc&request_id=0e1be593ac0e4165bf8842edf4757f47&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-163680688-null-null.nonecase&utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA](https://blog.csdn.net/weixin_28718769/article/details/163680688?ops_request_misc=elastic_search_misc&request_id=0e1be593ac0e4165bf8842edf4757f47&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-163680688-null-null.nonecase&utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA)
+- **摘要**: 本文详细介绍了在Windows系统上基于Nginx与nginx-rtmp-module<em>搭建</em>轻量级、稳定可控的本地RTMP推流服务器的完整流程，涵盖工具选型依据、预编译包获取、rtmp配置核心参数（应用名、端口、录制、HLS转换）、服务启停管理，以及使用OBS推流和VLC拉流的闭环测试方法。同时提供防火墙配置、日志排查等常见问题解决方案，并拓展了自动录制、流转发和IP白名单鉴权等进
+
+### Nginx搭建RTMP点播流媒体服务器步骤详解，Nginx+RTMP+OBS推流搭建流媒体服务器
+- **作者**: 
+- **时间**: 2025-11-13
+- **链接**: [https://blog.csdn.net/jufeng_fei/article/details/154778513?ops_request_misc=elastic_search_misc&request_id=0e1be593ac0e4165bf8842edf4757f47&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-154778513-null-null.nonecase&utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA](https://blog.csdn.net/jufeng_fei/article/details/154778513?ops_request_misc=elastic_search_misc&request_id=0e1be593ac0e4165bf8842edf4757f47&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-154778513-null-null.nonecase&utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA)
+- **摘要**: 本文详细介绍了在Ubuntu环境下利用Nginx与nginx-rtmp-module<em>搭建</em><em>流媒体</em><em>服务器</em>的过程，涵盖点播、直播及实时回看功能的配置方法，并结合OBS推流和VLC播放验证服务有效性，适用于音视频传输应用场景。
+
+
+> 本期共收录 4 篇文章
+
+---
+

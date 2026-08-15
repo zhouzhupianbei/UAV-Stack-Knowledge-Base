@@ -165,3 +165,23 @@
 
 ---
 
+
+## 2026-08-16 更新
+
+### 多旋翼无人机悬停控制技术全解析：从基础原理到实战优化
+- **作者**: 
+- **时间**: 2026-08-04
+- **链接**: [https://blog.csdn.net/gitblog_00671/article/details/163472702?ops_request_misc=elastic_search_misc&request_id=5f5bc2c6ce154ae1bea938037cadb00f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-163472702-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC](https://blog.csdn.net/gitblog_00671/article/details/163472702?ops_request_misc=elastic_search_misc&request_id=5f5bc2c6ce154ae1bea938037cadb00f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-163472702-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC)
+- **摘要**: 本文深入解析PX4 Autopilot中<em>多旋翼</em>无人机悬停控制的核心技术，重点涵盖串级PID控制架构（位置环、速度环、推力转换）、硬件层校准（IMU/电调/滤波）、参数层调优方法（P/I/D分步整定）及环境适应优化（前馈、抗积分饱和、多传感器融合）。结合故障诊断与性能对比数据，说明优化后静态误差从±0.3m降至±0.1m，动态响应延迟缩短至0.3秒，并展望MPC与强化学习等先进控制
+
+### 固定翼vs多旋翼：飞行控制建模的5个关键差异点（附对比表格）
+- **作者**: 
+- **时间**: 2026-03-21
+- **链接**: [https://blog.csdn.net/weixin_30776273/article/details/159295192?ops_request_misc=elastic_search_misc&request_id=5f5bc2c6ce154ae1bea938037cadb00f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-159295192-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC](https://blog.csdn.net/weixin_30776273/article/details/159295192?ops_request_misc=elastic_search_misc&request_id=5f5bc2c6ce154ae1bea938037cadb00f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-159295192-null-null.nonecase&utm_term=%E5%A4%9A%E6%97%8B%E7%BF%BC)
+- **摘要**: 本文从升力生成原理、控制通道耦合性、动态响应特性、建模精度要求及控制算法设计五个维度，系统对比固定翼与<em>多旋翼</em>在飞行控制建模中的核心差异。重点分析物理机制如何决定数学模型结构（如强耦合非线性 vs 解耦线性化）、动态带宽需求（<80Hz vs >90Hz）、气动建模必要性（6DOF+气动库 vs 4DOF刚体）及主流控制策略（MPC/LQR vs PID）。内容聚焦于无人机飞控开发
+
+
+> 本期共收录 2 篇文章
+
+---
+

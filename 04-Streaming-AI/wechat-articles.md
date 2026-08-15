@@ -126,3 +126,35 @@
 
 ---
 
+
+## 2026-08-16 更新
+
+### 平遥紧急 部署 !
+- **来源**: 平遥融媒
+- **时间**: 2026-03-26 10:02:05
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd9R5Uo_P3tfYgg345BC8T8iKrVS0IaybNX3VPgH6LgRdruinpgQcB3f_EZoPrrDn0uPwOPA0o131TYgr023Q2ajHgHa9xI7NgzySHt0jIyGgpimcXrSSi6xhzJ2QBT53S8O6nC5lMGSj5kM_AUPThAfKRJ7NSxhB6jzRc3GE8O706AFV_3u-a3OQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd9R5Uo_P3tfYgg345BC8T8iKrVS0IaybNX3VPgH6LgRdruinpgQcB3f_EZoPrrDn0uPwOPA0o131TYgr023Q2ajHgHa9xI7NgzySHt0jIyGgpimcXrSSi6xhzJ2QBT53S8O6nC5lMGSj5kM_AUPThAfKRJ7NSxhB6jzRc3GE8O706AFV_3u-a3OQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd9R5Uo_P3tfYgg345BC8T8iKrVS0IaybNX3VPgH6LgRdruinpgQcB3f_EZoPrrDn0uPwOPA0o131TYgr023Q2ajHgHa9xI7NgzySHt0jIyGgpimcXrSSi6xhzJ2QBT53S8O6nC5lMGSj5kM_AUPThAfKRJ7NSxhB6jzRc3GE8O706AFV_3u-a3OQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21 else 无
+- **摘要**: 12月23日上午,省委、市委分别召开疫情防控工作领导小组会议,紧急 部署 当前全省全市疫情防控工作.县委书记魏江峰在晋中分会场...
+
+### 冯飞 部署 我省公共场所外语标识标牌规范建设工作
+- **来源**: 海南日报
+- **时间**: 2026-01-15 09:36:44
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd9Oe3A9oMlyUG-7HezX786jIgDf1qxHLpORA-oyox3mXwVzw3QFu85s5YwB2xFqjbAVMfgUHd_3eB9CkH4Yzk0u0ECzQgm5BUqBdTQV9RQwPrlTF3-IBvFtn-f_hgA6m0xb9dI7hoNEmEW42to7b6DXukthTkfYw1oDlZxT_tXfYlAe0f8bRARvQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd9Oe3A9oMlyUG-7HezX786jIgDf1qxHLpORA-oyox3mXwVzw3QFu85s5YwB2xFqjbAVMfgUHd_3eB9CkH4Yzk0u0ECzQgm5BUqBdTQV9RQwPrlTF3-IBvFtn-f_hgA6m0xb9dI7hoNEmEW42to7b6DXukthTkfYw1oDlZxT_tXfYlAe0f8bRARvQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd9Oe3A9oMlyUG-7HezX786jIgDf1qxHLpORA-oyox3mXwVzw3QFu85s5YwB2xFqjbAVMfgUHd_3eB9CkH4Yzk0u0ECzQgm5BUqBdTQV9RQwPrlTF3-IBvFtn-f_hgA6m0xb9dI7hoNEmEW42to7b6DXukthTkfYw1oDlZxT_tXfYlAe0f8bRARvQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21 else 无
+- **摘要**: 5月30日,省长冯飞主持召开省公共场所外语标识标牌规范建设工作第八次联席会议, 安排 部署 新一轮公共场所外语标识标牌规范建设...
+
+### 教育部紧急 部署
+- **来源**: 澎湃新闻
+- **时间**: 2021-04-29 09:57:02
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd96ie4-cyPN6R8awsuo23RDOYnRPILVNloFDgJnx8cF7wRO7MKw3thAxIqcyXfs6F-CFTsFTKSApbAZpvbOlgKfNPq7QF5taHuqEBo4li-iAkvHbg6Nn-ff6d_9Vz255E9k4GI8dcI9FbmW1kNrFu-hIkb59J7YGqrBBDU_OvdFqMYJSSFPgfogQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd96ie4-cyPN6R8awsuo23RDOYnRPILVNloFDgJnx8cF7wRO7MKw3thAxIqcyXfs6F-CFTsFTKSApbAZpvbOlgKfNPq7QF5taHuqEBo4li-iAkvHbg6Nn-ff6d_9Vz255E9k4GI8dcI9FbmW1kNrFu-hIkb59J7YGqrBBDU_OvdFqMYJSSFPgfogQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLQrRphM01GFD1HoFMr5ZtP1qXa8Fplpd96ie4-cyPN6R8awsuo23RDOYnRPILVNloFDgJnx8cF7wRO7MKw3thAxIqcyXfs6F-CFTsFTKSApbAZpvbOlgKfNPq7QF5taHuqEBo4li-iAkvHbg6Nn-ff6d_9Vz255E9k4GI8dcI9FbmW1kNrFu-hIkb59J7YGqrBBDU_OvdFqMYJSSFPgfogQ..&type=2&query=%E9%83%A8%E7%BD%B2&token=4A2B9B68825BC34761663979A39E3C98614108526A80AA21 else 无
+- **摘要**: 澎湃新闻记者 程婷4月28日,广西北流市发生一起持凶器伤害幼儿园师生案件,伤及多名教师、幼儿.案件性质极其恶劣,引发社会强...
+
+### YOLOv3:你一定不能错过
+- **来源**: CVer
+- **时间**: 2018-03-26 15:59:24
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLl2gHdF_g2Xb1HoFMr5ZtP1qXa8Fplpd9V-0JyV9QJlXSJTCqHEs8jOwthvWbVEBCoe0UglIcNmYRf6uvDdziFNoHv-fIIy2fwhvtDlCIOYUxW1ErV9Ebb6QYupRNlihv1Q0mz_wi5eulI1yot7KzXSFb5sf3riA1PSpoQj5xPf3ix0Ex-mTqo3Qo1gtJQCVxEkc_SzP_H_gO8fIRwtipOg..&type=2&query=YOLO&token=4A2BBF21BB62FA7E595F00439E076D325ADF01A96A80AA27](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLl2gHdF_g2Xb1HoFMr5ZtP1qXa8Fplpd9V-0JyV9QJlXSJTCqHEs8jOwthvWbVEBCoe0UglIcNmYRf6uvDdziFNoHv-fIIy2fwhvtDlCIOYUxW1ErV9Ebb6QYupRNlihv1Q0mz_wi5eulI1yot7KzXSFb5sf3riA1PSpoQj5xPf3ix0Ex-mTqo3Qo1gtJQCVxEkc_SzP_H_gO8fIRwtipOg..&type=2&query=YOLO&token=4A2BBF21BB62FA7E595F00439E076D325ADF01A96A80AA27) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLl2gHdF_g2Xb1HoFMr5ZtP1qXa8Fplpd9V-0JyV9QJlXSJTCqHEs8jOwthvWbVEBCoe0UglIcNmYRf6uvDdziFNoHv-fIIy2fwhvtDlCIOYUxW1ErV9Ebb6QYupRNlihv1Q0mz_wi5eulI1yot7KzXSFb5sf3riA1PSpoQj5xPf3ix0Ex-mTqo3Qo1gtJQCVxEkc_SzP_H_gO8fIRwtipOg..&type=2&query=YOLO&token=4A2BBF21BB62FA7E595F00439E076D325ADF01A96A80AA27 else 无
+- **摘要**: 原标题: YOLOv3: An Incremental Improvement 原作者: Joseph Redmon Ali Farhadi 翻译者: Amusi YOLO 官网: YOLO : Real-Time ...
+
+
+> 本期共收录 4 篇文章
+
+---
+
