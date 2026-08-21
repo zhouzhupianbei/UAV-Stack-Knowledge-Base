@@ -166,3 +166,23 @@
 
 ---
 
+
+## 2026-08-22 更新
+
+### CesiumJS 与六大主流地图 引擎 深度对比—— 三维 可视化选型指南
+- **来源**: 大米跳动
+- **时间**: 2026-08-08 18:04:16
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbk_vPH2BQYuDpbaKVGKm5LUlqXa8Fplpd92OkhTOfzP_XFrGhLb39aYRODZ3wUmCOSwA0Nqap8tpn6NeWaaHKVIzJYzKwZKhbb4xwbAs2kEXoahJQugIGUmrlLLRraOxAlRyEpmsLfj2fyf6X3QYw0MXBZM0ICuzMO1RlDDpMGKw7DrxMdvYtZTyyKsnYQuZKCAVRcUQDRknhe0WC6Sbi7DA..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=7536FB9E5380189CBCBAE22FF2897D53BC070D6B6A88A0E7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbk_vPH2BQYuDpbaKVGKm5LUlqXa8Fplpd92OkhTOfzP_XFrGhLb39aYRODZ3wUmCOSwA0Nqap8tpn6NeWaaHKVIzJYzKwZKhbb4xwbAs2kEXoahJQugIGUmrlLLRraOxAlRyEpmsLfj2fyf6X3QYw0MXBZM0ICuzMO1RlDDpMGKw7DrxMdvYtZTyyKsnYQuZKCAVRcUQDRknhe0WC6Sbi7DA..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=7536FB9E5380189CBCBAE22FF2897D53BC070D6B6A88A0E7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbk_vPH2BQYuDpbaKVGKm5LUlqXa8Fplpd92OkhTOfzP_XFrGhLb39aYRODZ3wUmCOSwA0Nqap8tpn6NeWaaHKVIzJYzKwZKhbb4xwbAs2kEXoahJQugIGUmrlLLRraOxAlRyEpmsLfj2fyf6X3QYw0MXBZM0ICuzMO1RlDDpMGKw7DrxMdvYtZTyyKsnYQuZKCAVRcUQDRknhe0WC6Sbi7DA..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=7536FB9E5380189CBCBAE22FF2897D53BC070D6B6A88A0E7 else 无
+- **摘要**: .js定位 三维地球引擎 矢量地图引擎大数据可视化轻量地图库通用3D引擎2D/3D3D/2D/2.5D2D为主+拉伸2D+2.5D图层纯2D纯3D地形/高...
+
+### 【论文】基于Cesium的网页端多源 三维 数据融合可视化方法探索
+- **来源**: 道路CAD技术研究
+- **时间**: 2026-08-12 08:15:29
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbk_vPH2BQYuDpbaKVGKm5LUlqXa8Fplpd9wrZT1dwtADnvY6LRAsQvaNxWSJpa99UGk_DDC5HBFRC_PAxlOXqPZxseG3M77QN4gno3OslvieKNYYQdZbtjmD0wLe9akQWRPBag4y_SwzF5j9Ljk9WYXQuDiLaae_mJFsLoJR8LFLIu6vdI39AO_JGys80ST0fFfQLLdOPWRX8Y-UZGbO56rA..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=7536FB9E5380189CBCBAE22FF2897D53BC070D6B6A88A0E7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbk_vPH2BQYuDpbaKVGKm5LUlqXa8Fplpd9wrZT1dwtADnvY6LRAsQvaNxWSJpa99UGk_DDC5HBFRC_PAxlOXqPZxseG3M77QN4gno3OslvieKNYYQdZbtjmD0wLe9akQWRPBag4y_SwzF5j9Ljk9WYXQuDiLaae_mJFsLoJR8LFLIu6vdI39AO_JGys80ST0fFfQLLdOPWRX8Y-UZGbO56rA..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=7536FB9E5380189CBCBAE22FF2897D53BC070D6B6A88A0E7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbk_vPH2BQYuDpbaKVGKm5LUlqXa8Fplpd9wrZT1dwtADnvY6LRAsQvaNxWSJpa99UGk_DDC5HBFRC_PAxlOXqPZxseG3M77QN4gno3OslvieKNYYQdZbtjmD0wLe9akQWRPBag4y_SwzF5j9Ljk9WYXQuDiLaae_mJFsLoJR8LFLIu6vdI39AO_JGys80ST0fFfQLLdOPWRX8Y-UZGbO56rA..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=7536FB9E5380189CBCBAE22FF2897D53BC070D6B6A88A0E7 else 无
+- **摘要**: 本文基于开源Cesium 三维地球引擎 与WebGL技术,研究了一种以网页为载体的多源数据融合可视化方法.首先分析了卫星影像瓦片、...
+
+
+> 本期共收录 2 篇文章
+
+---
+

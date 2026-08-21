@@ -451,3 +451,35 @@
 > 本期共收录 12 篇文章
 
 ---
+
+## 2026-08-22 更新
+
+### 工业通讯协议 对比与选型 指南:选对协议省一半调试时间
+- **来源**: 电气人图鉴
+- **时间**: 2026-08-08 09:21:11
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9eUdmqAIGS0QvpCeclU1vRnE8wFrIeIdGsS4_TYjGUxAyqBGkc1SJrG-gp6kCensWf0lLJLTZHBTkCXs3-DniRC1r3hZukP9vwkjooiie7Ejg1mBzQfJ25pze-FL2L_IbKMac2BljfeSqHWCMSRilJJki88PF32BirKJqCBi9_wx5LU3lqtPw9g..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9eUdmqAIGS0QvpCeclU1vRnE8wFrIeIdGsS4_TYjGUxAyqBGkc1SJrG-gp6kCensWf0lLJLTZHBTkCXs3-DniRC1r3hZukP9vwkjooiie7Ejg1mBzQfJ25pze-FL2L_IbKMac2BljfeSqHWCMSRilJJki88PF32BirKJqCBi9_wx5LU3lqtPw9g..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9eUdmqAIGS0QvpCeclU1vRnE8wFrIeIdGsS4_TYjGUxAyqBGkc1SJrG-gp6kCensWf0lLJLTZHBTkCXs3-DniRC1r3hZukP9vwkjooiie7Ejg1mBzQfJ25pze-FL2L_IbKMac2BljfeSqHWCMSRilJJki88PF32BirKJqCBi9_wx5LU3lqtPw9g..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09 else 无
+- **摘要**: 工业通讯协议 对比与选型 指南:选对协议省一半调试时间现场通讯调不通,很多时候不是接线问题,而是协议选型就不对.不同协议的...
+
+### 功率电感:参数图文 对比与选型
+- **来源**: EDN电子技术设计
+- **时间**: 2023-04-11 07:42:20
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9V3AEBwWqRuTt4UoaFnJ07xoap1jygHahxM1Aq3sVd_ndPEujXkOBw17siJb-5rLn2GE0EKpL__4_Qgas55P8qwyaziO8ZAXl7lN8DFbsX9o6dBFkSt4otPtHyD_jIWaex9Z2ip_sJzHTlKKLVPExyUMjAqAFbzkF6RQ2YkgqWbq00NVofL2iDw..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9V3AEBwWqRuTt4UoaFnJ07xoap1jygHahxM1Aq3sVd_ndPEujXkOBw17siJb-5rLn2GE0EKpL__4_Qgas55P8qwyaziO8ZAXl7lN8DFbsX9o6dBFkSt4otPtHyD_jIWaex9Z2ip_sJzHTlKKLVPExyUMjAqAFbzkF6RQ2YkgqWbq00NVofL2iDw..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9V3AEBwWqRuTt4UoaFnJ07xoap1jygHahxM1Aq3sVd_ndPEujXkOBw17siJb-5rLn2GE0EKpL__4_Qgas55P8qwyaziO8ZAXl7lN8DFbsX9o6dBFkSt4otPtHyD_jIWaex9Z2ip_sJzHTlKKLVPExyUMjAqAFbzkF6RQ2YkgqWbq00NVofL2iDw..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09 else 无
+- **摘要**: 电感的温升电流及饱和电流的定义3功率电感评估 与选型 首先根据根据电路需求,计算最小感量.比如下图buck电路的电感量该如何选...
+
+### 软密封球阀与金属密封球阀:核心区别 与选型 指南
+- **来源**: 郑州精工科技有限公司
+- **时间**: 2026-08-17 17:49:27
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9glnITvsFDHRiPqUEBT04G25u50vLStJT9HLDs_Xkz0kwXzrJYliGRviSWgmmSXePW0g2d4qENqkIy4QxrE-knkUqLHy7dlqWRNiQvzDZyC9vrGvwAUv3sjOokqZyTAhJXKN07HmkJSRr-nRSljW3JGOrPHr7HMexa8hUp8xn6rjy08OLTBhW0A..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9glnITvsFDHRiPqUEBT04G25u50vLStJT9HLDs_Xkz0kwXzrJYliGRviSWgmmSXePW0g2d4qENqkIy4QxrE-knkUqLHy7dlqWRNiQvzDZyC9vrGvwAUv3sjOokqZyTAhJXKN07HmkJSRr-nRSljW3JGOrPHr7HMexa8hUp8xn6rjy08OLTBhW0A..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkKAbSR1N-58VbaKVGKm5LUlqXa8Fplpd9glnITvsFDHRiPqUEBT04G25u50vLStJT9HLDs_Xkz0kwXzrJYliGRviSWgmmSXePW0g2d4qENqkIy4QxrE-knkUqLHy7dlqWRNiQvzDZyC9vrGvwAUv3sjOokqZyTAhJXKN07HmkJSRr-nRSljW3JGOrPHr7HMexa8hUp8xn6rjy08OLTBhW0A..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=7524306007D54CC8EFE8B77DE0C07686EF60B8B06A889D09 else 无
+- **摘要**: 对比与选型 在阀座材料方面,软密封球阀采用 PTFE、RPTFE、PEEK 等非金属弹性材料,而金属密封球阀则使用不锈钢或硬化合金等...
+
+### 无人机 地面站软件 开发:浅谈无人机 地面站软件 定制开发
+- **来源**: 考试出题专家
+- **时间**: 2026-08-19 19:59:49
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkflsJHhsyDBZbaKVGKm5LUlqXa8Fplpd9pl5iLCQXiIRbm0f0baA07cyjIRgSxNV6rGL9TDzbbrqCHRxmPmd1Jy0UV6ShTNN6R-Jy5qKEFgBu-VYXo3sHScjwLyqIlSUBxgT8fnqDvDhRNP6mJAxBv4BKLiqAOc-JHcXFCkA4DHlis_-jPU4g5TAfApFoZ_EJrkc4AO8LcWHf3q8uRDTfkw..&type=2&query=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6&token=75243E1AE437A82C0B0A529802691B3B0CACC4696A889D0C](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkflsJHhsyDBZbaKVGKm5LUlqXa8Fplpd9pl5iLCQXiIRbm0f0baA07cyjIRgSxNV6rGL9TDzbbrqCHRxmPmd1Jy0UV6ShTNN6R-Jy5qKEFgBu-VYXo3sHScjwLyqIlSUBxgT8fnqDvDhRNP6mJAxBv4BKLiqAOc-JHcXFCkA4DHlis_-jPU4g5TAfApFoZ_EJrkc4AO8LcWHf3q8uRDTfkw..&type=2&query=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6&token=75243E1AE437A82C0B0A529802691B3B0CACC4696A889D0C) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkflsJHhsyDBZbaKVGKm5LUlqXa8Fplpd9pl5iLCQXiIRbm0f0baA07cyjIRgSxNV6rGL9TDzbbrqCHRxmPmd1Jy0UV6ShTNN6R-Jy5qKEFgBu-VYXo3sHScjwLyqIlSUBxgT8fnqDvDhRNP6mJAxBv4BKLiqAOc-JHcXFCkA4DHlis_-jPU4g5TAfApFoZ_EJrkc4AO8LcWHf3q8uRDTfkw..&type=2&query=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6&token=75243E1AE437A82C0B0A529802691B3B0CACC4696A889D0C else 无
+- **摘要**: 作为无人机系统的指挥大脑, 地面站软件 承担航线规划、实时监控、载荷控制、飞行数据管理等核心职能.如果您有无人机软件开发需...
+
+
+> 本期共收录 4 篇文章
+
+---
+

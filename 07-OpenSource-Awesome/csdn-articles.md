@@ -331,3 +331,46 @@
 > 本期共收录 8 篇文章
 
 ---
+
+## 2026-08-22 更新
+
+### 开源飞控系统的深度对比分析——APM（ArduPilot）、PX4、Betaflight和iNav主流平台
+- **作者**: 
+- **时间**: 2025-07-23
+- **链接**: [https://blog.csdn.net/bother3000/article/details/149560541?ops_request_misc=elastic_search_misc&request_id=53dd678ee94244b690ca1105dd5ca22b&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-149560541-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/bother3000/article/details/149560541?ops_request_misc=elastic_search_misc&request_id=53dd678ee94244b690ca1105dd5ca22b&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-149560541-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: 该报告对APM、PX4、iNav等主流<em>开源飞控</em>平台进行深度对比。涵盖发展历程、软硬件架构、开发工具链、应用场景、成本及商业化路径等方面。指出各平台优势，如APM场景覆盖广，PX4技术纵深强，iNav垂直优化好，还提及未来国产化替代、AI融合等趋势。
+
+### 无人机技术全栈开源解决方案（2026最新）
+- **作者**: 
+- **时间**: 2026-07-19
+- **链接**: [https://blog.csdn.net/xintai1999/article/details/163018375?ops_request_misc=elastic_search_misc&request_id=53dd678ee94244b690ca1105dd5ca22b&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-163018375-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7](https://blog.csdn.net/xintai1999/article/details/163018375?ops_request_misc=elastic_search_misc&request_id=53dd678ee94244b690ca1105dd5ca22b&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-163018375-null-null.nonecase&utm_term=%E5%BC%80%E6%BA%90%E9%A3%9E%E6%8E%A7)
+- **摘要**: 本文系统梳理2026年主流<em>开源</em>无人机技术栈，涵盖PX4/ArduPilot/Betaflight等<em>飞控</em>固件、MAVLink通信协议、Prometheus/aerial-autonomy-stack等ROS2中间件、SpireCV视觉套件、QGroundControl/Mission Planner地面站、Gazebo/RflySim仿真工具及ESP-Drone/
+
+### 【飞控开发实战·⑭】QGroundControl配置详解：PX4/ArduPilot双兼容地面站、传感器校准、机架选择与航点规划
+- **作者**: 
+- **时间**: 2026-08-13
+- **链接**: [https://blog.csdn.net/zettatree/article/details/163714297?ops_request_misc=elastic_search_misc&request_id=2368659a102547e2b9f02904b5cfe5cb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-163714297-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/zettatree/article/details/163714297?ops_request_misc=elastic_search_misc&request_id=2368659a102547e2b9f02904b5cfe5cb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-163714297-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 本文详解QGroundControl（QGC）<em>地面站</em>的安装连接、载具设置、传感器校准（加速度计、陀螺仪、磁力计）、遥控器映射、安全策略（Failsafe/RTL/GeoFence）、日志分析（.ulg格式）、MAVLink监控、参数树管理、MAVLink Shell命令行、SITL仿真对接及移动端使用。内容基于PX4固件与ZP_H743飞控板，覆盖双生态兼容性与工程实践要点。
+
+### PixHawk飞控和Mission Planner地面站安装调试
+- **作者**: 
+- **时间**: 2023-02-06
+- **链接**: [https://blog.csdn.net/xzy_haoxue/article/details/128896079?ops_request_misc=elastic_search_misc&request_id=2368659a102547e2b9f02904b5cfe5cb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-4-128896079-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/xzy_haoxue/article/details/128896079?ops_request_misc=elastic_search_misc&request_id=2368659a102547e2b9f02904b5cfe5cb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-4-128896079-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 本文详细介绍了PixHawk飞控的硬件配置、接口定义、飞控驱动与<em>地面站</em><em>软件</em>的安装和连接、固件升级以及加速度计、罗盘和遥控器的校准流程。同时，涵盖了基本的飞行概念，如机头指向、遥控器操作和飞行姿态角。最后，讲解了如何连接3DR数传电台。
+
+### 地面站专用计算器软件V1.0.4正式上线｜集成式航空训练计算工具发布
+- **作者**: 
+- **时间**: 2026-04-30
+- **链接**: [https://blog.csdn.net/htzss1990/article/details/160659541?ops_request_misc=elastic_search_misc&request_id=2368659a102547e2b9f02904b5cfe5cb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-160659541-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/htzss1990/article/details/160659541?ops_request_misc=elastic_search_misc&request_id=2368659a102547e2b9f02904b5cfe5cb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-160659541-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+
+### Android framework 定制大全
+- **作者**: 
+- **时间**: 2024-08-23
+- **链接**: [https://blog.csdn.net/qq_23921815/article/details/141458851?ops_request_misc=elastic_search_misc&request_id=abf144f450f247cd9967fdb9dcf72582&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticCommercialInsert~search_v2-1-141458851-null-null.nonecase&utm_term=%E5%AE%9A%E5%88%B6](https://blog.csdn.net/qq_23921815/article/details/141458851?ops_request_misc=elastic_search_misc&request_id=abf144f450f247cd9967fdb9dcf72582&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticCommercialInsert~search_v2-1-141458851-null-null.nonecase&utm_term=%E5%AE%9A%E5%88%B6)
+- **摘要**: 本专栏《Android 11 framework<em>定制</em>大全》以Android11 RK3568开发板讲解软件层开发，适合相关工程师学习。介绍了系统<em>定制</em>架构，通过特定形式封装提供jar包；还列举了系统API<em>定制</em>的众多功能，如导航栏、状态栏操作等，后续还会按序介绍Settings和SystemUI开发。
+
+
+> 本期共收录 6 篇文章
+
+---
+

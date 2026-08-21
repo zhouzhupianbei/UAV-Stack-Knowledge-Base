@@ -48,3 +48,17 @@
 
 ---
 
+
+## 2026-08-22 更新
+
+### Tao-tao520/planar-wayline
+- **Stars**: 52
+- **描述**: 纯前端大疆面状航线规划：正射/倾斜、仿地，导出 KMZ（WPMZ）兼容司空 2
+- **链接**: [https://github.com/Tao-tao520/planar-wayline](https://github.com/Tao-tao520/planar-wayline)
+- **标签**: cesium, dji, drone, flighthub2, kmz
+
+
+> 本期共收录 1 个项目
+
+---
+

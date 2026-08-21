@@ -106,3 +106,41 @@
 
 ---
 
+
+## 2026-08-22 更新
+
+### I2C 协议详解
+- **来源**: 嵌入式大杂烩
+- **时间**: 2020-06-30 22:51:46
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9zE1chfKpU-PaRI7kojiUxjkckTck0TyZGqbiNUA1VHz2ziLmMbxeTt0NgUf04xEh3JjiI1P6SDX_ZDKd5sDFYvsFN01sER86PJ-vKTznqBLQOwixZxn4rYnOX4rgQWdYuyQW_Oe1R6Ul5Oo4owHQ05BkBbZGfVDaEllnlvxS0JHYl_Q5RRZQjg..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9zE1chfKpU-PaRI7kojiUxjkckTck0TyZGqbiNUA1VHz2ziLmMbxeTt0NgUf04xEh3JjiI1P6SDX_ZDKd5sDFYvsFN01sER86PJ-vKTznqBLQOwixZxn4rYnOX4rgQWdYuyQW_Oe1R6Ul5Oo4owHQ05BkBbZGfVDaEllnlvxS0JHYl_Q5RRZQjg..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9zE1chfKpU-PaRI7kojiUxjkckTck0TyZGqbiNUA1VHz2ziLmMbxeTt0NgUf04xEh3JjiI1P6SDX_ZDKd5sDFYvsFN01sER86PJ-vKTznqBLQOwixZxn4rYnOX4rgQWdYuyQW_Oe1R6Ul5Oo4owHQ05BkBbZGfVDaEllnlvxS0JHYl_Q5RRZQjg..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7 else 无
+- **摘要**: SPI的具体文章可以查看下面链接SPI 协议详解 时钟同步和仲裁如果两个master都想在同一条空闲总线上传输,此时必须能够使用某种机...
+
+### UDP 协议详解
+- **来源**: strongerHuang
+- **时间**: 2021-02-25 21:38:33
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9C0W_4nXWto_640Lpal1KXkM9GknpATOnW42vQpxnmySJboE0IdxaL6IOUAnPwIgIsj5pEG2QH2jGmaw-xnjSBQzXnKV32vaOpGMUfg2wawqk2LUSamHq65WxOGtjR7sayv5zkwjri00PENX4wrNFSTXleh7TioMwkzrYkm44LoKq3X8EKMKOIA..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9C0W_4nXWto_640Lpal1KXkM9GknpATOnW42vQpxnmySJboE0IdxaL6IOUAnPwIgIsj5pEG2QH2jGmaw-xnjSBQzXnKV32vaOpGMUfg2wawqk2LUSamHq65WxOGtjR7sayv5zkwjri00PENX4wrNFSTXleh7TioMwkzrYkm44LoKq3X8EKMKOIA..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9C0W_4nXWto_640Lpal1KXkM9GknpATOnW42vQpxnmySJboE0IdxaL6IOUAnPwIgIsj5pEG2QH2jGmaw-xnjSBQzXnKV32vaOpGMUfg2wawqk2LUSamHq65WxOGtjR7sayv5zkwjri00PENX4wrNFSTXleh7TioMwkzrYkm44LoKq3X8EKMKOIA..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7 else 无
+- **摘要**: 建议先看一下IP协议《IP 协议详解 》相关内容.源端口和目的端口,端口号理论上可以有2^16这么多.因为它的长度是16个bit.端口的...
+
+### RDMA 协议详解
+- **来源**: NFVSchool
+- **时间**: 2024-01-05 09:26:20
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9OswmXhH5vYK2NMTzhI8f0mfguSAyRUefDqkABzrjN2J_P210dACUxL4-5WrJoxF0LtQs093WDeM4joCDPspKCADMjN1PydpoXLcgNS7bHHhW6ocsOzcJxT1X3lwhziuFeswShvVxvSlaLDLcdj9znN-XJ3ap5jIeeffujlybwRjFcvUoAZZH7Q..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9OswmXhH5vYK2NMTzhI8f0mfguSAyRUefDqkABzrjN2J_P210dACUxL4-5WrJoxF0LtQs093WDeM4joCDPspKCADMjN1PydpoXLcgNS7bHHhW6ocsOzcJxT1X3lwhziuFeswShvVxvSlaLDLcdj9znN-XJ3ap5jIeeffujlybwRjFcvUoAZZH7Q..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd9OswmXhH5vYK2NMTzhI8f0mfguSAyRUefDqkABzrjN2J_P210dACUxL4-5WrJoxF0LtQs093WDeM4joCDPspKCADMjN1PydpoXLcgNS7bHHhW6ocsOzcJxT1X3lwhziuFeswShvVxvSlaLDLcdj9znN-XJ3ap5jIeeffujlybwRjFcvUoAZZH7Q..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7 else 无
+- **摘要**: 的架构与原理, 详解 介绍其 协议 .技术背景传统的 TCP/IP 网络通信,数据需要通过用户空间发送到远程机器的用户空间,在这个过程...
+
+### CAN 2.0 总线 协议详解
+- **来源**: 燃云汽车
+- **时间**: 2019-07-31 07:33:50
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd966d2e-Se1VjkJWEFmPAxKFCtCDMIGSvNXADiDEuJBeHHKNzM59JNl-bxPjo_9KOaajxu72DnwfW96qGmsP0WNtAb1VcR19qzQX6HPEOo8YnZY0JYW5ZmCH2USQ3DYTvWW8dvJVAbQSDvsVNBtzZp_WQwPQJIHDQk-HyzIx69sysCYioxHkzTmA..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd966d2e-Se1VjkJWEFmPAxKFCtCDMIGSvNXADiDEuJBeHHKNzM59JNl-bxPjo_9KOaajxu72DnwfW96qGmsP0WNtAb1VcR19qzQX6HPEOo8YnZY0JYW5ZmCH2USQ3DYTvWW8dvJVAbQSDvsVNBtzZp_WQwPQJIHDQk-HyzIx69sysCYioxHkzTmA..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkfkogNidiTWBbaKVGKm5LUlqXa8Fplpd966d2e-Se1VjkJWEFmPAxKFCtCDMIGSvNXADiDEuJBeHHKNzM59JNl-bxPjo_9KOaajxu72DnwfW96qGmsP0WNtAb1VcR19qzQX6HPEOo8YnZY0JYW5ZmCH2USQ3DYTvWW8dvJVAbQSDvsVNBtzZp_WQwPQJIHDQk-HyzIx69sysCYioxHkzTmA..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=754BAA1BB063FB7E595F01CBDA3AE55859E11C586A88A4B7 else 无
+- **摘要**: 引言1. CAN总线发展历史与ISO规范2. CAN总线主要功能特性3. CAN 2.0总线 协议 的物理层电气特性4. CAN 2.0总线 协议 消息报文 详解 4...
+
+### 消息 ▏注册 结构 考试是否会取消?
+- **来源**: 张工注册结构工程师
+- **时间**: 2020-04-26 06:54:00
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkDG5_wBhCHfZbaKVGKm5LUlqXa8Fplpd9XiUXDQQs-OVZ0XF-_o2ySNiPDq9ew6SivpQEtaEO_3W1ytvzc9Ed4J4eiOyZARUnsWMoP3Oy367f3uHgd3DmSCsTxwKuQqPtoribcjPeawlovRKtImUvqxsg4LmhNbz9JXhTWvthg7Zu1BPahjeJpmpwtcmQaBSrlJx4G256nIpFH6In5Ei3zg..&type=2&query=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84&token=754BBE660BD940C5E3E4BA716077F632E38BAA6B6A88A4BA](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkDG5_wBhCHfZbaKVGKm5LUlqXa8Fplpd9XiUXDQQs-OVZ0XF-_o2ySNiPDq9ew6SivpQEtaEO_3W1ytvzc9Ed4J4eiOyZARUnsWMoP3Oy367f3uHgd3DmSCsTxwKuQqPtoribcjPeawlovRKtImUvqxsg4LmhNbz9JXhTWvthg7Zu1BPahjeJpmpwtcmQaBSrlJx4G256nIpFH6In5Ei3zg..&type=2&query=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84&token=754BBE660BD940C5E3E4BA716077F632E38BAA6B6A88A4BA) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkDG5_wBhCHfZbaKVGKm5LUlqXa8Fplpd9XiUXDQQs-OVZ0XF-_o2ySNiPDq9ew6SivpQEtaEO_3W1ytvzc9Ed4J4eiOyZARUnsWMoP3Oy367f3uHgd3DmSCsTxwKuQqPtoribcjPeawlovRKtImUvqxsg4LmhNbz9JXhTWvthg7Zu1BPahjeJpmpwtcmQaBSrlJx4G256nIpFH6In5Ei3zg..&type=2&query=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84&token=754BBE660BD940C5E3E4BA716077F632E38BAA6B6A88A4BA else 无
+- **摘要**: 有考友给老刘发来了 消息 进行询问,2020年的注册 结构 考试是否会停考?根据中国人事考试网2019年12月31日公布的考试计划,2020...
+
+
+> 本期共收录 5 篇文章
+
+---
+
