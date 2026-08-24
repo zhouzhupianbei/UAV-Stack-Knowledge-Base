@@ -106,3 +106,23 @@
 
 ---
 
+
+## 2026-08-25 更新
+
+### LWIP.rar_LwIP_LwIP协议详解_lwip协议栈_lwip协议栈详解_lwip详解
+- **作者**: 
+- **时间**: 2022-09-21
+- **链接**: [https://download.csdn.net/download/weixin_42659196/86592820?ops_request_misc=elastic_search_misc&request_id=b8dbd34493404e258e32d342a82b1313&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-2-86592820-null-null.nonecase&utm_term=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3](https://download.csdn.net/download/weixin_42659196/86592820?ops_request_misc=elastic_search_misc&request_id=b8dbd34493404e258e32d342a82b1313&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-2-86592820-null-null.nonecase&utm_term=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3)
+- **摘要**: 《LwIP<em>协议</em><em>详解</em>.pdf》可能涵盖了LwIP的核心概念，包括它的设计哲学、<em>协议</em>处理流程、内存管理策略以及API使用方法。
+
+### 消息对象的结构
+- **作者**: 
+- **时间**: 2025-04-14
+- **链接**: [https://blog.csdn.net/2301_82143894/article/details/147200185?ops_request_misc=elastic_search_misc&request_id=629d62d8c93e405e97028ab85f765492&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-147200185-null-null.nonecase&utm_term=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84](https://blog.csdn.net/2301_82143894/article/details/147200185?ops_request_misc=elastic_search_misc&request_id=629d62d8c93e405e97028ab85f765492&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-147200185-null-null.nonecase&utm_term=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84)
+- **摘要**: 博客介绍了 TypeScript 中 Message 接口，用于描述<em>消息</em>对象的<em>结构</em>和类型。规定了 sender、text、time 等必要属性及 image、isPending 等可选属性的数据类型。该接口用于聊天等场景，可规范化数据、进行类型检查，支持多种功能，确保<em>消息</em>对象属性一致且易管理。
+
+
+> 本期共收录 2 篇文章
+
+---
+

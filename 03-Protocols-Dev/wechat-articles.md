@@ -144,3 +144,35 @@
 
 ---
 
+
+## 2026-08-25 更新
+
+### 技术分享 | 关于Prometheus自主无人机开发你需要懂得一些“小事”(上)
+- **来源**: 阿木实验室
+- **时间**: 2021-05-08 20:00:12
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMysfcfddcveU3yn2mRzPL2LFqXa8Fplpd9450FfT6KuqjCk3fVffI_qCReqFqE0BWABzlELJPZ-kcs3PK2KUPW4xwq4tybO6I7hVidpkijeAPd-dwC4fkjCGB1H42YC6pzOiPTN-wzGbltrINr0tRUwrAsyZF012mQXucAlUlHmjVcGFV6E_BG_9_xi6UNP1PKKCiRkHBRy6ACn9lOoZLP2Q..&type=2&query=MAVLink&token=88B1E84E01C15ADDFAFCA33407E66BD9FA6F5FFE6A8C8A9D](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMysfcfddcveU3yn2mRzPL2LFqXa8Fplpd9450FfT6KuqjCk3fVffI_qCReqFqE0BWABzlELJPZ-kcs3PK2KUPW4xwq4tybO6I7hVidpkijeAPd-dwC4fkjCGB1H42YC6pzOiPTN-wzGbltrINr0tRUwrAsyZF012mQXucAlUlHmjVcGFV6E_BG_9_xi6UNP1PKKCiRkHBRy6ACn9lOoZLP2Q..&type=2&query=MAVLink&token=88B1E84E01C15ADDFAFCA33407E66BD9FA6F5FFE6A8C8A9D) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMysfcfddcveU3yn2mRzPL2LFqXa8Fplpd9450FfT6KuqjCk3fVffI_qCReqFqE0BWABzlELJPZ-kcs3PK2KUPW4xwq4tybO6I7hVidpkijeAPd-dwC4fkjCGB1H42YC6pzOiPTN-wzGbltrINr0tRUwrAsyZF012mQXucAlUlHmjVcGFV6E_BG_9_xi6UNP1PKKCiRkHBRy6ACn9lOoZLP2Q..&type=2&query=MAVLink&token=88B1E84E01C15ADDFAFCA33407E66BD9FA6F5FFE6A8C8A9D else 无
+- **摘要**: MAVLink 是用于飞控与外部的沟通,而ROS话题是ROS中通信的消息格式.作为开发者需要了解每种消息的定义,并且清楚有关于重...
+
+### I2C 协议详解
+- **来源**: 嵌入式大杂烩
+- **时间**: 2020-06-30 22:51:46
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy5Zn4e4VszjTyn2mRzPL2LFqXa8Fplpd9jmHUdjEsuiUw5EAsk_la88fdu0TGXXVaMwVSlv2dPPwwgUGsR4KcgPZf1d8Z5TES_7GmGSVgBS-ZTuWyngJHJA01An8Ja_rchNK6cPmrmZpqcUTz_SMlVh33d6qkaSrA4Wu6ZI_B50e3J92oIZbrCeVhQN0wZFvDGHlNWoh4Vsfy08OLTBhW0A..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=88B1F73E13D149CCEAECB22514A57E3BEB7893EB6A8C8AA0](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy5Zn4e4VszjTyn2mRzPL2LFqXa8Fplpd9jmHUdjEsuiUw5EAsk_la88fdu0TGXXVaMwVSlv2dPPwwgUGsR4KcgPZf1d8Z5TES_7GmGSVgBS-ZTuWyngJHJA01An8Ja_rchNK6cPmrmZpqcUTz_SMlVh33d6qkaSrA4Wu6ZI_B50e3J92oIZbrCeVhQN0wZFvDGHlNWoh4Vsfy08OLTBhW0A..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=88B1F73E13D149CCEAECB22514A57E3BEB7893EB6A8C8AA0) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy5Zn4e4VszjTyn2mRzPL2LFqXa8Fplpd9jmHUdjEsuiUw5EAsk_la88fdu0TGXXVaMwVSlv2dPPwwgUGsR4KcgPZf1d8Z5TES_7GmGSVgBS-ZTuWyngJHJA01An8Ja_rchNK6cPmrmZpqcUTz_SMlVh33d6qkaSrA4Wu6ZI_B50e3J92oIZbrCeVhQN0wZFvDGHlNWoh4Vsfy08OLTBhW0A..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=88B1F73E13D149CCEAECB22514A57E3BEB7893EB6A8C8AA0 else 无
+- **摘要**: SPI的具体文章可以查看下面链接SPI 协议详解 时钟同步和仲裁如果两个master都想在同一条空闲总线上传输,此时必须能够使用某种机...
+
+### UDP 协议详解
+- **来源**: strongerHuang
+- **时间**: 2021-02-25 21:38:33
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy5Zn4e4VszjTyn2mRzPL2LFqXa8Fplpd9GLmlw777jcwChzCQ5XceRIldsQ5xY7TixXigmF7_j7WDOKUHy5rYVZAHxLpIrw7VS8cp4K8boTBnoZ9WyNi6lLYb1cWGq0CojIOVUNadPMxOpOjk3phS5Kp7gZXo_KD9OOQRKrSbVAzpCom8R435WIBRVl3C3LJ8lcc75XCls836zvkPgoArRQ..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=88B1F73E13D149CCEAECB22514A57E3BEB7893EB6A8C8AA0](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy5Zn4e4VszjTyn2mRzPL2LFqXa8Fplpd9GLmlw777jcwChzCQ5XceRIldsQ5xY7TixXigmF7_j7WDOKUHy5rYVZAHxLpIrw7VS8cp4K8boTBnoZ9WyNi6lLYb1cWGq0CojIOVUNadPMxOpOjk3phS5Kp7gZXo_KD9OOQRKrSbVAzpCom8R435WIBRVl3C3LJ8lcc75XCls836zvkPgoArRQ..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=88B1F73E13D149CCEAECB22514A57E3BEB7893EB6A8C8AA0) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy5Zn4e4VszjTyn2mRzPL2LFqXa8Fplpd9GLmlw777jcwChzCQ5XceRIldsQ5xY7TixXigmF7_j7WDOKUHy5rYVZAHxLpIrw7VS8cp4K8boTBnoZ9WyNi6lLYb1cWGq0CojIOVUNadPMxOpOjk3phS5Kp7gZXo_KD9OOQRKrSbVAzpCom8R435WIBRVl3C3LJ8lcc75XCls836zvkPgoArRQ..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=88B1F73E13D149CCEAECB22514A57E3BEB7893EB6A8C8AA0 else 无
+- **摘要**: 建议先看一下IP协议《IP 协议详解 》相关内容.源端口和目的端口,端口号理论上可以有2^16这么多.因为它的长度是16个bit.端口的...
+
+### 消息 ▏注册 结构 考试可正常举行
+- **来源**: 张工注册结构工程师
+- **时间**: 2020-06-11 07:22:11
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy2Yp-8F4jvh7yn2mRzPL2LFqXa8Fplpd9XQ3Ccjs23I6GHWkeq-A9UfICuP46SeSsagXwawqRKshaolL3x-CRIVMAQyJOKCIXqro1uVatk_DV-LYmZFKqgfIJ6spjD79yHw9dHJ7dEJ_1U7PIcbiDlMOTIo9mcfZo9KXXQNzZ_XrLhm7QKcJh9mED10jZMwMS3PI0NPH74d_S-e4Yz84xMA..&type=2&query=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84&token=88B206C31BD941C4E3E5BB2C1C622A82E3219CE56A8C8AA4](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy2Yp-8F4jvh7yn2mRzPL2LFqXa8Fplpd9XQ3Ccjs23I6GHWkeq-A9UfICuP46SeSsagXwawqRKshaolL3x-CRIVMAQyJOKCIXqro1uVatk_DV-LYmZFKqgfIJ6spjD79yHw9dHJ7dEJ_1U7PIcbiDlMOTIo9mcfZo9KXXQNzZ_XrLhm7QKcJh9mED10jZMwMS3PI0NPH74d_S-e4Yz84xMA..&type=2&query=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84&token=88B206C31BD941C4E3E5BB2C1C622A82E3219CE56A8C8AA4) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMy2Yp-8F4jvh7yn2mRzPL2LFqXa8Fplpd9XQ3Ccjs23I6GHWkeq-A9UfICuP46SeSsagXwawqRKshaolL3x-CRIVMAQyJOKCIXqro1uVatk_DV-LYmZFKqgfIJ6spjD79yHw9dHJ7dEJ_1U7PIcbiDlMOTIo9mcfZo9KXXQNzZ_XrLhm7QKcJh9mED10jZMwMS3PI0NPH74d_S-e4Yz84xMA..&type=2&query=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84&token=88B206C31BD941C4E3E5BB2C1C622A82E3219CE56A8C8AA4 else 无
+- **摘要**: 此外,朱老师也发布 消息 ,注册 结构 师考试时间不变,因此大家可以吃个定心丸,好好学习、努力备考、积极准备注册考试吧.今年不...
+
+
+> 本期共收录 4 篇文章
+
+---
+

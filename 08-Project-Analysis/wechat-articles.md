@@ -140,3 +140,17 @@
 
 ---
 
+
+## 2026-08-25 更新
+
+### 建设公司召开棚改 项目交付标准 调度会
+- **来源**: 动投集团
+- **时间**: 2021-07-20 18:13:03
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMysKg2YAJsKwzyn2mRzPL2LFqXa8Fplpd9Hqu1TIA2rSL_ILaHUEO7Rg4SSK_N2qgjfCujRe6-EXsBR__wjS2lXhRbJ-OXEVJlbDT_3Xrwh7auIKjQ9TuE3dCJKkF_ghbE6KXWUjUlA9p1A5cAKRRmh-iAPb1J6FBllx4FZKyapKkFqfqJy8kV8Hg3KOOZ5hhW7Y4qVTTstE9r1dbZWbKUeQ..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=88A6996662B029AC8A8DD34450976BBB8B3B547E6A8C8841](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMysKg2YAJsKwzyn2mRzPL2LFqXa8Fplpd9Hqu1TIA2rSL_ILaHUEO7Rg4SSK_N2qgjfCujRe6-EXsBR__wjS2lXhRbJ-OXEVJlbDT_3Xrwh7auIKjQ9TuE3dCJKkF_ghbE6KXWUjUlA9p1A5cAKRRmh-iAPb1J6FBllx4FZKyapKkFqfqJy8kV8Hg3KOOZ5hhW7Y4qVTTstE9r1dbZWbKUeQ..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=88A6996662B029AC8A8DD34450976BBB8B3B547E6A8C8841) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_T9akJK5yMysKg2YAJsKwzyn2mRzPL2LFqXa8Fplpd9Hqu1TIA2rSL_ILaHUEO7Rg4SSK_N2qgjfCujRe6-EXsBR__wjS2lXhRbJ-OXEVJlbDT_3Xrwh7auIKjQ9TuE3dCJKkF_ghbE6KXWUjUlA9p1A5cAKRRmh-iAPb1J6FBllx4FZKyapKkFqfqJy8kV8Hg3KOOZ5hhW7Y4qVTTstE9r1dbZWbKUeQ..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=88A6996662B029AC8A8DD34450976BBB8B3B547E6A8C8841 else 无
+- **摘要**: 为进一步明确动投集团棚户区改造 项目交付标准 ,推进棚户区改造项目的交付工作,7月19日,建设公司在大胡埠项目召开棚改 项目交 ...
+
+
+> 本期共收录 1 篇文章
+
+---
+

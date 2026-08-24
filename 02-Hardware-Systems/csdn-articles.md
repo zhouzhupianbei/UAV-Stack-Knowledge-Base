@@ -185,3 +185,41 @@
 
 ---
 
+
+## 2026-08-25 更新
+
+### 垂起固定翼无人机介绍
+- **作者**: 
+- **时间**: 2025-07-04
+- **链接**: [https://blog.csdn.net/leichaohahah/article/details/149116187?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-1-149116187-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E](https://blog.csdn.net/leichaohahah/article/details/149116187?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-1-149116187-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E)
+- **摘要**: 垂直起降<em>固定翼</em>无人机兼具多旋翼<em>与</em><em>固定翼</em>优势，技术特点包括起降灵活、性能优异等，有升推复合式等多种类型。其应用于电力巡检、油气管道巡检等多领域。未来发展趋势有智能化飞行控制、高效动力系统等，前景广阔。
+
+### 垂直起降固定翼无人机（简称垂起）
+- **作者**: 
+- **时间**: 2023-08-01
+- **链接**: [https://download.csdn.net/download/wxw581986/88139716?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticSearch~search_v2-2-88139716-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E](https://download.csdn.net/download/wxw581986/88139716?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticSearch~search_v2-2-88139716-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E)
+- **摘要**: 随着更多行业的融入和应用模式的创新，<em>垂</em>起无人机将成为改变工作方式、推动科技<em>与</em>实际应用深度融合的重要力量。
+
+### 基于垂起固定翼技术人工智能巡检策略研究.pdf
+- **作者**: 
+- **时间**: 2021-07-03
+- **链接**: [https://download.csdn.net/download/u013883025/20010417?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-20010417-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E](https://download.csdn.net/download/u013883025/20010417?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=1&utm_medium=distribute.pc_search_result.none-task-download-2~all~ElasticCommercialInsert~search_v2-3-20010417-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E)
+- **摘要**: 研究团队针对这一问题，提出了使用<em>垂</em>起<em>固定翼</em>无人机进行电力巡检的策略。
+
+### 垂起固定翼+4g数传
+- **作者**: 
+- **时间**: 2025-02-05
+- **链接**: [https://wenku.csdn.net/answer/3tmaama0e4?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-4-3tmaama0e4-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E](https://wenku.csdn.net/answer/3tmaama0e4?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=&utm_medium=distribute.pc_search_result.none-task-chatgpt-2~all~ElasticSearch~search_v2-4-3tmaama0e4-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E)
+- **摘要**: 本文介绍了垂直起降<em>固定翼</em>飞机的技术特点，以及4G数传技术的基本概念和优势。重点阐述了将4G数传技术应用于垂直起降<em>固定翼</em>飞机的集成方案，包括高带宽支持、低延迟能力、广覆盖范围和多链路冗余机制，以及一个简单的4G数据传输Python示例代码。
+
+### 垂起固定翼无人机应用及技术分析
+- **作者**: 
+- **时间**: 2025-06-03
+- **链接**: [https://blog.csdn.net/yunzhuo666/article/details/148406551?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-148406551-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E](https://blog.csdn.net/yunzhuo666/article/details/148406551?ops_request_misc=elastic_search_misc&request_id=d4869d673d894f95ac0f7f6f7c7b8fab&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-148406551-null-null.nonecase&utm_term=%E5%9E%82%E8%B5%B7%E5%9B%BA%E5%AE%9A%E7%BF%BC%E5%AF%B9%E6%AF%94%E4%B8%8E)
+- **摘要**: 本文介绍<em>垂</em>起<em>固定翼</em>无人机的应用<em>与</em>技术。其应用于能源巡检、测绘、森林监管等多行业，能提升效率、降低成本。技术方面，存在气动干扰、结构设计、模式切换等难点，需通过动力布局优化、碳纤维工艺、冗余设计等解决。
+
+
+> 本期共收录 5 篇文章
+
+---
+
