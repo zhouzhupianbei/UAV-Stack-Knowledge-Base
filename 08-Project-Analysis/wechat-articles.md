@@ -154,3 +154,17 @@
 
 ---
 
+
+## 2026-08-31 更新
+
+### 重磅!《徐州市城市房地产开发住宅 项目交付 管理 办法 (征求意见稿)》发布!
+- **来源**: 徐州土地楼市
+- **时间**: 2021-08-09 19:51:56
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9OXLIJqHtyillMVojE4NXL1qXa8Fplpd9l6nuRCtl1inhrmy12i3_swdnlL4Kq7CI1DFSWl055N4UDOUAXKvMvskRY7eoGrrVQMRjDRy-ziMlNqF-igGCtRMdGaoM2_XUXNh0qyjiFNijFR6a_cFvnFAqvSBocWjNXvS3yAXJ-6uE7bXoCdyPNqPnA31Ml10a_aeq0AkRjJW54z_tGSZTqA..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=B56820B331EE77F2D4D38F92A289054DD595D78F6A946FD4](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9OXLIJqHtyillMVojE4NXL1qXa8Fplpd9l6nuRCtl1inhrmy12i3_swdnlL4Kq7CI1DFSWl055N4UDOUAXKvMvskRY7eoGrrVQMRjDRy-ziMlNqF-igGCtRMdGaoM2_XUXNh0qyjiFNijFR6a_cFvnFAqvSBocWjNXvS3yAXJ-6uE7bXoCdyPNqPnA31Ml10a_aeq0AkRjJW54z_tGSZTqA..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=B56820B331EE77F2D4D38F92A289054DD595D78F6A946FD4) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9OXLIJqHtyillMVojE4NXL1qXa8Fplpd9l6nuRCtl1inhrmy12i3_swdnlL4Kq7CI1DFSWl055N4UDOUAXKvMvskRY7eoGrrVQMRjDRy-ziMlNqF-igGCtRMdGaoM2_XUXNh0qyjiFNijFR6a_cFvnFAqvSBocWjNXvS3yAXJ-6uE7bXoCdyPNqPnA31Ml10a_aeq0AkRjJW54z_tGSZTqA..&type=2&query=%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BB%98%E6%A0%87%E5%87%86&token=B56820B331EE77F2D4D38F92A289054DD595D78F6A946FD4 else 无
+- **摘要**: 话说徐州近年来开发商 项目交付 问题越来越多, 项目交付 必维权仿佛成为了一种常态.针对这一乱象,政府终于还是出手了, 交付要求 ...
+
+
+> 本期共收录 1 篇文章
+
+---
+

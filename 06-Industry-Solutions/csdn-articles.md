@@ -106,3 +106,29 @@
 
 ---
 
+
+## 2026-08-31 更新
+
+### 无人机怎么设定航线_收藏！老飞手的航线规划笔记在这里...（上篇）
+- **作者**: 
+- **时间**: 2020-12-21
+- **链接**: [https://blog.csdn.net/weixin_39928787/article/details/111671393?ops_request_misc=elastic_search_misc&request_id=fca2103ba6134017801be63e2a1c4284&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-111671393-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92](https://blog.csdn.net/weixin_39928787/article/details/111671393?ops_request_misc=elastic_search_misc&request_id=fca2103ba6134017801be63e2a1c4284&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-111671393-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92)
+- **摘要**: 本文详细介绍无人机航测<em>航线规划</em>的完整流程，包括确定航测范围、航高、重叠度及天气情况等关键要素，确保高效准确地完成航测任务。
+
+### 无人机航线规划
+- **作者**: 
+- **时间**: 2023-09-10
+- **链接**: [https://blog.csdn.net/ljjjjjjjjjjj/article/details/132797173?ops_request_misc=elastic_search_misc&request_id=fca2103ba6134017801be63e2a1c4284&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-132797173-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92](https://blog.csdn.net/ljjjjjjjjjjj/article/details/132797173?ops_request_misc=elastic_search_misc&request_id=fca2103ba6134017801be63e2a1c4284&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-132797173-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92)
+- **摘要**: 本文探讨了无人机<em>航线</em><em>规划</em>中的常见算法，如A*、人工势场法、蚁群、粒子群和遗传算法，分析了它们的优缺点，旨在为无人机开发者提供实用路径<em>规划</em>策略。
+
+### ✅ YOLO11-Seg-Slimneck连接器缺陷检测系统：f类和p类缺陷识别实战项目（附源码）
+- **作者**: 
+- **时间**: 2025-11-17
+- **链接**: [https://blog.csdn.net/qunshankeji/article/details/154945430?ops_request_misc=elastic_search_misc&request_id=c2d4e64f170846e38d1ce3504d22d5be&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-154945430-null-null.nonecase&utm_term=%E7%BC%BA%E9%99%B7%E8%AF%86%E5%88%AB](https://blog.csdn.net/qunshankeji/article/details/154945430?ops_request_misc=elastic_search_misc&request_id=c2d4e64f170846e38d1ce3504d22d5be&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-154945430-null-null.nonecase&utm_term=%E7%BC%BA%E9%99%B7%E8%AF%86%E5%88%AB)
+- **摘要**: 本项目基于YOLO11-Seg-Slimneck架构，实现对连接器f类（异物）和p类（引脚损伤）<em>缺陷</em>的高精度检测。系统融合目标检测与图像分割技术，采用SlimNeck轻量化结构，支持工业场景下的实时检测。通过数据增强、多任务损失优化及消融实验验证，系统在准确率与推理速度间取得良好平衡，并已在实际生产线中部署应用。
+
+
+> 本期共收录 3 篇文章
+
+---
+

@@ -176,3 +176,23 @@
 
 ---
 
+
+## 2026-08-31 更新
+
+### I2C 协议详解
+- **来源**: 嵌入式大杂烩
+- **时间**: 2020-06-30 22:51:46
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9-4J8lRMv3gBlMVojE4NXL1qXa8Fplpd9fs3bFHYN7N_Qu098DKRwHEbqyfolrpTgTcl8wRBrhRYCtGGUwT16wX8Jcch1HpcLEP9dOy8vz1nbKx79Vkjyk3k6-MDHGURNLn2Z3CDkVJCaYZ3xy1_ie4x-Hru5YI1g42-eKLXIEyS6B3iGj4iySf3qHzdqAuQY7l0TD9yztDLuL0unUdKkuw..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=B56A26D7EB35AC290F095548732105DF0FF4AF456A947024](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9-4J8lRMv3gBlMVojE4NXL1qXa8Fplpd9fs3bFHYN7N_Qu098DKRwHEbqyfolrpTgTcl8wRBrhRYCtGGUwT16wX8Jcch1HpcLEP9dOy8vz1nbKx79Vkjyk3k6-MDHGURNLn2Z3CDkVJCaYZ3xy1_ie4x-Hru5YI1g42-eKLXIEyS6B3iGj4iySf3qHzdqAuQY7l0TD9yztDLuL0unUdKkuw..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=B56A26D7EB35AC290F095548732105DF0FF4AF456A947024) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9-4J8lRMv3gBlMVojE4NXL1qXa8Fplpd9fs3bFHYN7N_Qu098DKRwHEbqyfolrpTgTcl8wRBrhRYCtGGUwT16wX8Jcch1HpcLEP9dOy8vz1nbKx79Vkjyk3k6-MDHGURNLn2Z3CDkVJCaYZ3xy1_ie4x-Hru5YI1g42-eKLXIEyS6B3iGj4iySf3qHzdqAuQY7l0TD9yztDLuL0unUdKkuw..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=B56A26D7EB35AC290F095548732105DF0FF4AF456A947024 else 无
+- **摘要**: SPI的具体文章可以查看下面链接SPI 协议详解 时钟同步和仲裁如果两个master都想在同一条空闲总线上传输,此时必须能够使用某种机...
+
+### UDP 协议详解
+- **来源**: strongerHuang
+- **时间**: 2021-02-25 21:38:33
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9-4J8lRMv3gBlMVojE4NXL1qXa8Fplpd9L3fTYUKpuir_fCrVeNZSLjBhI7sRwh-rdbfF4AhZIk-PZG4j6vlzcMm4f8O04cQMZF7syImTLpjmzCMCg-W0NfXxRrKk3fy2QfGQ9pu10PzQx3ziEt_f7BaEeDnLkTp4IKEIKhbMpobgMCFs0C3pp7dZhQ5pct7Z-Op5NrX7cVQ89kyxDwoXvg..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=B56A26D7EB35AC290F095548732105DF0FF4AF456A947024](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9-4J8lRMv3gBlMVojE4NXL1qXa8Fplpd9L3fTYUKpuir_fCrVeNZSLjBhI7sRwh-rdbfF4AhZIk-PZG4j6vlzcMm4f8O04cQMZF7syImTLpjmzCMCg-W0NfXxRrKk3fy2QfGQ9pu10PzQx3ziEt_f7BaEeDnLkTp4IKEIKhbMpobgMCFs0C3pp7dZhQ5pct7Z-Op5NrX7cVQ89kyxDwoXvg..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=B56A26D7EB35AC290F095548732105DF0FF4AF456A947024) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9-4J8lRMv3gBlMVojE4NXL1qXa8Fplpd9L3fTYUKpuir_fCrVeNZSLjBhI7sRwh-rdbfF4AhZIk-PZG4j6vlzcMm4f8O04cQMZF7syImTLpjmzCMCg-W0NfXxRrKk3fy2QfGQ9pu10PzQx3ziEt_f7BaEeDnLkTp4IKEIKhbMpobgMCFs0C3pp7dZhQ5pct7Z-Op5NrX7cVQ89kyxDwoXvg..&type=2&query=%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3&token=B56A26D7EB35AC290F095548732105DF0FF4AF456A947024 else 无
+- **摘要**: 建议先看一下IP协议《IP 协议详解 》相关内容.源端口和目的端口,端口号理论上可以有2^16这么多.因为它的长度是16个bit.端口的...
+
+
+> 本期共收录 2 篇文章
+
+---
+

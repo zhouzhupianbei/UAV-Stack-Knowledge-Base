@@ -106,3 +106,23 @@
 
 ---
 
+
+## 2026-08-31 更新
+
+### 行业解决 方案 | 无人机 电力巡检 行业应用
+- **来源**: 无人机网
+- **时间**: 2023-11-28 10:39:42
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9mEEhgi9dTs9lMVojE4NXL1qXa8Fplpd9OxtKcjc5kII9Fl5v09E4e7OLcutvhvAt2gBnyNDJL6f7tGGrDnMJ1RwbgoAIcuMnpBDm6GxUhbQAs_HXMn1nA1iT653HkY2wmp1RDWsQVc79knjdke35siYwhmX2piQ38_M13-nOwAsvDYwek9psT3QVQk64MxDgjwYDk09bChcGX_iHL9MadA..&type=2&query=%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%96%B9%E6%A1%88&token=B5693436B569F275525408162B91740252D35E856A946FFC](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9mEEhgi9dTs9lMVojE4NXL1qXa8Fplpd9OxtKcjc5kII9Fl5v09E4e7OLcutvhvAt2gBnyNDJL6f7tGGrDnMJ1RwbgoAIcuMnpBDm6GxUhbQAs_HXMn1nA1iT653HkY2wmp1RDWsQVc79knjdke35siYwhmX2piQ38_M13-nOwAsvDYwek9psT3QVQk64MxDgjwYDk09bChcGX_iHL9MadA..&type=2&query=%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%96%B9%E6%A1%88&token=B5693436B569F275525408162B91740252D35E856A946FFC) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9mEEhgi9dTs9lMVojE4NXL1qXa8Fplpd9OxtKcjc5kII9Fl5v09E4e7OLcutvhvAt2gBnyNDJL6f7tGGrDnMJ1RwbgoAIcuMnpBDm6GxUhbQAs_HXMn1nA1iT653HkY2wmp1RDWsQVc79knjdke35siYwhmX2piQ38_M13-nOwAsvDYwek9psT3QVQk64MxDgjwYDk09bChcGX_iHL9MadA..&type=2&query=%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%96%B9%E6%A1%88&token=B5693436B569F275525408162B91740252D35E856A946FFC else 无
+- **摘要**: 无人机 电力巡检 国家相关标准无人机 电力巡检 应用 方案 1、电力设备故障巡检对巡检线路进行巡检,通过温度异常变化对比值,发现隐...
+
+### 华为智能 巡检 解决 方案 ,助力 电力 系统高效运营
+- **来源**: 华为企业业务
+- **时间**: 2021-09-28 21:07:17
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9mEEhgi9dTs9lMVojE4NXL1qXa8Fplpd9Lu50o8rUddJOlfNx-wCaziQkn75kcQ0ggaasl8CFwv7cOHsPDi7hXwV92rUvDZv7P9R4CSsAJEMFZJYita8ObBK5z7qsysvbK22Hr1xz2VUqQTfMYY-2mhcDU9pX9R1Ukgz2jPLjSlUPYIa4hKtjOC1BEEZrVb5MuOu3V2gcBNGAFV_3u-a3OQ..&type=2&query=%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%96%B9%E6%A1%88&token=B5693436B569F275525408162B91740252D35E856A946FFC](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9mEEhgi9dTs9lMVojE4NXL1qXa8Fplpd9Lu50o8rUddJOlfNx-wCaziQkn75kcQ0ggaasl8CFwv7cOHsPDi7hXwV92rUvDZv7P9R4CSsAJEMFZJYita8ObBK5z7qsysvbK22Hr1xz2VUqQTfMYY-2mhcDU9pX9R1Ukgz2jPLjSlUPYIa4hKtjOC1BEEZrVb5MuOu3V2gcBNGAFV_3u-a3OQ..&type=2&query=%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%96%B9%E6%A1%88&token=B5693436B569F275525408162B91740252D35E856A946FFC) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9mEEhgi9dTs9lMVojE4NXL1qXa8Fplpd9Lu50o8rUddJOlfNx-wCaziQkn75kcQ0ggaasl8CFwv7cOHsPDi7hXwV92rUvDZv7P9R4CSsAJEMFZJYita8ObBK5z7qsysvbK22Hr1xz2VUqQTfMYY-2mhcDU9pX9R1Ukgz2jPLjSlUPYIa4hKtjOC1BEEZrVb5MuOu3V2gcBNGAFV_3u-a3OQ..&type=2&query=%E7%94%B5%E5%8A%9B%E5%B7%A1%E6%A3%80%E6%96%B9%E6%A1%88&token=B5693436B569F275525408162B91740252D35E856A946FFC else 无
+- **摘要**: 华为在峰会上分享了面向 电力 行业的多种场景的智能 巡检方案 和多种应用实践.该方案运用了华为前沿的网络、视频和AI等数字化技术...
+
+
+> 本期共收录 2 篇文章
+
+---
+
