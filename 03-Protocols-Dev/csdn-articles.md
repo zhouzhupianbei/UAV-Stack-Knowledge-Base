@@ -158,3 +158,23 @@
 
 ---
 
+
+## 2026-09-01 更新
+
+### MavLink
+- **作者**: 
+- **时间**: 2024-09-19
+- **链接**: [https://blog.csdn.net/qq_53683175/article/details/142363682?ops_request_misc=elastic_search_misc&request_id=f605f8c0651740f08fbf39ff6eb68eb2&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-142363682-null-null.nonecase&utm_term=MAVLink](https://blog.csdn.net/qq_53683175/article/details/142363682?ops_request_misc=elastic_search_misc&request_id=f605f8c0651740f08fbf39ff6eb68eb2&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-142363682-null-null.nonecase&utm_term=MAVLink)
+- **摘要**: <em>MAVLink</em>是用于无人机通信的轻量级消息协议，遵循混合发布 - 订阅和点对点设计模式。本文介绍了其多个版本，包括<em>MAVLink</em> 2.0和<em>MAVLink</em> <em>1</em>.0，说明了版本握手方式。还详细阐述了帧格式、消息签名及身份验证等内容，以及密钥管理方法。
+
+### 消息对象的结构
+- **作者**: 
+- **时间**: 2025-04-14
+- **链接**: [https://blog.csdn.net/2301_82143894/article/details/147200185?ops_request_misc=elastic_search_misc&request_id=fa82bacca58d4931847f08ec7bc15274&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-147200185-null-null.nonecase&utm_term=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84](https://blog.csdn.net/2301_82143894/article/details/147200185?ops_request_misc=elastic_search_misc&request_id=fa82bacca58d4931847f08ec7bc15274&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-147200185-null-null.nonecase&utm_term=%E6%B6%88%E6%81%AF%E7%BB%93%E6%9E%84)
+- **摘要**: 博客介绍了 TypeScript 中 Message 接口，用于描述<em>消息</em>对象的<em>结构</em>和类型。规定了 sender、text、time 等必要属性及 image、isPending 等可选属性的数据类型。该接口用于聊天等场景，可规范化数据、进行类型检查，支持多种功能，确保<em>消息</em>对象属性一致且易管理。
+
+
+> 本期共收录 2 篇文章
+
+---
+
