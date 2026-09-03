@@ -515,3 +515,23 @@
 
 ---
 
+
+## 2026-09-04 更新
+
+### 智能办公平台和传统OA的核心区别,企业 选型 必看
+- **来源**: 九思软件董事长王海波
+- **时间**: 2026-03-17 06:07:51
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG7sSLBjgdKvGLzRbLtA4MDVqXa8Fplpd9KjYwJaturjaCjaaTCbF9-6Dp8CXuNMMiIqDwDs2vsAsNQHF3UoAokrEVv_d3mp2_vGIc63Ea2mZlch59ojbAe1RK0LWx9NC6x5v6eW5GM2IVwxeZ7ET5WPqxPlZL4_QCZHmdRQzRoV5gg66ip3Up4RMbA_cdI5E1Mlnod7rYoztr1dbZWbKUeQ..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=D40AF1E85C2413D4D5D38E432C9F81FCD5A21C366A99B685](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG7sSLBjgdKvGLzRbLtA4MDVqXa8Fplpd9KjYwJaturjaCjaaTCbF9-6Dp8CXuNMMiIqDwDs2vsAsNQHF3UoAokrEVv_d3mp2_vGIc63Ea2mZlch59ojbAe1RK0LWx9NC6x5v6eW5GM2IVwxeZ7ET5WPqxPlZL4_QCZHmdRQzRoV5gg66ip3Up4RMbA_cdI5E1Mlnod7rYoztr1dbZWbKUeQ..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=D40AF1E85C2413D4D5D38E432C9F81FCD5A21C366A99B685) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG7sSLBjgdKvGLzRbLtA4MDVqXa8Fplpd9KjYwJaturjaCjaaTCbF9-6Dp8CXuNMMiIqDwDs2vsAsNQHF3UoAokrEVv_d3mp2_vGIc63Ea2mZlch59ojbAe1RK0LWx9NC6x5v6eW5GM2IVwxeZ7ET5WPqxPlZL4_QCZHmdRQzRoV5gg66ip3Up4RMbA_cdI5E1Mlnod7rYoztr1dbZWbKUeQ..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=D40AF1E85C2413D4D5D38E432C9F81FCD5A21C366A99B685 else 无
+- **摘要**: 企业数字化办公升级过程中,管理者与办公负责人常困惑于智能办公平台与传统OA的区别及 选型 方法.对于计划升级办公系统的企业...
+
+### 新型耐火窗性能 对比 及 选型 建议
+- **来源**: 设计优化圈
+- **时间**: 2020-12-24 08:37:01
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG7sSLBjgdKvGLzRbLtA4MDVqXa8Fplpd9UBf7NY8YOlxxBeDMqBL_svhCp4-ne-GB46oAh8o_G0jr5P78Lm6yrnIc9_IYHRWCdhbbRzYmtreOaEO4iFCoeo_H8zC_GjFPrg3gxQ_dYouxecg4KC4dBH4NugXvS-qInVJjPdMNCSsTnWjSy7AIQJr4G47fPajh_bcJRXgm_i3I3OTRHYU2og..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=D40AF1E85C2413D4D5D38E432C9F81FCD5A21C366A99B685](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG7sSLBjgdKvGLzRbLtA4MDVqXa8Fplpd9UBf7NY8YOlxxBeDMqBL_svhCp4-ne-GB46oAh8o_G0jr5P78Lm6yrnIc9_IYHRWCdhbbRzYmtreOaEO4iFCoeo_H8zC_GjFPrg3gxQ_dYouxecg4KC4dBH4NugXvS-qInVJjPdMNCSsTnWjSy7AIQJr4G47fPajh_bcJRXgm_i3I3OTRHYU2og..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=D40AF1E85C2413D4D5D38E432C9F81FCD5A21C366A99B685) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG7sSLBjgdKvGLzRbLtA4MDVqXa8Fplpd9UBf7NY8YOlxxBeDMqBL_svhCp4-ne-GB46oAh8o_G0jr5P78Lm6yrnIc9_IYHRWCdhbbRzYmtreOaEO4iFCoeo_H8zC_GjFPrg3gxQ_dYouxecg4KC4dBH4NugXvS-qInVJjPdMNCSsTnWjSy7AIQJr4G47fPajh_bcJRXgm_i3I3OTRHYU2og..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=D40AF1E85C2413D4D5D38E432C9F81FCD5A21C366A99B685 else 无
+- **摘要**: 成本 对比 情况上表可看出,新型灌注式彩钢耐火窗成本水平较常规耐火窗优势明显.2、 选型 使用建议及市场资源情况:(1)、新型灌...
+
+
+> 本期共收录 2 篇文章
+
+---
+

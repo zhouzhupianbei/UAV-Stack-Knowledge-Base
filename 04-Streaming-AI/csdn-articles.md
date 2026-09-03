@@ -138,3 +138,23 @@
 
 ---
 
+
+## 2026-09-04 更新
+
+### 部署的具体实现细节
+- **作者**: 
+- **时间**: 2025-02-18
+- **链接**: [https://blog.csdn.net/weixin_42554191/article/details/145698231?ops_request_misc=elastic_search_misc&request_id=15948fc338a04b4c8fe2584942b6f40d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-145698231-null-null.nonecase&utm_term=%E9%83%A8%E7%BD%B2](https://blog.csdn.net/weixin_42554191/article/details/145698231?ops_request_misc=elastic_search_misc&request_id=15948fc338a04b4c8fe2584942b6f40d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-145698231-null-null.nonecase&utm_term=%E9%83%A8%E7%BD%B2)
+- **摘要**: <em>部署</em>是软件开发周期关键环节，影响软件可用性、性能和用户体验。本文详细介绍前端<em>部署</em>的具体实现，包括准备<em>部署</em>环境，如服务器、操作系统等；选择<em>部署</em>策略，如蓝绿、金丝雀<em>部署</em>；挑选<em>部署</em>工具，如 Docker、Kubernetes；设计<em>部署</em>流程，涵盖代码提交、构建、测试和<em>部署<
+
+### nginx-autoinstall搭建RTMP流媒体服务器：直播推流完整教程
+- **作者**: 
+- **时间**: 2026-03-26
+- **链接**: [https://blog.csdn.net/gitblog_00110/article/details/152244202?ops_request_misc=elastic_search_misc&request_id=bd43f217dcdd42b79b4c979905c54dfa&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-152244202-null-null.nonecase&utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA](https://blog.csdn.net/gitblog_00110/article/details/152244202?ops_request_misc=elastic_search_misc&request_id=bd43f217dcdd42b79b4c979905c54dfa&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-152244202-null-null.nonecase&utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA)
+- **摘要**: 本教程详细介绍了如何使用nginx-autoinstall脚本在Debian/Ubuntu系统上一键编译安装支持RTMP模块的NGINX，完成RTMP推流与HLS直播配置；涵盖HEADLESS无交互安装、OBS推流设置、VLC及网页HLS播放，并提供防火墙端口配置与常见问题排查方法，适用于低延迟直播场景。
+
+
+> 本期共收录 2 篇文章
+
+---
+

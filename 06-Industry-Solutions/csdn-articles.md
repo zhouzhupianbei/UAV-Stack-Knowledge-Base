@@ -132,3 +132,23 @@
 
 ---
 
+
+## 2026-09-04 更新
+
+### 5种无人机航线规划算法实战对比：从A*到RRT，哪种更适合你的项目？
+- **作者**: 
+- **时间**: 2026-03-05
+- **链接**: [https://blog.csdn.net/weixin_29243279/article/details/158681317?ops_request_misc=elastic_search_misc&request_id=96393d0f42844c50bebe72ecc2f61a9d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-158681317-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92](https://blog.csdn.net/weixin_29243279/article/details/158681317?ops_request_misc=elastic_search_misc&request_id=96393d0f42844c50bebe72ecc2f61a9d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-158681317-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92)
+- **摘要**: 本文对比A*、人工势场法、蚁群算法、粒子群优化和RRT五种主流无人机路径<em>规划</em>算法，从计算效率（<em>规划</em>耗时）、路径质量（长度与平滑度）及环境适应性（动态障碍响应、高维支持）三方面展开实测分析，并探讨分层混合策略（如全局A*+局部势场）在工程落地中的关键实践要点。
+
+### 无人机航线规划
+- **作者**: 
+- **时间**: 2023-09-10
+- **链接**: [https://blog.csdn.net/ljjjjjjjjjjj/article/details/132797173?ops_request_misc=elastic_search_misc&request_id=96393d0f42844c50bebe72ecc2f61a9d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-132797173-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92](https://blog.csdn.net/ljjjjjjjjjjj/article/details/132797173?ops_request_misc=elastic_search_misc&request_id=96393d0f42844c50bebe72ecc2f61a9d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-5-132797173-null-null.nonecase&utm_term=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92)
+- **摘要**: 本文探讨了无人机<em>航线</em><em>规划</em>中的常见算法，如A*、人工势场法、蚁群、粒子群和遗传算法，分析了它们的优缺点，旨在为无人机开发者提供实用路径<em>规划</em>策略。
+
+
+> 本期共收录 2 篇文章
+
+---
+

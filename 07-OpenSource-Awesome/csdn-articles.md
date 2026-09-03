@@ -424,3 +424,23 @@
 
 ---
 
+
+## 2026-09-04 更新
+
+### ArduPilot与PX4双雄对比：从环境搭建到SITL仿真入门
+- **作者**: 
+- **时间**: 2026-08-26
+- **链接**: [https://blog.csdn.net/weixin_28684757/article/details/164079158?ops_request_misc=elastic_search_misc&request_id=b3bf151ccdbc4554899db621c2eb72fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-164079158-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6](https://blog.csdn.net/weixin_28684757/article/details/164079158?ops_request_misc=elastic_search_misc&request_id=b3bf151ccdbc4554899db621c2eb72fb&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-164079158-null-null.nonecase&utm_term=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6)
+- **摘要**: 本文系统对比ArduPilot与PX4两大开源飞控<em>软件</em>栈，涵盖核心架构差异、Ubuntu 22.04环境搭建、SITL仿真全流程（PX4+Gazebo、ArduPilot+sim_vehicle.py）、MAVLink协议共性、日志解析方法及常见问题排查。重点聚焦开发入门实操，强调仿真验证闭环与模块化理解，为无人系统开发者提供可落地的技术路径。
+
+### 全屋定制系统实战：订单状态机与Spring Boot架构解析
+- **作者**: 
+- **时间**: 2026-08-29
+- **链接**: [https://blog.csdn.net/weixin_32705179/article/details/164156667?ops_request_misc=elastic_search_misc&request_id=18768bd2e8814cc7b7f61443cbfb7248&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-164156667-null-null.nonecase&utm_term=%E5%AE%9A%E5%88%B6](https://blog.csdn.net/weixin_32705179/article/details/164156667?ops_request_misc=elastic_search_misc&request_id=18768bd2e8814cc7b7f61443cbfb7248&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-164156667-null-null.nonecase&utm_term=%E5%AE%9A%E5%88%B6)
+- **摘要**: 本文基于西西家居全屋<em>定制</em>系统，深入解析Spring Boot架构下订单状态机的设计与实现。重点阐述状态流转配置表驱动的实现方式，避免硬编码if-else逻辑；结合MySQL数据库设计，说明订单长链路模型、状态记录表、价格冗余等关键实践；涵盖分层架构、JWT权限控制、索引优化及部署zip常见问题排查，聚焦业务系统中状态一致性、可维护性与可扩展性保障。
+
+
+> 本期共收录 2 篇文章
+
+---
+

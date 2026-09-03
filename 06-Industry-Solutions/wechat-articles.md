@@ -126,3 +126,41 @@
 
 ---
 
+
+## 2026-09-04 更新
+
+### 科普 | 初识航测之『 航线规划 』
+- **来源**: 多普云
+- **时间**: 2020-06-22 22:03:15
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd97NqqH0jZ18ZZ2qiFjmtZC5WZfWl1_6UE2VO1zzlXXg0M1rwDTaUTqiyYY7xiu-LPuaCJDojypUbTfWXUmt6BChVQ96l6f8vqrD1zAVmgA0VUNFOF56YcNQGd6T-R_0KKX2xk_-yZcwNtgzV-KT-apwHoob-p03oP_GStFGrv42BFkDr8IT4KYw..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd97NqqH0jZ18ZZ2qiFjmtZC5WZfWl1_6UE2VO1zzlXXg0M1rwDTaUTqiyYY7xiu-LPuaCJDojypUbTfWXUmt6BChVQ96l6f8vqrD1zAVmgA0VUNFOF56YcNQGd6T-R_0KKX2xk_-yZcwNtgzV-KT-apwHoob-p03oP_GStFGrv42BFkDr8IT4KYw..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd97NqqH0jZ18ZZ2qiFjmtZC5WZfWl1_6UE2VO1zzlXXg0M1rwDTaUTqiyYY7xiu-LPuaCJDojypUbTfWXUmt6BChVQ96l6f8vqrD1zAVmgA0VUNFOF56YcNQGd6T-R_0KKX2xk_-yZcwNtgzV-KT-apwHoob-p03oP_GStFGrv42BFkDr8IT4KYw..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661 else 无
+- **摘要**: 其中保障出图资料的关键就是原始资料的获取,虽然当前很多 航线规划 软件都是通过勾画航线,即可自动生成航迹线,但是有以下很多...
+
+### 航线规划 流程介绍
+- **来源**: 成都睿铂科技
+- **时间**: 2019-04-23 12:08:47
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd9L-NfO-2ojFwf_OQ1mP1lSdscgzPryMcWB-othKR-CZTDYzYdN_-l-hvDyog8NftnA7oe1LHF9vzmUyTGsHEYjJcflQ6zzDgVnwA0_F3ituxlbaulQ0KNn5ntFE1zePZIR_gOCRF8dbY6IBz2_-nCM8Quwhn_0IWmplkYXa6_QJB6VKrzu_4XKA..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd9L-NfO-2ojFwf_OQ1mP1lSdscgzPryMcWB-othKR-CZTDYzYdN_-l-hvDyog8NftnA7oe1LHF9vzmUyTGsHEYjJcflQ6zzDgVnwA0_F3ituxlbaulQ0KNn5ntFE1zePZIR_gOCRF8dbY6IBz2_-nCM8Quwhn_0IWmplkYXa6_QJB6VKrzu_4XKA..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd9L-NfO-2ojFwf_OQ1mP1lSdscgzPryMcWB-othKR-CZTDYzYdN_-l-hvDyog8NftnA7oe1LHF9vzmUyTGsHEYjJcflQ6zzDgVnwA0_F3ituxlbaulQ0KNn5ntFE1zePZIR_gOCRF8dbY6IBz2_-nCM8Quwhn_0IWmplkYXa6_QJB6VKrzu_4XKA..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661 else 无
+- **摘要**: 3明确航测范围 航线规划 软件(地面站)的参考底图数据大多来源于谷歌地图.规划航线之前,有必要在Google Earth中确定项目航飞...
+
+### 航线规划 应如何查阅资料?
+- **来源**: 金帆洋Goldsailocean航海图书
+- **时间**: 2021-09-28 15:58:15
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd9K043bTqqb8X-q0Gv94RsjsMrjdjAXEik9YHhomPvp7kY3flEY8YPRszlrQyDqi4SQUTWAotS3YQe59GNQIV7IJH8LsHdyq0Md0JTQo-MA6xdmmNduONmIGv9esCvAtfzeN01GwT_z8gqO12ugboEFnNLVoILXQnlVxbDIqJ8RBPS-e4Yz84xMA..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd9K043bTqqb8X-q0Gv94RsjsMrjdjAXEik9YHhomPvp7kY3flEY8YPRszlrQyDqi4SQUTWAotS3YQe59GNQIV7IJH8LsHdyq0Md0JTQo-MA6xdmmNduONmIGv9esCvAtfzeN01GwT_z8gqO12ugboEFnNLVoILXQnlVxbDIqJ8RBPS-e4Yz84xMA..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd9K043bTqqb8X-q0Gv94RsjsMrjdjAXEik9YHhomPvp7kY3flEY8YPRszlrQyDqi4SQUTWAotS3YQe59GNQIV7IJH8LsHdyq0Md0JTQo-MA6xdmmNduONmIGv9esCvAtfzeN01GwT_z8gqO12ugboEFnNLVoILXQnlVxbDIqJ8RBPS-e4Yz84xMA..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661 else 无
+- **摘要**: 航线规划 是航次计划中二副的重要职责,航海类图书众多,本文分享一下如何查阅相关资料来制定一条航线. 第一:首先要根据公司调...
+
+### 遵义机场公司召开 航线规划 座谈会
+- **来源**: 遵义机场ZYI
+- **时间**: 2016-12-01 23:28:20
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DNO7wC8YiX1yG0ErAC_BlAWVgrFeYQugDlJ1qXFAApa8PVRcAsYd2YIjP_4suPEMBBMcAm42UrUBPzbbwZI0dz-ZptLHL82DanICmXjdt7pnvRjWcZ6sz8ejyAMzlbHwVvzRi78AD1JR96gGftPg6XCt0lTlaRkIVy8M_V49W03ncabU0rcw6KS3pzU6W91jcDuHNQ3lI6pgt5rTwuOIZQzS5z41_RHjmDJefdF-epQxYIqNPamMFJlxO6MA1-KoMgYLuZFTAkFWiZqwg0yoRFw.&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DNO7wC8YiX1yG0ErAC_BlAWVgrFeYQugDlJ1qXFAApa8PVRcAsYd2YIjP_4suPEMBBMcAm42UrUBPzbbwZI0dz-ZptLHL82DanICmXjdt7pnvRjWcZ6sz8ejyAMzlbHwVvzRi78AD1JR96gGftPg6XCt0lTlaRkIVy8M_V49W03ncabU0rcw6KS3pzU6W91jcDuHNQ3lI6pgt5rTwuOIZQzS5z41_RHjmDJefdF-epQxYIqNPamMFJlxO6MA1-KoMgYLuZFTAkFWiZqwg0yoRFw.&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DNO7wC8YiX1yG0ErAC_BlAWVgrFeYQugDlJ1qXFAApa8PVRcAsYd2YIjP_4suPEMBBMcAm42UrUBPzbbwZI0dz-ZptLHL82DanICmXjdt7pnvRjWcZ6sz8ejyAMzlbHwVvzRi78AD1JR96gGftPg6XCt0lTlaRkIVy8M_V49W03ncabU0rcw6KS3pzU6W91jcDuHNQ3lI6pgt5rTwuOIZQzS5z41_RHjmDJefdF-epQxYIqNPamMFJlxO6MA1-KoMgYLuZFTAkFWiZqwg0yoRFw.&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661 else 无
+- **摘要**: 为遵义机场未来 航线规划 谋好篇、布好局、开好头夯实了基础,将助推遵义机场进一步优化航线网络布局,全力以赴推进航旅联动,...
+
+### 应用丨让 航线规划 更精准智能,老司机的秘籍都在这!
+- **来源**: 中海达讯
+- **时间**: 2020-03-11 15:43:55
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd96qgonGXenVk535d2gubw71gQ7pYWWh1JluuZjuJ_qGs9KBeQqZBuJol4G0yG70CfR3jix_2U7t2XpJyYiVnV0aSgHMNfTbFU_BG_ZJdtbAW1TQnIv6DXP-YEvUI6IxBpI_n4O_ZsoAmbRYRRUttclcntH2s3OonaBiHgZiBK9qmE8RsmObDbtQ..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd96qgonGXenVk535d2gubw71gQ7pYWWh1JluuZjuJ_qGs9KBeQqZBuJol4G0yG70CfR3jix_2U7t2XpJyYiVnV0aSgHMNfTbFU_BG_ZJdtbAW1TQnIv6DXP-YEvUI6IxBpI_n4O_ZsoAmbRYRRUttclcntH2s3OonaBiHgZiBK9qmE8RsmObDbtQ..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlG-TdJebGfD7qLzRbLtA4MDVqXa8Fplpd96qgonGXenVk535d2gubw71gQ7pYWWh1JluuZjuJ_qGs9KBeQqZBuJol4G0yG70CfR3jix_2U7t2XpJyYiVnV0aSgHMNfTbFU_BG_ZJdtbAW1TQnIv6DXP-YEvUI6IxBpI_n4O_ZsoAmbRYRRUttclcntH2s3OonaBiHgZiBK9qmE8RsmObDbtQ..&type=2&query=%E8%88%AA%E7%BA%BF%E8%A7%84%E5%88%92&token=D40A2114A9D2E62321247BB5D50E823922A255A56A99B661 else 无
+- **摘要**: 别急别急,今天我们为大家带来了iFly航测助手标准版的简单介绍以及针对不同测区 航线规划 的经验分享.如何进行 航线规划 才能让内...
+
+
+> 本期共收录 5 篇文章
+
+---
+
