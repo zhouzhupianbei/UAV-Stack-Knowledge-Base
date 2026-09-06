@@ -150,3 +150,53 @@
 
 ---
 
+
+## 2026-09-07 更新
+
+### 无人机 的 分类
+- **来源**: 宿州中原航空中等专业学校
+- **时间**: 2022-03-13 16:13:03
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIOfFeoiwmuM2uYpi_QBM5f1qXa8Fplpd9r6XjpFb-_-bQJXeICw3RUUV-Kc6iVU1bX8kNxCISeHGPK_Q2GwtPBONElHxa_-nf7VMfgquoHr-qK1HZRdU1h67hSV-Rvqfno21X59dS-0PMJw2N_9iuvj2nm9UZXDgEeQwh4Ev9o4fuvczLZvvugIa5JxIXhZGzjPBRSouowXbYl_Q5RRZQjg..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB&token=EA3D939484FD66E1C5C09F118B027D8DC68154D06A9DAAB0](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIOfFeoiwmuM2uYpi_QBM5f1qXa8Fplpd9r6XjpFb-_-bQJXeICw3RUUV-Kc6iVU1bX8kNxCISeHGPK_Q2GwtPBONElHxa_-nf7VMfgquoHr-qK1HZRdU1h67hSV-Rvqfno21X59dS-0PMJw2N_9iuvj2nm9UZXDgEeQwh4Ev9o4fuvczLZvvugIa5JxIXhZGzjPBRSouowXbYl_Q5RRZQjg..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB&token=EA3D939484FD66E1C5C09F118B027D8DC68154D06A9DAAB0) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIOfFeoiwmuM2uYpi_QBM5f1qXa8Fplpd9r6XjpFb-_-bQJXeICw3RUUV-Kc6iVU1bX8kNxCISeHGPK_Q2GwtPBONElHxa_-nf7VMfgquoHr-qK1HZRdU1h67hSV-Rvqfno21X59dS-0PMJw2N_9iuvj2nm9UZXDgEeQwh4Ev9o4fuvczLZvvugIa5JxIXhZGzjPBRSouowXbYl_Q5RRZQjg..&type=2&query=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%86%E7%B1%BB&token=EA3D939484FD66E1C5C09F118B027D8DC68154D06A9DAAB0 else 无
+- **摘要**: 按用途 分类 呢, 无人机 可以分为军用和民用两类,军用 无人机 在这里就不做过多介绍了,重点说一下民用 无人机 .第一种是影视 无人机 ...
+
+### 灵活就业医保 应用场景 在扩大:就医购药、家庭参保都能用
+- **来源**: 自助下单咨询中心
+- **时间**: 2026-09-06 10:00:41
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9umUe2_dTT4bvZleiRf7wB9D5Pmb0o5RtO6IsOvlVkWIDgDmFKOx0RDLxYIOr3xjCx6nuWM-TxGBF1agsDr30JOkln6AZacj6WyYpNWZw4iOtXjYHryt3eNKtZa4FEKjU8tPzdHCXzao-tpnnv7SXnr4Rqh2F9wgSLUdDgVlBAKSjotuuiAmOIg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9umUe2_dTT4bvZleiRf7wB9D5Pmb0o5RtO6IsOvlVkWIDgDmFKOx0RDLxYIOr3xjCx6nuWM-TxGBF1agsDr30JOkln6AZacj6WyYpNWZw4iOtXjYHryt3eNKtZa4FEKjU8tPzdHCXzao-tpnnv7SXnr4Rqh2F9wgSLUdDgVlBAKSjotuuiAmOIg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9umUe2_dTT4bvZleiRf7wB9D5Pmb0o5RtO6IsOvlVkWIDgDmFKOx0RDLxYIOr3xjCx6nuWM-TxGBF1agsDr30JOkln6AZacj6WyYpNWZw4iOtXjYHryt3eNKtZa4FEKjU8tPzdHCXzao-tpnnv7SXnr4Rqh2F9wgSLUdDgVlBAKSjotuuiAmOIg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3 else 无
+- **摘要**: 场景问:灵活就业医保 应用场景 在扩大:就医购药、家庭参保都能用 说场景:场景在扩 灵活就业医保 应用场景 在扩大就医购药家庭参...
+
+### 关于印发《山东省智慧城市建设 场景 培育开放 应用 实施方案》的通知
+- **来源**: 潭滔建设集团
+- **时间**: 2026-09-06 21:50:09
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9JYpiQKiVNr5LG-NH_rCa4tZFd36wABW0leLXy3FyAzhK9zWG6znqddY4G529jzOp_c8k584bXZt5Ay59rBiNa3xoA-AoWLpDONe3Bb_-_OwsxkfssH00a8RL3UEPBnxhuiyzqV4hSgNx4V5_TxFE--TOGkhomTFhOr0xIAzqPmIO8fIRwtipOg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9JYpiQKiVNr5LG-NH_rCa4tZFd36wABW0leLXy3FyAzhK9zWG6znqddY4G529jzOp_c8k584bXZt5Ay59rBiNa3xoA-AoWLpDONe3Bb_-_OwsxkfssH00a8RL3UEPBnxhuiyzqV4hSgNx4V5_TxFE--TOGkhomTFhOr0xIAzqPmIO8fIRwtipOg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9JYpiQKiVNr5LG-NH_rCa4tZFd36wABW0leLXy3FyAzhK9zWG6znqddY4G529jzOp_c8k584bXZt5Ay59rBiNa3xoA-AoWLpDONe3Bb_-_OwsxkfssH00a8RL3UEPBnxhuiyzqV4hSgNx4V5_TxFE--TOGkhomTFhOr0xIAzqPmIO8fIRwtipOg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3 else 无
+- **摘要**: 打造高潜能、高价值 应用场景 ,推动场景资源开放和高效配置.支持各市依托场景创新实验室等平台,利用大模型、数字孪生、低空感...
+
+### 全县数智“一张图” 应用场景 建设和城市更新工作专题会召开
+- **来源**: 通城发布
+- **时间**: 2026-09-06 21:34:21
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9A6uFWYCBup-peqn_vpGUJ8faoGcAFAQ_GhFi6BB9TNPltr4CEDfZ164oCOgyGHHaULW1mW3HwUjTpw_cPgENCGmfHlbEVYilyq_8opERifvIrCSAC9rpMojTsX9cBsqQ0ynM3sdN1ettANrHpfkBNIvIBUoPPPHsdcjz0KHYVendrgozfSg6bw..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9A6uFWYCBup-peqn_vpGUJ8faoGcAFAQ_GhFi6BB9TNPltr4CEDfZ164oCOgyGHHaULW1mW3HwUjTpw_cPgENCGmfHlbEVYilyq_8opERifvIrCSAC9rpMojTsX9cBsqQ0ynM3sdN1ettANrHpfkBNIvIBUoPPPHsdcjz0KHYVendrgozfSg6bw..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9A6uFWYCBup-peqn_vpGUJ8faoGcAFAQ_GhFi6BB9TNPltr4CEDfZ164oCOgyGHHaULW1mW3HwUjTpw_cPgENCGmfHlbEVYilyq_8opERifvIrCSAC9rpMojTsX9cBsqQ0ynM3sdN1ettANrHpfkBNIvIBUoPPPHsdcjz0KHYVendrgozfSg6bw..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3 else 无
+- **摘要**: 【全媒体记者 骆博】9月6日上午,全县数智“一张图” 应用场景 建设和城市更新工作专题会在县政数局召开.县委书记黄建平出席会...
+
+### 新能源全 场景 应用 与金属赋能探讨活动举行
+- **来源**: 山西综合广播
+- **时间**: 2026-09-06 21:19:02
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd99Sl8pNghQrr5CfJJvHALcda0NJzPjq61AZKFCPPSbBSOlII94N2fkzI-fAr09kyH87DaRM28K4feDJTN9d5UCHWkjFrXwxesz5ImqPm7EuFzvnn1sV9kno7m_CPOpOHvXtQG8KFTlRH6smSEAw9X9xVlngQt8RqVYfH7areWuz4Y-UZGbO56rA..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd99Sl8pNghQrr5CfJJvHALcda0NJzPjq61AZKFCPPSbBSOlII94N2fkzI-fAr09kyH87DaRM28K4feDJTN9d5UCHWkjFrXwxesz5ImqPm7EuFzvnn1sV9kno7m_CPOpOHvXtQG8KFTlRH6smSEAw9X9xVlngQt8RqVYfH7areWuz4Y-UZGbO56rA..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd99Sl8pNghQrr5CfJJvHALcda0NJzPjq61AZKFCPPSbBSOlII94N2fkzI-fAr09kyH87DaRM28K4feDJTN9d5UCHWkjFrXwxesz5ImqPm7EuFzvnn1sV9kno7m_CPOpOHvXtQG8KFTlRH6smSEAw9X9xVlngQt8RqVYfH7areWuz4Y-UZGbO56rA..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3 else 无
+- **摘要**: 9月4日,2026年太原能源低碳发展论坛新能源全 场景 应用 与金属赋能探讨活动在山西潇河国际会议中心举行.省政协副主席王蕾出席...
+
+### Day 43 消息队列的 5 个 应用场景 :扛住 10 万 QPS 不崩盘
+- **来源**: 彦博阅世
+- **时间**: 2026-09-06 21:01:48
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9jmENKqHOQHIqyaahLjwpTPBxe0MgASunaN6b7a1d5h-EeGhioDGSr18JJPgdPpwr1NFG9EYjCyzVEFTi7LUGZxJ0fkxSDa9EClq_AEL98rPG5CV09R7nzK8IFCs0GhzKn3f-FR9FEOX4pPvG-bfFLDDpcGeg_a6MPfo_-75huhrP28temKTOwg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9jmENKqHOQHIqyaahLjwpTPBxe0MgASunaN6b7a1d5h-EeGhioDGSr18JJPgdPpwr1NFG9EYjCyzVEFTi7LUGZxJ0fkxSDa9EClq_AEL98rPG5CV09R7nzK8IFCs0GhzKn3f-FR9FEOX4pPvG-bfFLDDpcGeg_a6MPfo_-75huhrP28temKTOwg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIfbifKHFouyOuYpi_QBM5f1qXa8Fplpd9jmENKqHOQHIqyaahLjwpTPBxe0MgASunaN6b7a1d5h-EeGhioDGSr18JJPgdPpwr1NFG9EYjCyzVEFTi7LUGZxJ0fkxSDa9EClq_AEL98rPG5CV09R7nzK8IFCs0GhzKn3f-FR9FEOX4pPvG-bfFLDDpcGeg_a6MPfo_-75huhrP28temKTOwg..&type=2&query=%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF&token=EA3DA2A8C5BE26A38483DF51C87DC94C85C667906A9DAAB3 else 无
+- **摘要**: 场景 全景一、先说结论:同步调用是系统的隐形炸弹你有没有在大促当天看着订单接口 RT 从 100ms 飙到 30s,DB 直接被拖死?我见过...
+
+### 47张新质生产力 产业链图谱 !
+- **来源**: 先进制造业
+- **时间**: 2024-05-07 17:07:15
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIGUrJfJ0E7OyuYpi_QBM5f1qXa8Fplpd9JYMeg_zO1QlxrLbNtkdWvP7FJs58x-2uI-IGa70rmE3SvN4GZIF90ptmvqEmsMe1U0YTLO8uik_PkDV3INA8Ukjj01soMsC4UvneY6_5eoFG2XaFmOgSv8d2y0MMplZK0RyERcEmF2iszrn5a2rZ4t__Uc9XTwa56oMWMFFGVeQO8fIRwtipOg..&type=2&query=%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%9B%BE%E8%B0%B1&token=EA3DB137B5C857D3F4F2AE27BAD48CF4F4BFBE6F6A9DAAB7](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIGUrJfJ0E7OyuYpi_QBM5f1qXa8Fplpd9JYMeg_zO1QlxrLbNtkdWvP7FJs58x-2uI-IGa70rmE3SvN4GZIF90ptmvqEmsMe1U0YTLO8uik_PkDV3INA8Ukjj01soMsC4UvneY6_5eoFG2XaFmOgSv8d2y0MMplZK0RyERcEmF2iszrn5a2rZ4t__Uc9XTwa56oMWMFFGVeQO8fIRwtipOg..&type=2&query=%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%9B%BE%E8%B0%B1&token=EA3DB137B5C857D3F4F2AE27BAD48CF4F4BFBE6F6A9DAAB7) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIGUrJfJ0E7OyuYpi_QBM5f1qXa8Fplpd9JYMeg_zO1QlxrLbNtkdWvP7FJs58x-2uI-IGa70rmE3SvN4GZIF90ptmvqEmsMe1U0YTLO8uik_PkDV3INA8Ukjj01soMsC4UvneY6_5eoFG2XaFmOgSv8d2y0MMplZK0RyERcEmF2iszrn5a2rZ4t__Uc9XTwa56oMWMFFGVeQO8fIRwtipOg..&type=2&query=%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%9B%BE%E8%B0%B1&token=EA3DB137B5C857D3F4F2AE27BAD48CF4F4BFBE6F6A9DAAB7 else 无
+- **摘要**: 新基建-工业互联网 产业链图谱 新基建-大数据 产业链图谱 新基建-人工智能 产业链图谱 智能汽车 产业链图谱 智能网联汽车 产业链图谱 智能...
+
+
+> 本期共收录 7 篇文章
+
+---
+

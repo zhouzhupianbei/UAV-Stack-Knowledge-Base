@@ -186,3 +186,35 @@
 
 ---
 
+
+## 2026-09-07 更新
+
+### Cesium 最新动态速览(3月12日-3月19日)
+- **来源**: GIS技术杂谈
+- **时间**: 2026-03-31 11:24:08
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkITeCooiDFpO-uYpi_QBM5f1qXa8Fplpd9oMVwUMT-27oQkEeUKiyM5fCEbOOHQmbfnM3Vy2qsBLVxZ_1u0YqXxipyK-VXNrDYPPorwY_nWVBbm6w_fmjilkZTFKCr6nAxZzOydIdaKlnVYTDsZuYQ-lb9a9kDWTUpcENb7Az6PXuaf9c2L88fk_J2-WHU1md6ZhICujfT7feTJmCU1UgHwQ..&type=2&query=Cesium&token=EA3BDF5D037AE166414418950AC50D2942C5A6696A9DAA58](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkITeCooiDFpO-uYpi_QBM5f1qXa8Fplpd9oMVwUMT-27oQkEeUKiyM5fCEbOOHQmbfnM3Vy2qsBLVxZ_1u0YqXxipyK-VXNrDYPPorwY_nWVBbm6w_fmjilkZTFKCr6nAxZzOydIdaKlnVYTDsZuYQ-lb9a9kDWTUpcENb7Az6PXuaf9c2L88fk_J2-WHU1md6ZhICujfT7feTJmCU1UgHwQ..&type=2&query=Cesium&token=EA3BDF5D037AE166414418950AC50D2942C5A6696A9DAA58) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkITeCooiDFpO-uYpi_QBM5f1qXa8Fplpd9oMVwUMT-27oQkEeUKiyM5fCEbOOHQmbfnM3Vy2qsBLVxZ_1u0YqXxipyK-VXNrDYPPorwY_nWVBbm6w_fmjilkZTFKCr6nAxZzOydIdaKlnVYTDsZuYQ-lb9a9kDWTUpcENb7Az6PXuaf9c2L88fk_J2-WHU1md6ZhICujfT7feTJmCU1UgHwQ..&type=2&query=Cesium&token=EA3BDF5D037AE166414418950AC50D2942C5A6696A9DAA58 else 无
+- **摘要**: 3月12日:3D Tiles 2.0 预览公开上周在 @opengeospatial 会员会议上, Cesium 公开了 3D Tiles 2.0 的预览!你可以通过以下链接查看...
+
+### 奥迪Q3跌破19万 入门 豪华SUV暴降10万卖出白菜价!
+- **来源**: 腾讯汽车
+- **时间**: 2016-06-28 12:24:01
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DC1oUP4pUIJh8CIhm8q7ZKiVgrFeYQugDkZvvLI-2NL4lck3jId0NR1_3dsmNG5zxZy2HBwqxFEwV42szLUmqbJqpPn7wL7fPu30nd2epBASeZFXOVp20IUKJlGYvU-zCjZed5TpsfkOeeWPKZn1CZHOTm9mIaE2bGRCAvgs8ZHHH2bvHsbU0Ntd8XhKKaAHcT75BzDkBzKwbxlot5zXYKtXRoHSGAg9-PPzpfRyrQj6cELDKp-dkoQU_QnmTgxTLIG6bGrjj5iWiZqwg0yoRFw.&type=2&query=%E5%85%A5%E9%97%A8&token=EA3BEE4C275EC54266633CB22DDEBD666654ABB46A9DAA5B](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DC1oUP4pUIJh8CIhm8q7ZKiVgrFeYQugDkZvvLI-2NL4lck3jId0NR1_3dsmNG5zxZy2HBwqxFEwV42szLUmqbJqpPn7wL7fPu30nd2epBASeZFXOVp20IUKJlGYvU-zCjZed5TpsfkOeeWPKZn1CZHOTm9mIaE2bGRCAvgs8ZHHH2bvHsbU0Ntd8XhKKaAHcT75BzDkBzKwbxlot5zXYKtXRoHSGAg9-PPzpfRyrQj6cELDKp-dkoQU_QnmTgxTLIG6bGrjj5iWiZqwg0yoRFw.&type=2&query=%E5%85%A5%E9%97%A8&token=EA3BEE4C275EC54266633CB22DDEBD666654ABB46A9DAA5B) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DC1oUP4pUIJh8CIhm8q7ZKiVgrFeYQugDkZvvLI-2NL4lck3jId0NR1_3dsmNG5zxZy2HBwqxFEwV42szLUmqbJqpPn7wL7fPu30nd2epBASeZFXOVp20IUKJlGYvU-zCjZed5TpsfkOeeWPKZn1CZHOTm9mIaE2bGRCAvgs8ZHHH2bvHsbU0Ntd8XhKKaAHcT75BzDkBzKwbxlot5zXYKtXRoHSGAg9-PPzpfRyrQj6cELDKp-dkoQU_QnmTgxTLIG6bGrjj5iWiZqwg0yoRFw.&type=2&query=%E5%85%A5%E9%97%A8&token=EA3BEE4C275EC54266633CB22DDEBD666654ABB46A9DAA5B else 无
+- **摘要**: 宝马X1是华晨宝马国产的首款X系列产品,定位于 入门 级城市SUV市场,宝马X1在设计方面充满了大气、时尚的气质,前进气格栅依...
+
+### Web3D|浅谈GIS+AI:从Cesium到WebGPU+AI,探索新一代数字 地球引擎 (一)
+- **来源**: Mind3D
+- **时间**: 2026-08-29 23:44:09
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIILb_ALuUqMCuYpi_QBM5f1qXa8Fplpd9okW7mJGpx1zv3IBiY5LFmVwED0PQKTQleotyEKouzlYXuG9psdyqXpLRuZvgjmeoy7eE1xmmmnTfJjzBSX7l-K5-gW-l7wVeU78w5MXuoU_Ql6xRCME0HBKmAPElzu6X9zKucdaJDBDWE3G1UAe6nMrxTTpk0twg5z2-j5xBlFtFkDr8IT4KYw..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=EA3BFD78116BF37651570A8518B98BB051261D126A9DAA5F](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIILb_ALuUqMCuYpi_QBM5f1qXa8Fplpd9okW7mJGpx1zv3IBiY5LFmVwED0PQKTQleotyEKouzlYXuG9psdyqXpLRuZvgjmeoy7eE1xmmmnTfJjzBSX7l-K5-gW-l7wVeU78w5MXuoU_Ql6xRCME0HBKmAPElzu6X9zKucdaJDBDWE3G1UAe6nMrxTTpk0twg5z2-j5xBlFtFkDr8IT4KYw..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=EA3BFD78116BF37651570A8518B98BB051261D126A9DAA5F) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIILb_ALuUqMCuYpi_QBM5f1qXa8Fplpd9okW7mJGpx1zv3IBiY5LFmVwED0PQKTQleotyEKouzlYXuG9psdyqXpLRuZvgjmeoy7eE1xmmmnTfJjzBSX7l-K5-gW-l7wVeU78w5MXuoU_Ql6xRCME0HBKmAPElzu6X9zKucdaJDBDWE3G1UAe6nMrxTTpk0twg5z2-j5xBlFtFkDr8IT4KYw..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=EA3BFD78116BF37651570A8518B98BB051261D126A9DAA5F else 无
+- **摘要**: 这样的 三维地球引擎 ,则成为两者结合的最佳实验场.这篇文章不是最终结论,而是一个阶段性预告.从 Cesium 到 WebGPU + AI,...
+
+### CesiumJS 的新对手?开源 3D 地图 引擎 Navara 全方位拆解
+- **来源**: sky的数孪技术
+- **时间**: 2026-08-31 11:24:01
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIILb_ALuUqMCuYpi_QBM5f1qXa8Fplpd90LlHVGETmrM9sIMwW0HHxnOVzPYx9ew_b5MjOdi_GhhH4CdeEBmj-ZDG4ea_4OAb2qLNvZ3gF7lykeywlRBSF8WXv6qG9-r_PALVwRHCreGRlaoMlMDnt5eWK0N16JKbW-M6FsLrGg3v5oPsheQjTJ7TRzmdWGAd0cgKQvaPYBTvzHZXxeLdyg..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=EA3BFD78116BF37651570A8518B98BB051261D126A9DAA5F](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIILb_ALuUqMCuYpi_QBM5f1qXa8Fplpd90LlHVGETmrM9sIMwW0HHxnOVzPYx9ew_b5MjOdi_GhhH4CdeEBmj-ZDG4ea_4OAb2qLNvZ3gF7lykeywlRBSF8WXv6qG9-r_PALVwRHCreGRlaoMlMDnt5eWK0N16JKbW-M6FsLrGg3v5oPsheQjTJ7TRzmdWGAd0cgKQvaPYBTvzHZXxeLdyg..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=EA3BFD78116BF37651570A8518B98BB051261D126A9DAA5F) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIILb_ALuUqMCuYpi_QBM5f1qXa8Fplpd90LlHVGETmrM9sIMwW0HHxnOVzPYx9ew_b5MjOdi_GhhH4CdeEBmj-ZDG4ea_4OAb2qLNvZ3gF7lykeywlRBSF8WXv6qG9-r_PALVwRHCreGRlaoMlMDnt5eWK0N16JKbW-M6FsLrGg3v5oPsheQjTJ7TRzmdWGAd0cgKQvaPYBTvzHZXxeLdyg..&type=2&query=%E4%B8%89%E7%BB%B4%E5%9C%B0%E7%90%83%E5%BC%95%E6%93%8E&token=EA3BFD78116BF37651570A8518B98BB051261D126A9DAA5F else 无
+- **摘要**: 渲染的 三维地球 场景概念图01Navara 是什么一句话概括:Navara 是一个高度可扩展的 3D 地图 引擎 .它能把卫星影像、地形、三维城...
+
+
+> 本期共收录 4 篇文章
+
+---
+

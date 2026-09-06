@@ -535,3 +535,23 @@
 
 ---
 
+
+## 2026-09-07 更新
+
+### 第60篇:开发 AI 工具 对比与选型 ——按场景选最顺手的那把刀
+- **来源**: 虎哥的AI干货铺
+- **时间**: 2026-09-04 21:36:17
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIDJwMYpqaSDuuYpi_QBM5f1qXa8Fplpd9tGCHwwS2RDCKeLd3sGEqFZoyWuaRuG1t3Lm_zaJDN4mrhtGZ7G6e6lyTa362qzXraFN-87qBd4lUKlfuGcV49JD6XrOZO_4Hs5Ze4jQFidMf-HbjHaza_3P9e98hXWTFkmrpv_opoviVFLb1DEk6nRFGPYVoAQjVFhnP2nMhGg_vzHZXxeLdyg..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=EA3CC126C3BA21A58287DB56CA9CA86A821EB9306A9DAA84](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIDJwMYpqaSDuuYpi_QBM5f1qXa8Fplpd9tGCHwwS2RDCKeLd3sGEqFZoyWuaRuG1t3Lm_zaJDN4mrhtGZ7G6e6lyTa362qzXraFN-87qBd4lUKlfuGcV49JD6XrOZO_4Hs5Ze4jQFidMf-HbjHaza_3P9e98hXWTFkmrpv_opoviVFLb1DEk6nRFGPYVoAQjVFhnP2nMhGg_vzHZXxeLdyg..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=EA3CC126C3BA21A58287DB56CA9CA86A821EB9306A9DAA84) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIDJwMYpqaSDuuYpi_QBM5f1qXa8Fplpd9tGCHwwS2RDCKeLd3sGEqFZoyWuaRuG1t3Lm_zaJDN4mrhtGZ7G6e6lyTa362qzXraFN-87qBd4lUKlfuGcV49JD6XrOZO_4Hs5Ze4jQFidMf-HbjHaza_3P9e98hXWTFkmrpv_opoviVFLb1DEk6nRFGPYVoAQjVFhnP2nMhGg_vzHZXxeLdyg..&type=2&query=%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B&token=EA3CC126C3BA21A58287DB56CA9CA86A821EB9306A9DAA84 else 无
+- **摘要**: 插件不换编辑器,改动最小方案60 对比与选型 工具是壳,提问能力才是资产如果到现在一个工具都没装,今天就装 VS Code+Qoder ...
+
+### 卫星云化 地面站 与 软件 定义运营
+- **来源**: Miwind
+- **时间**: 2026-03-21 00:02:17
+- **链接**: [https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIWrN1l1yQZdeuYpi_QBM5f1qXa8Fplpd99SGa2_f1rg3oMTjCNRDFFlDx6QwWS7qH_iuK1ObJwp2MC2-ourquvgUVvAASHr-RbOe_SeahUeg01BYcsETXoBDCTx8hw-ikjjydYIGnBVZahr3HLPpPGv3IwikTKA3M-uUnl3WorwZKYeSzK6unAbQkggU4K0xjPv5TZGYh0AuAFV_3u-a3OQ..&type=2&query=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6&token=EA3CD0DC99EC7BF0D7D18D039C99C9A8D830A0DE6A9DAA87](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIWrN1l1yQZdeuYpi_QBM5f1qXa8Fplpd99SGa2_f1rg3oMTjCNRDFFlDx6QwWS7qH_iuK1ObJwp2MC2-ourquvgUVvAASHr-RbOe_SeahUeg01BYcsETXoBDCTx8hw-ikjjydYIGnBVZahr3HLPpPGv3IwikTKA3M-uUnl3WorwZKYeSzK6unAbQkggU4K0xjPv5TZGYh0AuAFV_3u-a3OQ..&type=2&query=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6&token=EA3CD0DC99EC7BF0D7D18D039C99C9A8D830A0DE6A9DAA87) if https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIWrN1l1yQZdeuYpi_QBM5f1qXa8Fplpd99SGa2_f1rg3oMTjCNRDFFlDx6QwWS7qH_iuK1ObJwp2MC2-ourquvgUVvAASHr-RbOe_SeahUeg01BYcsETXoBDCTx8hw-ikjjydYIGnBVZahr3HLPpPGv3IwikTKA3M-uUnl3WorwZKYeSzK6unAbQkggU4K0xjPv5TZGYh0AuAFV_3u-a3OQ..&type=2&query=%E5%9C%B0%E9%9D%A2%E7%AB%99%E8%BD%AF%E4%BB%B6&token=EA3CD0DC99EC7BF0D7D18D039C99C9A8D830A0DE6A9DAA87 else 无
+- **摘要**: 云化 地面站 与 软件 定义运营代表了卫星运营模式的根本性变革.传统 地面站 建设成本高昂,每个大型天线可能耗资数百万美元,且建设...
+
+
+> 本期共收录 2 篇文章
+
+---
+

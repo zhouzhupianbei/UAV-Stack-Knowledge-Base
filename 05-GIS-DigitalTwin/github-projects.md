@@ -62,3 +62,17 @@
 
 ---
 
+
+## 2026-09-07 更新
+
+### Aisland-SJL/StarMap
+- **Stars**: 63
+- **描述**: ⭐ StarMap — your personal star-charted travel atlas: footprints, photos, and drone panoramas on an interactive Cesium globe.
+- **链接**: [https://github.com/Aisland-SJL/StarMap](https://github.com/Aisland-SJL/StarMap)
+- **标签**: cesium, digital-globe, open-source, portfolio, react
+
+
+> 本期共收录 1 个项目
+
+---
+
